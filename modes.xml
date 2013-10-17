@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="kaz-kaa" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaz-kaa.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaz-kaa.t1x"/>
+        <file name="kaz-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaz-kaa.t2x"/>
+        <file name="kaz-kaa.t2x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="kaz-kaa.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kaz-kaa.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaz-kaa-debug" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaz-kaa.t1x"/>
+        <file name="kaz-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaz-kaa.t2x"/>
+        <file name="kaz-kaa.t2x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="kaz-kaa.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kaz-kaa.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  
+  <mode name="kaz-kaa-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaz-kaa-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="kaz-kaa-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="kaz-kaa-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaz-kaa-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="kaz-kaa.lrx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="kaz-kaa-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaz-kaa.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -t -b">
+        <file name="apertium-kaz-kaa.kaz-kaa.t1x"/>
+        <file name="kaz-kaa.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaz-kaa-transfer2" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaz-kaa.automorf.bin"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kaz-kaa.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaz-kaa.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaz-kaa.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaz-kaa.t1x"/>
+        <file name="kaz-kaa.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaz-kaa.t2x"/>
+        <file name="kaz-kaa.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  
+  <mode name="kaa-kaz" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaa-kaz.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaa-kaz.t1x"/>
+        <file name="kaa-kaz.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaa-kaz.t2x"/>
+        <file name="kaa-kaz.t2x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="kaa-kaz.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kaa-kaz.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-kaz-debug" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaa-kaz.t1x"/>
+        <file name="kaa-kaz.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaa-kaz.t2x"/>
+        <file name="kaa-kaz.t2x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="kaa-kaz.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  
+  <mode name="kaa-kaz-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-kaz-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a "/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="kaa-kaz-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-kaz-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-kaz-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc  -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="kaa-kaz.lrx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="kaa-kaz-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaa-kaz.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -t -b">
+        <file name="apertium-kaz-kaa.kaa-kaz.t1x"/>
+        <file name="kaa-kaz.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kaa-kaz-transfer2" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kaa-kaz.automorf.bin"/>
+      </program>
+      <program name="cg-proc -n -w -1">
+        <file name="kaa-kaz.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="kaa-kaz.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="kaa-kaz.lrx.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-kaz-kaa.kaa-kaz.t1x"/>
+        <file name="kaa-kaz.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-kaz-kaa.kaa-kaz.t2x"/>
+        <file name="kaa-kaz.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+</modes>
+
+

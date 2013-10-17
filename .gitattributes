@@ -1,4 +1,26 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-kaz-kaa.kaa-kaz.LR.att.gz -text
+/apertium-kaz-kaa.kaa-kaz.RL.att.gz -text
+/apertium-kaz-kaa.kaa-kaz.lrx -text
+/apertium-kaz-kaa.kaa-kaz.rlx -text
+/apertium-kaz-kaa.kaa-kaz.t1x -text
+/apertium-kaz-kaa.kaa-kaz.t2x -text
+/apertium-kaz-kaa.kaz-kaa.LR.att.gz -text
+/apertium-kaz-kaa.kaz-kaa.RL.att.gz -text
 /apertium-kaz-kaa.kaz-kaa.dix -text
+/apertium-kaz-kaa.kaz-kaa.lrx -text
+/apertium-kaz-kaa.kaz-kaa.rlx -text
+/apertium-kaz-kaa.kaz-kaa.t1x -text
+/apertium-kaz-kaa.kaz-kaa.t2x -text
+/autogen.sh -text
+/configure.ac -text
 dev/bidix.tsv -text
 dev/process-tsv.py -text
+/modes.xml -text
+/update-morphs.bash -text
