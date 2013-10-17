@@ -67,6 +67,7 @@
     <!-- SECTION: Determiners -->
     <!-- SECTION: Numerals -->
     <!-- SECTION: Nouns -->
+    <e><p><l>автономия<s n="n"/></l><r>avtonomiya<s n="n"/></r></p></e>
     <e><p><l>автор<s n="n"/></l><r>avtor<s n="n"/></r></p></e>
     <e><p><l>агенттік<s n="n"/></l><r>agentlik<s n="n"/></r></p></e>
     <e><p><l>азамат<s n="n"/></l><r>azamat<s n="n"/></r></p></e>
@@ -84,6 +85,8 @@
     <!-- SECTION: Adjectives -->
     <!-- SECTION: Adverbs -->
     <!-- SECTION: Verbs -->
+    <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+
 
 
     <!-- SECTION: Punctuation -->
