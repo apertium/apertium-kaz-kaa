@@ -18,6 +18,8 @@
 /apertium-kaz-kaa.kaz-kaa.rlx -text
 /apertium-kaz-kaa.kaz-kaa.t1x -text
 /apertium-kaz-kaa.kaz-kaa.t2x -text
+/apertium-kaz-kaa.post-kaa.dix -text
+/apertium-kaz-kaa.post-kaz.dix -text
 /autogen.sh -text
 /configure.ac -text
 dev/bidix.tsv -text

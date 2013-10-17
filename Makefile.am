@@ -148,8 +148,7 @@ modes/$(PREFIX1).mode: modes.xml
 	apertium-gen-modes modes.xml
 	cp *.mode modes/
 
-EXTRA_DIST=$(PREFIX1).prob $(PREFIX2).prob \
-           $(BASENAME).$(PREFIX1).rlx \
+EXTRA_DIST=$(BASENAME).$(PREFIX1).rlx \
            $(BASENAME).$(PREFIX1).lrx \
            $(BASENAME).$(PREFIX1).LR.att.gz \
            $(BASENAME).$(PREFIX1).RL.att.gz \
@@ -166,11 +165,14 @@ EXTRA_DIST=$(PREFIX1).prob $(PREFIX2).prob \
            $(BASENAME).$(PREFIX2).t2x \
            modes.xml
 
+#$(PREFIX1).prob $(PREFIX2).prob 
+
 apertium_kaz_kaamodesdir=$(prefix)/share/apertium/modes/
 apertium_kaz_kaadir=$(prefix)/share/apertium/$(BASENAME)/
 
+#                    $(PREFIX1).prob $(PREFIX2).prob 
+
 apertium_kaz_kaa_DATA=$(TARGETS_COMMON) \
-                    $(PREFIX1).prob $(PREFIX2).prob \
 		    modes.xml
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
