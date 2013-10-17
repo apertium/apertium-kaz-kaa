@@ -2,12 +2,14 @@
   <alphabet/>
   <sdefs>
     <sdef n="post"/>
+    <sdef n="cop"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="prn"/>
     <sdef n="det"/>
     <sdef n="num"/>
     <sdef n="n"/>
+    <sdef n="np"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
     <sdef n="v"/>
@@ -23,6 +25,12 @@
     <sdef n="rquot"/>
   </sdefs>
   <section id="main" type="standard">
+
+    <!-- SECTION: Copula -->
+
+    <e><p><l>е<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
+
+
     <!-- SECTION: Conjunctions -->
     <e><p><l>ал<s n="cnjcoo"/></l><r>al<s n="cnjcoo"/></r></p></e>
     <e><p><l>біресе<s n="cnjcoo"/></l><r>birese<s n="cnjcoo"/></r></p></e>
@@ -72,13 +80,13 @@
     <e><p><l>археолог<s n="n"/></l><r>arxeolog<s n="n"/></r></p></e>
     <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
 
+    <!-- SECTION: Proper nouns -->
     <!-- SECTION: Adjectives -->
     <!-- SECTION: Adverbs -->
     <!-- SECTION: Verbs -->
 
 
     <!-- SECTION: Punctuation -->
-    
     
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>

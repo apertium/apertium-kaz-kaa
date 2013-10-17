@@ -9,10 +9,16 @@ def proc_word(s): #{
 	return o;
 #}
 
-punctuation = '''
+sec_copula = '''
+    <!-- SECTION: Copula -->
+
+    <e><p><l>е<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
+
+''';
+
+sec_punctuation = '''
 
     <!-- SECTION: Punctuation -->
-    
     
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
     <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
@@ -31,7 +37,7 @@ punctuation = '''
 
 ''';
 
-pos_list = ['cnjcoo', 'cnjsub', 'post', 'pron', 'det', 'num', 'n', 'adj', 'adv', 'vt', 'vi'];
+pos_list = ['cnjcoo', 'cnjsub', 'post', 'pron', 'det', 'num', 'n', 'np', 'adj', 'adv', 'vt', 'vi'];
 
 pos_name = {
 	'post': 'Postpositions',
@@ -40,6 +46,7 @@ pos_name = {
 	'num': 'Numerals',
 	'cnjcoo': 'Conjunctions',
 	'n': 'Nouns',
+	'np': 'Proper nouns',
 	'adj': 'Adjectives',
 	'adv': 'Adverbs',
 	'vt': 'Verbs',
@@ -59,7 +66,7 @@ pos_sym = {
 	'vi': '<s n="v"/><s n="iv"/>'
 };
 
-sym_list = ['post', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'adj', 'adv', 'v', 'tv', 'iv', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
+sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
 
 
 print('<dictionary>');
@@ -70,6 +77,8 @@ for sym in sym_list: #{
 #}
 print('  </sdefs>');
 print('  <section id="main" type="standard">');
+
+print(sec_copula);
 
 num_entries = 0;
 num_checked = 0;
@@ -121,7 +130,7 @@ for pos in pos_list: #{
 	print('');
 #}
 
-print(punctuation);
+print(sec_punctuation);
 
 print('  </section>');
 print('</dictionary>');
