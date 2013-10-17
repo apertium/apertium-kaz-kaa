@@ -15,6 +15,7 @@
     <sdef n="v"/>
     <sdef n="tv"/>
     <sdef n="iv"/>
+    <sdef n="top"/>
     <sdef n="sent"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
@@ -89,6 +90,8 @@
     <!-- SECTION: Adjectives -->
     <!-- SECTION: Adverbs -->
     <!-- SECTION: Verbs -->
+    <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
 
 
