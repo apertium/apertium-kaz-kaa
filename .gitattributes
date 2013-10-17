@@ -24,5 +24,6 @@
 /configure.ac -text
 dev/bidix.tsv -text
 dev/process-tsv.py -text
+dev/proper-nouns.dix -text
 /modes.xml -text
 /update-morphs.bash -text

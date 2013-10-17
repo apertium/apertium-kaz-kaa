@@ -37,6 +37,8 @@ sec_punctuation = '''
 
 ''';
 
+sec_proper_nouns = ''.join(open('proper-nouns.dix').readlines());
+
 pos_list = ['cnjcoo', 'cnjsub', 'post', 'pron', 'det', 'num', 'n', 'np', 'adj', 'adv', 'vt', 'vi'];
 
 pos_name = {
@@ -116,6 +118,10 @@ for line in sys.stdin.readlines(): #{
 #}
 
 for pos in pos_list: #{
+	if pos == 'np': #{
+		print(sec_proper_nouns);
+		continue;
+	#}
 	if pos in pos_name: #{
 		print('    <!-- SECTION:', pos_name[pos], '-->');
 	#}
