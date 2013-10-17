@@ -1,0 +1,4 @@
+* text=auto !eol
+/apertium-kaz-kaa.kaz-kaa.dix -text
+dev/bidix.tsv -text
+dev/process-tsv.py -text

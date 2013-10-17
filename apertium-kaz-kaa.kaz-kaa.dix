@@ -1,0 +1,72 @@
+<dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="cnjcoo"/>
+    <sdef n="cnjsub"/>
+    <sdef n="post"/>
+    <sdef n="prn"/>
+    <sdef n="det"/>
+    <sdef n="n"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="v"/>
+    <sdef n="tv"/>
+    <sdef n="iv"/>
+  </sdefs>
+  <section id="main" type="standard">
+
+    <!-- SECTION:  Conjunctions  -->
+    <e><p><l>ал<s n="cnjcoo"/></l><r>al<s n="cnjcoo"/></r></p></e>
+    <e><p><l>біресе<s n="cnjcoo"/></l><r>birese<s n="cnjcoo"/></r></p></e>
+    <e><p><l>немесе<s n="cnjcoo"/></l><r>yamasa<s n="cnjcoo"/></r></p></e>
+    <e><p><l>сондай-ақ<s n="cnjcoo"/></l><r>sonday-aq<s n="cnjcoo"/></r></p></e>
+    <e><p><l>тек<s n="cnjcoo"/></l><r>tek<s n="cnjcoo"/></r></p></e>
+    <e><p><l>һәм<s n="cnjcoo"/></l><r>ha'm<s n="cnjcoo"/></r></p></e>
+    <e><p><l>я<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>егер<s n="cnjsub"/></l><r>eger<s n="cnjsub"/></r></p></e>
+    <e><p><l>егерде<s n="cnjsub"/></l><r>egerde<s n="cnjsub"/></r></p></e>
+    <e><p><l>мүбада<s n="cnjsub"/></l><r>ma'bada<s n="cnjsub"/></r></p></e>
+    <e><p><l>өйткені<s n="cnjsub"/></l><r>o'ytkeni<s n="cnjsub"/></r></p></e>
+    <e><p><l>онда<s n="cnjsub"/></l><r>onda<s n="cnjsub"/></r></p></e>
+    <e><p><l>ондай<b/>болса<s n="cnjsub"/></l><r>onday<b/>bolsa<s n="cnjsub"/></r></p></e>
+    <e><p><l>себебі<s n="cnjsub"/></l><r>sebebi<s n="cnjsub"/></r></p></e>
+    <e><p><l>яғни<s n="cnjsub"/></l><r>yag'nıy<s n="cnjsub"/></r></p></e>
+
+    <!-- SECTION:  Postpositions  -->
+    <e><p><l>арқылы<s n="post"/></l><r>arqalı<s n="post"/></r></p></e>
+    <e><p><l>арналған<s n="post"/></l><r>arnalg'an<s n="post"/></r></p></e>
+    <e><p><l>басқа<s n="post"/></l><r>basqa<s n="post"/></r></p></e>
+    <e><p><l>бері<s n="post"/></l><r>beri<s n="post"/></r></p></e>
+    <e><p><l>бетер<s n="post"/></l><r>beter<s n="post"/></r></p></e>
+    <e><p><l>бірге<s n="post"/></l><r>birge<s n="post"/></r></p></e>
+    <e><p><l>бойында<s n="post"/></l><r>boyında<s n="post"/></r></p></e>
+    <e><p><l>бойынша<s n="post"/></l><r>boyınsha<s n="post"/></r></p></e>
+    <e><p><l>бұрын<s n="post"/></l><r>burın<s n="post"/></r></p></e>
+    <e><p><l>гөрі<s n="post"/></l><r>ko're<s n="post"/></r></p></e>
+    <e><p><l>ғұрлы<s n="post"/></l><r>qurlı<s n="post"/></r></p></e>
+    <e><p><l>дейін<s n="post"/></l><r>deyin<s n="post"/></r></p></e>
+
+    <!-- SECTION:  Pronouns  -->
+    <!-- SECTION:  Determiners  -->
+    <!-- SECTION:  Numerals  -->
+    <!-- SECTION:  Nouns  -->
+    <e><p><l>автор<s n="n"/></l><r>avtor<s n="n"/></r></p></e>
+    <e><p><l>агенттік<s n="n"/></l><r>agentlik<s n="n"/></r></p></e>
+    <e><p><l>азамат<s n="n"/></l><r>azamat<s n="n"/></r></p></e>
+    <e><p><l>академик<s n="n"/></l><r>akademik<s n="n"/></r></p></e>
+    <e><p><l>академия<s n="n"/></l><r>akademiya<s n="n"/></r></p></e>
+    <e><p><l>актер<s n="n"/></l><r>aktyor<s n="n"/></r></p></e>
+    <e><p><l>акция<s n="n"/></l><r>akciya<s n="n"/></r></p></e>
+    <e><p><l>ансамбль<s n="n"/></l><r>ansambl<s n="n"/></r></p></e>
+    <e><p><l>антропология<s n="n"/></l><r>antropologiya<s n="n"/></r></p></e>
+    <e><p><l>армия<s n="n"/></l><r>armiya<s n="n"/></r></p></e>
+    <e><p><l>археолог<s n="n"/></l><r>arxeolog<s n="n"/></r></p></e>
+    <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
+
+    <!-- SECTION:  Adjectives  -->
+    <!-- SECTION:  Adverbs  -->
+    <!-- SECTION:  Verbs  -->
+
+  </section>
+</dictionary>
