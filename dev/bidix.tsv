@@ -1242,7 +1242,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 мекен	n	meken		
 мектеп	n	mektep		
 мембрана	n	membrana		
-мемлекет	n	memleket		
+мемлекет	n	memleket	x	
 меншік	n	menshik		
 меңгеруші	n	men'gerwshi		
 мерәсім	n	mera'sim		
@@ -1823,7 +1823,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 тізім	n	tizim		
 тілек	n	tilek		
 тілмаш	n	tilmash		
-тіл	n	til		
+тіл	n	til	x	
 тілші	n	tilshi		
 тіршілік	n	tirshilik		
 тіс	n	tis		

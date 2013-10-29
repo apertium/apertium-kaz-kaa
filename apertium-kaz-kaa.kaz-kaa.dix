@@ -184,8 +184,10 @@
     <e><p><l>армия<s n="n"/></l><r>armiya<s n="n"/></r></p></e>
     <e><p><l>археолог<s n="n"/></l><r>arxeolog<s n="n"/></r></p></e>
     <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
+    <e><p><l>мемлекет<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
     <e><p><l>президент<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
     <e><p><l>республика<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
+    <e><p><l>тіл<s n="n"/></l><r>til<s n="n"/></r></p></e>
     <e><p><l>шығыс<s n="n"/></l><r>shıg'ıs<s n="n"/></r></p></e>
     <e><p><l>өзбек<s n="n"/></l><r>o'zbek<s n="n"/></r></p></e>
     <e><p><l>татар<s n="n"/></l><r>tatar<s n="n"/></r></p></e>
@@ -213,7 +215,11 @@
 
     <!-- SECTION: Abbreviations -->
 
+    <e><p><l>т.б.<s n="abbr"/></l><r>t.b.<s n="abbr"/></r></p></e>
+    <e><p><l>кг<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
+    <e><p><l>км<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
+    <e><p><l>км³<s n="abbr"/></l><r>km³<s n="abbr"/></r></p></e>
 
 
 

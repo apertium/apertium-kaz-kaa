@@ -40,7 +40,11 @@ sec_punctuation = '''
 sec_abbreviations = '''
     <!-- SECTION: Abbreviations -->
 
+    <e><p><l>т.б.<s n="abbr"/></l><r>t.b.<s n="abbr"/></r></p></e>
+    <e><p><l>кг<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
+    <e><p><l>км<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
+    <e><p><l>км³<s n="abbr"/></l><r>km³<s n="abbr"/></r></p></e>
 
 ''';
 
