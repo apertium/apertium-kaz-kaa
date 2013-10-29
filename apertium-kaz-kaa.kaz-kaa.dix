@@ -181,11 +181,16 @@
     <e><p><l>армия<s n="n"/></l><r>armiya<s n="n"/></r></p></e>
     <e><p><l>археолог<s n="n"/></l><r>arxeolog<s n="n"/></r></p></e>
     <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
+    <e><p><l>президент<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
+    <e><p><l>республика<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
 
 
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Россия<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Қазақстан<s n="np"/><s n="top"/></l><r>Qazaqstan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Азия<s n="np"/><s n="top"/></l><r>Aziya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Еуропа<s n="np"/><s n="top"/></l><r>Evropa<s n="np"/><s n="top"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
     <!-- SECTION: Adverbs -->

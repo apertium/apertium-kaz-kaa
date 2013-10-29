@@ -3775,7 +3775,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 поэзия	n	poeziya		
 поэма	n	poema		
 православие	n	pravoslavie		
-президент	n	prezident		
+президент	n	prezident	x	
 президенттік	n	prezidenttik		
 премия	n	premiya		
 премьер	n	premer		
@@ -3823,7 +3823,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 ректор	n	rektor		
 рентген	n	rentgen		
 репортер	n	reporter		
-республика	n	respwblika		
+республика	n	respublika	x	
 рет	n	ret		
 референдум	n	referendwm		
 реформа	n	reforma		
