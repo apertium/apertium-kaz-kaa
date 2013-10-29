@@ -109,6 +109,7 @@ for line in sys.stdin.readlines(): #{
 
 	row = line.split('\t');
 
+	#print(len(row), row[0], row[1], row[2], row[1], file=sys.stderr);
 	if row[3] == 'x': #{
 		if row[1] not in pos_word: #{
 			pos_word[row[1]] = [];

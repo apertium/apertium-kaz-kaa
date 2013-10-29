@@ -169,10 +169,12 @@
     <e><p><l>триллион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
+    <e><p><l>август<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
     <e><p><l>автономия<s n="n"/></l><r>avtonomiya<s n="n"/></r></p></e>
     <e><p><l>автор<s n="n"/></l><r>avtor<s n="n"/></r></p></e>
     <e><p><l>агенттік<s n="n"/></l><r>agentlik<s n="n"/></r></p></e>
     <e><p><l>азамат<s n="n"/></l><r>azamat<s n="n"/></r></p></e>
+    <e><p><l>азаттық<s n="n"/></l><r>azatlıq<s n="n"/></r></p></e>
     <e><p><l>академик<s n="n"/></l><r>akademik<s n="n"/></r></p></e>
     <e><p><l>академия<s n="n"/></l><r>akademiya<s n="n"/></r></p></e>
     <e><p><l>актер<s n="n"/></l><r>aktyor<s n="n"/></r></p></e>
@@ -185,6 +187,11 @@
     <e><p><l>президент<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
     <e><p><l>республика<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
     <e><p><l>шығыс<s n="n"/></l><r>shıg'ıs<s n="n"/></r></p></e>
+    <e><p><l>өзбек<s n="n"/></l><r>o'zbek<s n="n"/></r></p></e>
+    <e><p><l>татар<s n="n"/></l><r>tatar<s n="n"/></r></p></e>
+    <e><p><l>тәжік<s n="n"/></l><r>ta'jik<s n="n"/></r></p></e>
+    <e><p><l>ұйғыр<s n="n"/></l><r>uyg'ır<s n="n"/></r></p></e>
+    <e><p><l>паспорт<s n="n"/></l><r>pasport<s n="n"/></r></p></e>
 
 
     <!-- SECTION: Proper nouns -->
@@ -195,6 +202,8 @@
     <e><p><l>Еуропа<s n="np"/><s n="top"/></l><r>Evropa<s n="np"/><s n="top"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
+    <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
+
     <!-- SECTION: Adverbs -->
     <!-- SECTION: Verbs -->
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
