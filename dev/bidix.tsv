@@ -1,160 +1,3 @@
-Kazakh	POS	Karakalpak	Checked	Comment															
-ал	cnjcoo	al	x																
-бірақ	cnjcoo	biraq	х																
-біресе	cnjcoo	birese	x																
-да	cnjcoo	da	х																
-әрі	cnjcoo	a'ri																	
-және	cnjcoo	ja'ne	х																
-не	cnjcoo	ne																	
-немесе	cnjcoo	yamasa	x																
-сондай%-ақ	cnjcoo	sonday%-aq	x																
-тек	cnjcoo	tek	x																
-түгіл	cnjcoo	tu'gil																	
-уа	cnjcoo	wa																	
-һәм	cnjcoo	ha'm	x																
-я	cnjcoo	ya	x																
-егер	cnjsub	eger	x																
-егерде	cnjsub	egerde	x																
-мүбада	cnjsub	ma'bada	x																
-өйткені	cnjsub	o'ytkeni	x																
-онда	cnjsub	onda	x																
-ондай% болса	cnjsub	onday% bolsa	x																
-себебі	cnjsub	sebebi	x																
-яғни	cnjsub	yag'nıy	x																
-арқылы	post	arqalı	x																
-арналған	post	arnalg'an	x																
-басқа	post	basqa	x																
-бері	post	beri	x																
-бетер	post	beter	x																
-бірге	post	birge	x																
-бойда	post	boyda																	
-бойы	post	boyı																	
-бойымен	post	boyımen																	
-бойында	post	boyında	x																
-бойынша	post	boyınsha	x																
-бұрын	post	burın	x																
-гөрі	post	ko're	x																
-ғұрлы	post	qurlı	x																
-дейін	post	deyin	x																
-әрі	post	a'ri																	
-жайында	post	jayında																	
-жөнінде	post	jo'ninde																	
-жуық	post	jwıq																	
-ілгері	post	ilgeri																	
-іспетті	post	ispetti																	
-қабат	post	qabat																	
-қарағанда	post	qarag'anda																	
-қарай	post	qaray																	
-қарал	post	qaral																	
-қарамағында	post	qaramag'ında																	
-қарамағындағы	post	qaramag'ındag'ı																	
-қарамай	post	qaramay																	
-қарамастан	post	qaramastan																	
-қаран	post	qaran																	
-қарсы	post	qarsı																	
-қатар	post	qatar																	
-кейін	post	keyin																	
-қоса	post	qosa																	
-құрлы	post	qurlı																	
-мақсатында	post	maqsatında																	
-мен	post	men																	
-сайын	post	sayın																	
-салым	post	salım																	
-сәйкес	post	sa'ykes																	
-секілді	post	sekildi																	
-сияқты	post	siyaqtı																	
-соң	post	son'																	
-таман	post	taman																	
-тарта	post	tarta																	
-таяу	post	tayaw																	
-туралы	post	twralı																	
-үшін	post	u'shin																	
-хақында	post	xaqında																	
-шейін	post	sheyin																	
-барлық	pron	barlıq																	
-басқа	pron	basqa																	
-бәрі	pron	ba'ri																	
-бір%-бір	pron	bir%-bir																	
-бірдеме	pron	birdeme																	
-біреу	pron	birew																	
-әркім	pron	a'rkim																	
-кей	pron	key																	
-кім	pron	kim																	
-не	pron	ne																	
-өз	pron	o'z																	
-анау	det	anaw																	
-бар	det	bar																	
-барлық	det	barlıq																	
-бір	det	bir																	
-бірер	det	birer																	
-бірқатар	det	birqatar																	
-бірнеше	det	birneshe																	
-бүкіл	det	bu'kil																	
-бұл	det	bul																	
-әлгі	det	a'lgi																	
-әлдебір	det	a'ldebir																	
-әлденеше	det	a'ldeneshe																	
-әр	det	a'r																	
-әрбір	det	a'rbir																	
-әртүрлі	det	a'rtu'rli																	
-ешбір	det	eshbir																	
-ешқандай	det	eshqanday																	
-жүздеген	det	ju'zdegen																	
-исі	det	isi																	
-қай	det	qay																	
-қайсы	det	qaysı																	
-қайсыбір	det	qaysıbir																	
-қанша	det	qansha																	
-кей	det	key																	
-кейбір	det	keybir																	
-көптеген	det	ko'ptegen																	
-күллі	det	ku'lli																	
-миллиардтаған	det	milliardtag'an																	
-миллиондаған	det	milliondag'an																	
-мынау	det	mınaw																	
-мыңдаған	det	mın'dag'an																	
-өз	det	o'z																	
-ол	det	ol																	
-ондаған	det	ondag'an																	
-осы	det	osı																	
-осынау	det	osınaw																	
-сол	det	sol																	
-сонау	det	sonaw																	
-түмендеген	det	tu'mendegen																	
-нөл	num	no'l																	
-бір	num	bir																	
-екі	num	eki																	
-үш	num	u'sh																	
-төрт	num	to'rt																	
-бес	num	bes																	
-алты	num	altı																	
-жеті	num	jeti																	
-сегіз	num	segiz																	
-тоғыз	num	tog'ıs																	
-он	num	on																	
-он% бір	num	on% bir																	
-он% екі	num	on% eki																	
-он% үш	num	on% u'sh																	
-он% төрт	num	on% to'rt																	
-он% бес	num	on% bes																	
-он% алты	num	on% altı																	
-он% жеті	num	on% jeti																	
-он% сегіз	num	on% segiz																	
-он% тоғыз	num	on% tog'ız																	
-отыз	num	otız																	
-қырық	num	qırıq																	
-елу	num	elw																	
-алпыс	num	alpıs																	
-жетпіс	num	jetpis																	
-сексен	num	seksen																	
-тоқсан	num	toqsan																	
-жүз	num	ju'z																	
-мың	num	mın'																	
-түмен	num	tu'men																	
-миллион	num	million																	
-миллиард	num	milliard																	
-триллион	num	trillion																	
-Kazakh	POS	Karakalpak	Checked	Comment
 абай% бол	vi	abay% bol		
 абдыра	vi	abdıra		
 абыржы	vi	abırjı		
@@ -4436,3 +4279,159 @@ Kazakh	POS	Karakalpak	Checked	Comment
 фортепьяно	n	fortepyano		
 форум	n	forwm		
 фосфор	n	fosfor		
+Kazakh	POS	Karakalpak	Checked	Comment
+ал	cnjcoo	al	x	
+бірақ	cnjcoo	biraq	х	
+біресе	cnjcoo	birese	x	
+да	cnjcoo	da	х	
+әрі	cnjcoo	a'ri		
+және	cnjcoo	ja'ne	х	
+не	cnjcoo	ne		
+немесе	cnjcoo	yamasa	x	
+сондай%-ақ	cnjcoo	sonday%-aq	x	
+тек	cnjcoo	tek	x	
+түгіл	cnjcoo	tu'gil		
+уа	cnjcoo	wa		
+һәм	cnjcoo	ha'm	x	
+я	cnjcoo	ya	x	
+егер	cnjsub	eger	x	
+егерде	cnjsub	egerde	x	
+мүбада	cnjsub	ma'bada	x	
+өйткені	cnjsub	o'ytkeni	x	
+онда	cnjsub	onda	x	
+ондай% болса	cnjsub	onday% bolsa	x	
+себебі	cnjsub	sebebi	x	
+яғни	cnjsub	yag'nıy	x	
+арқылы	post	arqalı	x	
+арналған	post	arnalg'an	x	
+басқа	post	basqa	x	
+бері	post	beri	x	
+бетер	post	beter	x	
+бірге	post	birge	x	
+бойда	post	boyda		
+бойы	post	boyı	x	
+бойымен	post	boyı menen	x	
+бойында	post	boyında	x	
+бойынша	post	boyınsha	x	
+бұрын	post	burın	x	
+гөрі	post	ko're	x	
+ғұрлы	post	qurlı	x	
+дейін	post	deyin	x	
+әрі	post	a'ri		
+жайында	post	haqqında	x	
+жөнінде	post	jo'ninde	x	
+жуық	post	jaqın	x	
+ілгері	post	ilgeri	x	
+іспетті	post	uqsas	x	
+қабат	post	qabat	x	
+қарағанда	post	qarag'anda	x	
+қарай	post	qaray	x	
+қарал	post	qaral		Doesn't this word be 'қарам'?
+қарамағында	post	qaramag'ında	x	
+қарамағындағы	post	qaramag'ındag'ı	x	
+қарамай	post	qaramay	x	
+қарамастан	post	qaramastan	x	
+қаран	post	qaran		
+қарсы	post	qarsı	x	
+қатар	post	qatar	x	
+кейін	post	keyin	x	
+қоса	post	qosa		
+құрлы	post	qurlı		
+мақсатында	post	maqsetınde	x	
+мен	post	men	x	
+сайын	post	sayın	x	
+салым	post	salım		
+сәйкес	post	sa'ykes	x	
+секілді	post	sıyaqlı	x	
+сияқты	post	sıyaqlı	x	
+соң	post	son'		
+таман	post	taman		
+тарта	post	tarta		
+таяу	post	tayaw		
+туралы	post	tuwralı	x	
+үшін	post	ushın	x	
+хақында	post	haqqında	x	
+шейін	post	sheyin		
+барлық	pron	barlıq	x	
+басқа	pron	basqa	x	
+бәрі	pron	ba'ri	x	
+бір%-бір	pron	bir%-bir	х	
+бірдеме	pron	bir% na'rse	x	
+біреу	pron	birew	x	
+әркім	pron	ha'r% kim	x	
+кей	pron	key		
+кім	pron	kim	x	
+не	pron	ne	x	
+өз	pron	o'z	x	
+анау	det	anaw	x	
+бар	det	bar	x	
+барлық	det	barlıq	x	
+бір	det	bir	x	
+бірер	det	bir% neshe	x	
+бірқатар	det	birqatar		
+бірнеше	det	bir% neshe	x	
+бүкіл	det	pu'tkil	x	
+бұл	det	bul	x	
+әлгі	det	a'lgi		
+әлдебір	det	a'ldebir		
+әлденеше	det	a'ldeneshe		
+әр	det	a'r		
+әрбір	det	ha'r% bir	x	
+әртүрлі	det	ha'r% tu'rli	x	
+ешбір	det	hesh% bir	x	
+ешқандай	det	hesh% qanday	x	
+жүздеген	det	ju'zlegen	x	
+исі	det	isi		
+қай	det	qay		
+қайсы	det	qaysı	x	
+қайсыбір	det	qaysıbir	x	
+қанша	det	qansha		
+кей	det	key		
+кейбір	det	geybir	x	
+көптеген	det	ko'plegen	x	
+күллі	det	pu'tkil	x	
+миллиардтаған	det	milliardlag'an	x	
+миллиондаған	det	millionlag'an	x	
+мынау	det	mınaw	x	
+мыңдаған	det	mın'lag'an	x	
+өз	det	o'z	x	
+ол	det	ol	x	
+ондаған	det	onlag'an	x	
+осы	det	usı	x	
+осынау	det	usını	x	
+сол	det	sol	x	
+сонау	det	anaw	x	
+түмендеген	det	tu'mendegen		
+нөл	num	nol	x	
+бір	num	bir	x	
+екі	num	eki	x	
+үш	num	u'sh	x	
+төрт	num	to'rt	x	
+бес	num	bes	x	
+алты	num	altı	x	
+жеті	num	jeti	x	
+сегіз	num	segiz	x	
+тоғыз	num	tog'ız	x	
+он	num	on	x	
+он% бір	num	on% bir	x	
+он% екі	num	on% eki	x	
+он% үш	num	on% u'sh	x	
+он% төрт	num	on% to'rt	x	
+он% бес	num	on% bes	x	
+он% алты	num	on% altı	x	
+он% жеті	num	on% jeti	x	
+он% сегіз	num	on% segiz	x	
+он% тоғыз	num	on% tog'ız	x	
+отыз	num	otız	x	
+қырық	num	qırıq	x	
+елу	num	eliw	x	
+алпыс	num	alpıs	x	
+жетпіс	num	jetpis	x	
+сексен	num	seksen	x	
+тоқсан	num	toqsan	x	
+жүз	num	ju'z	x	
+мың	num	mın'	x	
+түмен	num	on% mın'	x	
+миллион	num	million	x	
+миллиард	num	milliard	x	
+триллион	num	trillion	x	

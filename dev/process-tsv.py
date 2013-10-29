@@ -141,4 +141,4 @@ print(sec_punctuation);
 print('  </section>');
 print('</dictionary>');
 
-print(num_entries, num_checked, file=sys.stderr);
+print(num_entries, num_checked, "%.2f%%" % (float(num_checked)/float(num_entries)*100.0), file=sys.stderr);
