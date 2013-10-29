@@ -16,6 +16,7 @@
     <sdef n="tv"/>
     <sdef n="iv"/>
     <sdef n="top"/>
+    <sdef n="abbr"/>
     <sdef n="sent"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
@@ -183,6 +184,7 @@
     <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
     <e><p><l>президент<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
     <e><p><l>республика<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
+    <e><p><l>шығыс<s n="n"/></l><r>shıg'ıs<s n="n"/></r></p></e>
 
 
     <!-- SECTION: Proper nouns -->
@@ -198,6 +200,12 @@
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+
+
+    <!-- SECTION: Abbreviations -->
+
+    <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
+
 
 
 

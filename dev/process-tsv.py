@@ -37,6 +37,13 @@ sec_punctuation = '''
 
 ''';
 
+sec_abbreviations = '''
+    <!-- SECTION: Abbreviations -->
+
+    <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
+
+''';
+
 sec_proper_nouns = ''.join(open('proper-nouns.dix').readlines());
 
 pos_list = ['cnjcoo', 'cnjsub', 'post', 'pron', 'det', 'num', 'n', 'np', 'adj', 'adv', 'vt', 'vi'];
@@ -68,7 +75,7 @@ pos_sym = {
 	'vi': '<s n="v"/><s n="iv"/>'
 };
 
-sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'top', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
+sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'top', 'abbr', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
 
 
 print('<dictionary>');
@@ -135,6 +142,8 @@ for pos in pos_list: #{
 	#}
 	print('');
 #}
+
+print(sec_abbreviations);
 
 print(sec_punctuation);
 
