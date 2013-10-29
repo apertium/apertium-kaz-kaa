@@ -23,6 +23,7 @@
 /autogen.sh -text
 /configure.ac -text
 dev/bidix.tsv -text
+dev/ods-to-tsv.sh -text
 dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
