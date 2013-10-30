@@ -79,8 +79,17 @@ pos_sym = {
 	'vi': '<s n="v"/><s n="iv"/>'
 };
 
-sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'top', 'abbr', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
+sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'top', 'pers', 'abbr', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
 
+pos_static = {};
+pos_static['pron'] = '''
+
+    <e><p><l>мен<s n="prn"/><s n="pers"/></l><r>men<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сен<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>ol<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сіз<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+''';
 
 print('<dictionary>');
 print('  <alphabet/>');
@@ -105,7 +114,9 @@ for line in sys.stdin.readlines(): #{
 		continue;
 	#}
 
-	if line.strip() == '': #{
+	line = line.strip();
+
+	if line == '': #{
 		continue;
 	#}
 
@@ -113,18 +124,21 @@ for line in sys.stdin.readlines(): #{
 
 	row = line.split('\t');
 
-	#print(len(row), row[0], row[1], row[2], row[1], file=sys.stderr);
-	if row[3] == 'x': #{
-		if row[1] not in pos_word: #{
-			pos_word[row[1]] = [];
+	#print(line.count('\t'), len(row), row[0], row[1], row[2], row[1], file=sys.stderr);
+	#print(line.count('\t'), row[2:], line.strip(), file=sys.stderr);
+	if line.count('\t') >= 3: #{ 
+		if row[3] == 'x' or row[3] == 'х': #{
+			if row[1] not in pos_word: #{
+				pos_word[row[1]] = [];
+			#}
+			if (row[0], row[2]) not in pos_word[row[1]]: #{
+				pos_word[row[1]].append((row[0], row[2]));
+			#}
+			num_checked = num_checked + 1;
+			#print(row[0], row[1], row[2], row[1]);
+		else: #{
+			continue;
 		#}
-		if (row[0], row[2]) not in pos_word[row[1]]: #{
-			pos_word[row[1]].append((row[0], row[2]));
-		#}
-		num_checked = num_checked + 1;
-		#print(row[0], row[1], row[2], row[1]);
-	else: #{
-		continue;
 	#}
 
 #}
@@ -136,6 +150,9 @@ for pos in pos_list: #{
 	#}
 	if pos in pos_name: #{
 		print('    <!-- SECTION:', pos_name[pos], '-->');
+	#}
+	if pos in pos_static: #{
+		print(pos_static[pos]);
 	#}
 	if pos not in pos_word: #{
 		continue;

@@ -16,6 +16,7 @@
     <sdef n="tv"/>
     <sdef n="iv"/>
     <sdef n="top"/>
+    <sdef n="pers"/>
     <sdef n="abbr"/>
     <sdef n="sent"/>
     <sdef n="lpar"/>
@@ -35,7 +36,9 @@
 
     <!-- SECTION: Conjunctions -->
     <e><p><l>ал<s n="cnjcoo"/></l><r>al<s n="cnjcoo"/></r></p></e>
+    <e><p><l>бірақ<s n="cnjcoo"/></l><r>biraq<s n="cnjcoo"/></r></p></e>
     <e><p><l>біресе<s n="cnjcoo"/></l><r>birese<s n="cnjcoo"/></r></p></e>
+    <e><p><l>және<s n="cnjcoo"/></l><r>ja'ne<s n="cnjcoo"/></r></p></e>
     <e><p><l>немесе<s n="cnjcoo"/></l><r>yamasa<s n="cnjcoo"/></r></p></e>
     <e><p><l>сондай-ақ<s n="cnjcoo"/></l><r>sonday-aq<s n="cnjcoo"/></r></p></e>
     <e><p><l>тек<s n="cnjcoo"/></l><r>tek<s n="cnjcoo"/></r></p></e>
@@ -92,9 +95,18 @@
     <e><p><l>хақында<s n="post"/></l><r>haqqında<s n="post"/></r></p></e>
 
     <!-- SECTION: Pronouns -->
+
+
+    <e><p><l>мен<s n="prn"/><s n="pers"/></l><r>men<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сен<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>ol<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сіз<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+
     <e><p><l>барлық<s n="prn"/></l><r>barlıq<s n="prn"/></r></p></e>
     <e><p><l>басқа<s n="prn"/></l><r>basqa<s n="prn"/></r></p></e>
     <e><p><l>бәрі<s n="prn"/></l><r>ba'ri<s n="prn"/></r></p></e>
+    <e><p><l>бір-бір<s n="prn"/></l><r>bir-bir<s n="prn"/></r></p></e>
     <e><p><l>бірдеме<s n="prn"/></l><r>bir<b/>na'rse<s n="prn"/></r></p></e>
     <e><p><l>біреу<s n="prn"/></l><r>birew<s n="prn"/></r></p></e>
     <e><p><l>әркім<s n="prn"/></l><r>ha'r<b/>kim<s n="prn"/></r></p></e>
@@ -184,7 +196,6 @@
     <e><p><l>армия<s n="n"/></l><r>armiya<s n="n"/></r></p></e>
     <e><p><l>археолог<s n="n"/></l><r>arxeolog<s n="n"/></r></p></e>
     <e><p><l>археология<s n="n"/></l><r>arxeologiya<s n="n"/></r></p></e>
-    <e><p><l>мемлекет<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
     <e><p><l>президент<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
     <e><p><l>республика<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
     <e><p><l>тіл<s n="n"/></l><r>til<s n="n"/></r></p></e>
@@ -195,13 +206,17 @@
     <e><p><l>ұйғыр<s n="n"/></l><r>uyg'ır<s n="n"/></r></p></e>
     <e><p><l>паспорт<s n="n"/></l><r>pasport<s n="n"/></r></p></e>
 
-
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Россия<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
+    <e r="LR"><p><l>Ресей<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Қазақстан<s n="np"/><s n="top"/></l><r>Qazaqstan<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Азия<s n="np"/><s n="top"/></l><r>Aziya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Қытай<s n="np"/><s n="top"/></l><r>Қытай<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Еуропа<s n="np"/><s n="top"/></l><r>Evropa<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Өзбекстан<s n="np"/><s n="top"/></l><r>O'zbekstan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Қырғызстан<s n="np"/><s n="top"/></l><r>Qırg'ızstan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Түрікменстан<s n="np"/><s n="top"/></l><r>Tu'rkmenistan<s n="np"/><s n="top"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
