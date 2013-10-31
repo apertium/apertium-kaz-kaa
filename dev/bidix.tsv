@@ -1,85 +1,92 @@
 Kazakh	POS	Karakalpak	Checked	Comment
-абақты	n	abaqtı
-аберрация	n	aberraciya
-абсолют	n	absolyut
-абырой	n	abıroy
+абақты	n	qamaqxana	x
+аберрация	n	aberratsiya	x
+абсолют	n	absolyut	x
+абырой	n	abıroy	x
 август	n	avgust	x
-авиация	n	aviaciya
-авто	n	avto
-автобус	n	avtobws
-автовокзал	n	avtovokzal
-автокөлік	n	avtoko'lik
+авиация	n	aviatsiya	x
+авто	n	avto	x
+автобус	n	avtobus	x
+автовокзал	n	avtovokzal	x
+автокөлік	n	avtoko'lik	x
 автономия	n	avtonomiya	x
 автор	n	avtor	x
 автор	n	avtor	x
-автотранспорт	n	avtotransport
-агент	n	agent
+автотранспорт	n	avtotransport	x
+агент	n	agent	x
 агенттік	n	agentlik	x
 агенттік	n	agentlik	x
-аға	n	ag'a
-ағай	n	ag'ay
-ағайынды	n	ag'ayındı
-ағарту	n	ag'artw
-ағаш	n	ag'ash
-ағза	n	ag'za
-ағым	n	ag'ım
-адам	n	adam
-адамзат	n	adamzat
-адвокат	n	advokat
-адмирал	n	admiral
-адым	n	adım
-адыр	n	adır
-ажал	n	ajal
-ажар	n	ajar
+аға	n	ag'a	x
+ағай	n	ag'ay	x
+ағайынды	n	ag'ayin	x
+ағарту	n	ag'artıw	x
+ағаш	n	ag'ash	x
+ағза	n	ag'za	x
+ағым	n	ag'ım	x
+адам	n	adam	x
+адамзат	n	adamzat	x
+адвокат	n	advokat	x
+адмирал	n	admiral	x
+адым	n	adım	x
+адыр	n	to'be	x
+адыр	n	du'mpek	x
+ажал	n	a'jel	x
+ажар	n	kelbet	x
+ажар	n	sıpat	x
 азамат	n	azamat	x
-азаматтық	n	azamattıq
-азан	n	azan
-азап	n	azap
+азаматтық	n	puxaralıq	x
+азан	n	azan	x
+азап	n	azap	x
 азаттық	n	azatlıq	x
 азбан	n	azban
-азшылық	n	azshılıq
-азық	n	azıq
-азық%-түлік	n	azıq%-tu'lik
-азық%-түлік	n	azıq%-tu'lik
-ай	n	ay
-айбалта	n	aybalta
-айғай	n	ayg'ay
-айғақ	n	ayg'aq
-айғыз	n	ayg'ız
-айғыр	n	ayg'ır
-айдын	n	aydın
-айқай	n	ayqay
-айқыш	n	ayqısh
-айла	n	ayla
-айлық	n	aylıq
-аймақ	n	aymaq
-айна	n	ayna
-айнала	n	aynala
-айналым	n	aynalım
-айналым	n	aynalım
-айшық	n	ayshıq
-айып	n	ayıp
-айыппұл	n	ayıppul
-айырбас	n	ayırbas
-айырмашылық	n	ayırmashılıq
+азшылық	n	azshılıq	x
+азық	n	azıq	x
+азық%-түлік	n	azıq%-awqat	x
+азық%-түлік	n	azıq%-awqat	x
+ай	n	ay	x
+айбалта	n	ay balta	x
+айғай	n	shawqım	x
+айғақ	n	da'liyl	x
+айғыз	n	daq	x
+айғақ	n	gu'wa	x
+айғыз	n	belgi	x
+айғыз	n	iz	x
+айғыр	n	ayg'ır	x
+айдын	n	aydın	x
+айқай	n	shawqım	x
+айқай	n	baqırıs	x
+айқыш	n	ayqısh	is this noun?
+айла	n	hiyle	x
+айлық	n	aylıq	x
+аймақ	n	aymaq	x
+айна	n	ayna	x
+айнала	n	aynala	х
+айналым	n	aylanıs	x
+айналым	n	aylanıs	x
+айшық	n	ayrıqshalıq	x
+айып	n	ayıp	x
+айыппұл	n	ja'riyma	x
+айырбас	n	almasıw	x
+айырмашылық	n	ayırmashılıq	x
 академик	n	akademik	x
 академия	n	akademiya	x
 актер	n	aktyor	x
-акула	n	akwla
-акустика	n	akwstika
-акушер	n	akwsher
-акция	n	akciya	x
-ақиқат	n	aqiqat
-ақпан	n	aqpan
-ақпарат	n	aqparat
-ақсақал	n	aqsaqal
-ақша	n	aqsha
-ақы	n	aqı
-ақыл	n	aqıl
-ақымақ	n	aqımaq
-ақын	n	aqın
-ақыр	n	aqır
-ақырет	n	aqıret
+акула	n	akula	x
+акустика	n	akustika	x
+акушер	n	akusher	x
+акция	n	aktsiya	x
+ақиқат	n	haqiyqat	x
+ақпан	n	fevral	x
+ақпарат	n	xabar	x
+ақпарат	n	mag'lıwmat	x
+ақсақал	n	aqsaqal	x
+ақша	n	aqsha	x
+ақы	n	haqı	x
+ақыл	n	aqıl	x
+ақымақ	n	aqmaq	х
+ақын	n	aqın	х
+ақыр	n	aqır	х
+ақырет	n	azap	x
 алаң	n	alan'
 алап	n	alap
 алғыс	n	alg'ıs
@@ -1242,7 +1249,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 мекен	n	meken
 мектеп	n	mektep
 мембрана	n	membrana
-мемлекет	n	memleket
+мемлекет	n	memleket	x
 меншік	n	menshik
 меңгеруші	n	men'gerwshi
 мерәсім	n	mera'sim
@@ -4547,15 +4554,15 @@ Kazakh	POS	Karakalpak	Checked	Comment
 ал	cnjcoo	al	x
 бірақ	cnjcoo	biraq	х
 біресе	cnjcoo	birese	x
-да	cnjcoo	da	x	this harmonises in Kazakh (da/de), what about in Qaraqalpaq?
-әрі	cnjcoo	a'ri
+да	cnjcoo	da	х	this harmonises in Kazakh (da/de), what about in Qaraqalpaq?  Is it different from ha'm?
+әрі	cnjcoo	ha'm	x
 және	cnjcoo	ja'ne	х
-не	cnjcoo	ne	=or, ≠what
+не	cnjcoo	ya/yamasa	x	=or, ≠what
 немесе	cnjcoo	yamasa	x	=or
 сондай%-ақ	cnjcoo	sonday%-aq	x
 тек	cnjcoo	tek	x
-түгіл	cnjcoo	tu'gil
-уа	cnjcoo	wa
+түгіл	cnjcoo	tu'we	x
+уа	cnjcoo	o/a'y/ha'y/	x
 һәм	cnjcoo	ha'm	x
 я	cnjcoo	ya	x
 егер	cnjsub	eger	x
@@ -4572,7 +4579,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 бері	post	beri	x
 бетер	post	beter	x
 бірге	post	birge	x
-бойда	post	boyda
+бойда	post	dawamında	x
 бойы	post	boyı	x
 бойымен	post	boyı menen	x
 бойында	post	boyında	x
@@ -4581,7 +4588,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 гөрі	post	ko're	x
 ғұрлы	post	qurlı	x
 дейін	post	deyin	x
-әрі	post	a'ri
+әрі	post	alısıraq/uzag'ıraq	x
 жайында	post	haqqında	x
 жөнінде	post	jo'ninde	x
 жуық	post	jaqın	x
@@ -4599,23 +4606,23 @@ Kazakh	POS	Karakalpak	Checked	Comment
 қарсы	post	qarsı	x
 қатар	post	qatar	x
 кейін	post	keyin	x
-қоса	post	qosa
-құрлы	post	qurlı
+қоса	post	birge	x
+құрлы	post	qurlı	x
 мақсатында	post	maqsetınde	x
 мен	post	men	x
 сайын	post	sayın	x
-салым	post	salım
+салым	post	qaray	x
 сәйкес	post	sa'ykes	x
 секілді	post	sıyaqlı	x
 сияқты	post	sıyaqlı	x
-соң	post	son'
-таман	post	taman
-тарта	post	tarta
-таяу	post	tayaw
+соң	post	son'	х
+таман	post	taman	х
+тарта	post	jaqın/shama menen	x
+таяу	post	jaqın	x
 туралы	post	tuwralı	x
 үшін	post	ushın	x
 хақында	post	haqqında	x
-шейін	post	sheyin
+шейін	post	shekem	x
 барлық	pron	barlıq	x
 басқа	pron	basqa	x
 бәрі	pron	ba'ri	x
@@ -4623,7 +4630,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 бірдеме	pron	bir% na'rse	x
 біреу	pron	birew	x
 әркім	pron	ha'r% kim	x
-кей	pron	key
+кей	pron	gey/geypara	x
 кім	pron	kim	x
 не	pron	ne	x
 өз	pron	o'z	x
@@ -4632,25 +4639,25 @@ Kazakh	POS	Karakalpak	Checked	Comment
 барлық	det	barlıq	x
 бір	det	bir	x
 бірер	det	bir% neshe	x
-бірқатар	det	birqatar
+бірқатар	det	bir qatar/bir topar/bir talay	x
 бірнеше	det	bir% neshe	x
 бүкіл	det	pu'tkil	x
 бұл	det	bul	x
-әлгі	det	a'lgi
-әлдебір	det	a'ldebir
-әлденеше	det	a'ldeneshe
-әр	det	a'r	probably ha'r
+әлгі	det	ana/ol/sol	x
+әлдебір	det	gey bir/bazı bir	x
+әлденеше	det	bir neshe	x
+әр	det	ha'r	x	probably ha'r
 әрбір	det	ha'r% bir	x
 әртүрлі	det	ha'r% tu'rli	x
 ешбір	det	hesh% bir	x
 ешқандай	det	hesh% qanday	x
 жүздеген	det	ju'zlegen	x
-исі	det	isi	исі қазақ → все казахи
-қай	det	qay
+исі	det	pu'tkil/barlıq	x	исі қазақ → все казахи
+қай	det	qay	x
 қайсы	det	qaysı	x
 қайсыбір	det	qaysıbir	x
-қанша	det	qansha
-кей	det	key
+қанша	det	qansha	x
+кей	det	gey/geypara	x
 кейбір	det	geybir	x
 көптеген	det	ko'plegen	x
 күллі	det	pu'tkil	x
