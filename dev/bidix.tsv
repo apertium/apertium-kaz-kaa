@@ -135,63 +135,65 @@ Kazakh	POS	Karakalpak	Checked	Comment
 аруақ	n	a'rwaq	х
 археолог	n	arxeolog	x
 археология	n	arxeologiya	x
-арыз	n	arız
-арыстан	n	arıstan
-ас	n	as
-асбест	n	asbest
-асқабақ	n	asqabaq
-асқазан	n	asqazan
-аспаз	n	aspaz
-аспан	n	aspan
-аспап	n	aspap
-аспирантура	n	aspirantwra
-астана	n	astana
-астар	n	astar
-астау	n	astaw
-астрономия	n	astronomiya
-астық	n	astıq
-асфальт	n	asfalt
-асық	n	asıq
-ата	n	ata
-ата%-баба	n	ata%-baba
-атақ	n	ataq
-атамекен	n	atameken
-атан	n	atan
-ат	n	at
-атау	n	ataw
+арыз	n	arız	x
+арыстан	n	arıslan	x
+ас	n	awqat/as/tamaq	x
+асбест	n	asbest	x
+асқабақ	n	asqabaq	x
+асқазан	n	asqazan	x
+аспаз	n	aspaz	x
+аспан	n	aspan	x
+аспап	n	a'sbap	x
+аспирантура	n	aspirantura	x
+астана	n	paytaxt	x
+астар	n	astar	x
+астау	n	aslaw	x
+астрономия	n	astronomiya	x
+астық	n	nan	x
+астық	n	da'n	x
+астық	n	g'alle	x
+асфальт	n	asfalt	x
+асық	n	asıq	x
+ата	n	ata	x
+ата%-баба	n	ata%-baba	x
+атақ	n	ataq	x
+атамекен	n	watan	x
+атан	n	atan	x
+ат	n	at	x
+атау	n	ataw	x
 атқамінер	n	atqaminer
-атлет	n	atlet
-атлетика	n	atletika
-атмосфера	n	atmosfera
-атом	n	atom
+атлет	n	atlet	x
+атлетика	n	atletika	x
+атмосфера	n	atmosfera	x
+атом	n	atom	x
 атты	n	attı
 атшабар	n	atshabar
-ауа	n	awa
-ау	n	aw
+ауа	n	hawa	x
+ау	n	aw	x
 аудан	n	awdan
-аударушы	n	awdarwshı
-аудитория	n	awditoriya
-ауқат	n	awqat
+аударушы	n	awdarıwshı	x
+аудитория	n	auditoriya	x
+ауқат	n	awqat	x
 аумақ	n	awmaq
-ауру	n	awrw
-аурухана	n	awrwxana
-ауыз	n	awız
-ауыз	n	awız
-ауыл	n	awıl
-ауыл	n	awıl
-ауырлық	n	awırlıq
-ахуал	n	axwal
-ашаршылық	n	asharshılıq
+ауру	n	awrıw	x
+аурухана	n	emlewxana	x
+ауыз	n	awız	x
+ауыз	n	awız	x
+ауыл	n	awıl	x
+ауыл	n	awıl	x
+ауырлық	n	awırlıq	x
+ахуал	n	ahwal
+ашаршылық	n	asharshılıq	x
 ашу	n	ashw
-ашытқы	n	ashıtqı
+ашытқы	n	ashıtqı	x
 ая	n	aya
-аяз	n	ayaz
-аяқ	n	ayaq
-аят	n	ayat
-әдебиет	n	a'debiet
-әдет	n	a'det
-әділдік	n	a'dildik
-әділет	n	a'dilet
+аяз	n	ayaz	x
+аяқ	n	ayaq	x
+аят	n	ayat	x
+әдебиет	n	a'debiyat	x
+әдет	n	a'det	x
+әділдік	n	a'dillik	x
+әділет	n	a'dalat
 әділетсіздік	n	a'diletsizdik
 әдіс	n	a'dis
 әже	n	a'je
