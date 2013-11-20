@@ -199,9 +199,9 @@ Kazakh	POS	Karakalpak	Checked	Comment
 әже	n	a'je
 әзір	n	a'zir
 әзірлік	n	a'zirlik
-әйел	n	a'yel
-әке	n	a'ke
-әкім	n	a'kim
+әйел	n	hayal	x
+әке	n	a'ke	x
+әкім	n	ha'kim	x
 әкімдік	n	a'kimdik
 әкімшілік	n	a'kimshilik
 әл	n	a'l
@@ -210,86 +210,86 @@ Kazakh	POS	Karakalpak	Checked	Comment
 ән	n	a'n
 әнші% әйел	n	a'nshi% a'yel
 әнші	n	a'nshi
-әңгіме	n	a'n'gime
+әңгіме	n	a'n'gime	x
 әпке	n	a'pke
 әрекет	n	a'reket
 әріптес	n	a'riptes
 әріптестік	n	a'riptestik
 әсер	n	a'ser
-әскер	n	a'sker
+әскер	n	a'sker	x
 әуе	n	a'we
 әуежай	n	a'wejay
 әулет	n	a'wlet
 әуре	n	a'wre
-баба	n	baba
+баба	n	baba	x
 баға	n	bag'a
 бағам	n	bag'am
-бағана	n	bag'ana
-бағдарлама	n	bag'darlama
-бағыт	n	bag'ıt
+бағана	n	bag'ana	x
+бағдарлама	n	bag'darlama	x
+бағыт	n	bag'ıt	x
 баж	n	baj
-база	n	baza
-базар	n	bazar
-базарлық	n	bazarlıq
-бай	n	bay
-байланыс	n	baylanıs
-байлық	n	baylıq
+база	n	baza	x
+базар	n	bazar	x
+базарлық	n	bazarlıq	x
+бай	n	bay	x
+байланыс	n	baylanıs	x
+байлық	n	baylıq	x
 байтал	n	baytal
-бактерия	n	bakteriya
+бактерия	n	bakteriya	x
 бақ	n	baq
-бақша	n	baqsha
+бақша	n	baqsha	x
 бақыр	n	baqır
-бақыт	n	baqıt
-балабақша	n	balabaqsha
-бала	n	bala
-балапан	n	balapan
-бал	n	bal
-балдыз	n	baldız
-балкон	n	balkon
-балта	n	balta
-балық	n	balıq
-бамбук	n	bambwk
-бап	n	bap
+бақыт	n	baxıt	x
+балабақша	n	bala baqshası	x
+бала	n	bala	x
+балапан	n	palapan	x
+бал	n	bal	x
+балдыз	n	baldız	x
+балкон	n	balkon	x
+балта	n	balta	x
+балық	n	balıq	x
+бамбук	n	bambwk	x
+бап	n	bap	x
 бапкер	n	bapker
 барит	n	barit
-баритон	n	bariton
+баритон	n	bariton	x
 барыс	n	barıs
-бас	n	bas
-басқарма	n	basqarma
-басқарушы	n	basqarwshı
-баспана	n	baspana
-баспасөз	n	baspaso'z
+бас	n	bas	x
+басқарма	n	basqarma	x
+басқарушы	n	basqaruwshı	x
+баспана	n	baspana	x
+баспасөз	n	baspaso'z	x
 бастық	n	bastıq
-басшы	n	basshı
-басшылық	n	basshılıq
+басшы	n	basshı	x
+басшылық	n	basshılıq	x
 басылым	n	basılım
 бата	n	bata
 батыл	n	batıl
-батыр	n	batır
-батыс	n	batıs
+батыр	n	batır	x
+батыс	n	batıs	x
 бау%-бақша	n	baw%-baqsha
 бауыр	n	bawır
 бауырлас	n	bawırlas
-баян	n	bayan
+баян	n	bayan	x
 баяндама	n	bayandama
 бәйбіше	n	ba'ybishe
-бәсеке	n	ba'seke
+бәсеке	n	ba'seke	x
 бәсекелестік	n	ba'sekelestik
 бәтеңке	n	ba'ten'ke
 бедел	n	bedel
 бедер	n	beder
-без	n	bez
+без	n	bez	x
 бейбітшілік	n	beybitshilik
 бейне	n	beyne
 бейнет	n	beynet
 бейсенбі	n	beysenbi
 бекет	n	beket
-бел	n	bel
-белгі	n	belgi
+бел	n	bel	x
+белгі	n	belgi	x
 белең	n	belen'
 белсенділік	n	belsendilik
 бентонит	n	bentonit
-бет	n	bet
+бет	n	bet	x
 бетеге	n	betege
 бетон	n	beton
 бешпет	n	beshpet
@@ -297,24 +297,24 @@ Kazakh	POS	Karakalpak	Checked	Comment
 би	n	bi
 бидай	n	biday
 бие	n	bie
-бизнес	n	biznes
+бизнес	n	biznes	x
 биіктік	n	biiktik
 билік	n	bilik
-биология	n	biologiya
-биржа	n	birja
-биыл	n	biıl
-білезік	n	bilezik
-білім	n	bilim
+биология	n	biologiya	x
+биржа	n	birja	x
+биыл	n	bıyıl	x
+білезік	n	bilezik	x
+білім	n	bilim	x
 бірлестік	n	birlestik
-бірлік	n	birlik
+бірлік	n	birlik	x
 бітімгершілік	n	bitimgershilik
-блог	n	blog
-бой	n	boy
-болат	n	bolat
-болашақ	n	bolashaq
+блог	n	blog	x
+бой	n	boy	x
+болат	n	polat	x
+болашақ	n	keleshek	x
 болжам	n	boljam
 болыс	n	bolıs
-бомба	n	bomba
+бомба	n	bomba	x
 бор	n	bor
 борсақ	n	borsaq
 борыш	n	borısh
@@ -323,83 +323,83 @@ Kazakh	POS	Karakalpak	Checked	Comment
 бояу	n	boyaw
 бөгет	n	bo'get
 бөлік	n	bo'lik
-бөлім	n	bo'lim
-бөлімше	n	bo'limshe
-бөлме	n	bo'lme
-бөлшек	n	bo'lshek
+бөлім	n	bo'lim	x
+бөлімше	n	bo'limshe	x
+бөлме	n	bo'lme	x
+бөлшек	n	bo'lshek	x
 бөрене	n	bo'rene
-бөрі	n	bo'ri
+бөрі	n	bo'ri	x
 бу	n	bw
 бүйрек	n	bu'yrek
 бүлікші	n	bu'likshi
-бүркіт	n	bu'rkit
+бүркіт	n	bu'rkit	x
 бүрсігүн	n	bu'rsigu'n
 бұғау	n	bug'aw
 бұзақылық	n	buzaqılıq
-бұзау	n	buzaw
-бұйрық	n	buyrıq
-бұқа	n	buqa
-бұлт	n	bult
-бұршақ	n	burshaq
-бұрыш	n	burısh
+бұзау	n	buzaw	x
+бұйрық	n	buyrıq	x
+бұқа	n	bug'a	x
+бұлт	n	bult	x
+бұршақ	n	burshaq	x
+бұрыш	n	burısh	x
 бұта	n	buta
 бұтақ	n	butaq
 былау	n	bılaw
 былық	n	bılıq
-бюджет	n	byudjet
-бюро	n	byuro
-вакцина	n	vakcina
-валюта	n	valyuta
-веб	n	veb
-веб%-сайт	n	veb%-sayt
-веб%-сайт	n	veb%-sayt
-веб%-сайт	n	veb%-sayt
-вектор	n	vektor
-велосипед	n	velosiped
-веранда	n	veranda
-веранда	n	veranda
-взвод	n	vzvod
-видео	n	video
-виза	n	viza
-вирус	n	virws
-витамин	n	vitamin
-вице%-министр	n	vice%-ministr
-вице%-президент	n	vice%-prezident
-вице%-премьер	n	vice%-premer
-вокал	n	vokal
-газ	n	gaz
-газета	n	gazeta
+бюджет	n	byudjet	x
+бюро	n	byuro	x
+вакцина	n	vakcina	x
+валюта	n	valyuta	x
+веб	n	veb	x
+веб%-сайт	n	veb%-sayt	x
+веб%-сайт	n	veb%-sayt	x
+веб%-сайт	n	veb%-sayt	x
+вектор	n	vektor	x
+велосипед	n	velosiped	x
+веранда	n	veranda	x
+веранда	n	veranda	x
+взвод	n	vzvod	x
+видео	n	video	x
+виза	n	viza	x
+вирус	n	virus	x
+витамин	n	vitamin	x
+вице%-министр	n	vice%-ministr	x
+вице%-президент	n	vice%-prezident	x
+вице%-премьер	n	vice%-premyer	x
+вокал	n	vokal	x
+газ	n	gaz	x
+газета	n	gazeta	x
 газет	n	gazet
 галл	n	gall
 гамета	n	gameta
-гамма	n	gamma
-гвардия	n	gvardiya
-гектар	n	gektar
-ген	n	gen
-генерал	n	general
-генератор	n	generator
-генетика	n	genetika
-генотип	n	genotip
-географ	n	geograf
-география	n	geografiya
-геодезия	n	geodeziya
-геолог	n	geolog
-геометрия	n	geometriya
-гигиена	n	gigiena
-гипс	n	gips
-глюкоза	n	glyukoza
-гол	n	gol
-гормон	n	gormon
-градус	n	gradws
-гранит	n	granit
-грант	n	grant
-графика	n	grafika
-графит	n	grafit
-губернатор	n	gwbernator
-губерния	n	gwberniya
-гүл	n	gu'l
+гамма	n	gamma	x
+гвардия	n	gvardiya	x
+гектар	n	gektar	x
+ген	n	gen	x
+генерал	n	general	x
+генератор	n	generator	x
+генетика	n	genetika	x
+генотип	n	genotip	x
+географ	n	geograf	x
+география	n	geografiya	x
+геодезия	n	geodeziya	x
+геолог	n	geolog	x
+геометрия	n	geometriya	x
+гигиена	n	gigiena	x
+гипс	n	gips	x
+глюкоза	n	glyukoza	x
+гол	n	gol	x
+гормон	n	gormon	x
+градус	n	gradus	x
+гранит	n	granit	x
+грант	n	grant	x
+графика	n	grafika	x
+графит	n	grafit	x
+губернатор	n	gubernator	x
+губерния	n	guberniya	x
+гүл	n	gu'l	x
 гүлтәж	n	gu'lta'j
-ғалым	n	g'alım
+ғалым	n	alım	x
 ғарыш	n	g'arısh
 ғасыр	n	g'asır
 ғибадат	n	g'ibadat
@@ -411,91 +411,91 @@ Kazakh	POS	Karakalpak	Checked	Comment
 дабылшы	n	dabılshı
 дағдарыс	n	dag'darıs
 дайындық	n	dayındıq
-дала	n	dala
-дана	n	dana
-даналық	n	danalıq
+дала	n	dala	x
+дана	n	dana	x
+даналық	n	danalıq	x
 дан	n	dan
-данышпан	n	danıshpan
-даңқ	n	dan'q
+данышпан	n	danıshpan	x
+даңқ	n	dan'q	x
 дарын	n	darın
-дастан	n	dastan
-дастарқан	n	dastarqan
+дастан	n	da'stan	x
+дастарқан	n	da'sturxan	x
 дау%-дамай	n	daw%-damay
 дау	n	daw
-дауыл	n	dawıl
-дауыс	n	dawıs
-дауыс	n	dawıs
+дауыл	n	dawıl	x
+дауыс	n	dawıs	x
+дауыс	n	dawıs	x
 дәлдік	n	da'ldik
 дәлел	n	da'lel
-дән	n	da'n
-дәптер	n	da'pter
-дәреже	n	da'reje
+дән	n	da'n	x
+дәптер	n	da'pter	x
+дәреже	n	da'reje	x
 дәрігер	n	da'riger
-дәрі	n	da'ri
+дәрі	n	da'ri	x
 дәріс	n	da'ris
 дәрісхана	n	da'risxana
-дәріхана	n	da'rixana
+дәріхана	n	da'rixana	x
 дәрмен	n	da'rmen
-дәстүр	n	da'stu'r
-дәуір	n	da'wir
-декабрь	n	dekabr
-демалыс	n	demalıs
-дем	n	dem
-демография	n	demografiya
-демократ	n	demokrat
-демократия	n	demokratiya
-дене	n	dene
-денсаулық	n	densawlıq
+дәстүр	n	da'stu'r	x
+дәуір	n	da'wir	x
+декабрь	n	dekabr	x
+демалыс	n	dem-alıs	x
+дем	n	dem	x
+демография	n	demografiya	x
+демократ	n	demokrat	x
+демократия	n	demokratiya	x
+дене	n	dene	x
+денсаулық	n	den-sawlıq	x
 деңгей	n	den'gey
-департамент	n	departament
-депутат	n	depwtat
+департамент	n	departament	x
+депутат	n	deputat	x
 депутаттық	n	depwtattıq
-дерек	n	derek
-держава	n	derjava
-десант	n	desant
-диалог	n	dialog
-диаметр	n	diametr
+дерек	n	derek	x
+держава	n	derjava	x
+десант	n	desant	x
+диалог	n	dialog	x
+диаметр	n	diametr	x
 диқан	n	diqan
-дилер	n	diler
-диоксид	n	dioksid
-директор	n	direktor
-диссертация	n	dissertaciya
-дифференциация	n	differenciaciya
-дін	n	din
+дилер	n	diler	x
+диоксид	n	dioksid	x
+директор	n	direktor	x
+диссертация	n	dissertaciya	x
+дифференциация	n	differenciaciya	x
+дін	n	din	x
 дің	n	din'
-доктор	n	doktor
-доллар	n	dollar
-доп	n	dop
+доктор	n	doktor	x
+доллар	n	dollar	x
+доп	n	top	x
 дорба	n	dorba
 дос% әйел	n	dos% a'yel
-дос	n	dos
+дос	n	dos	x
 достастық	n	dostastıq
-достық	n	dostıq
-доцент	n	docent
-дөңгелек	n	do'n'gelek
-драма	n	drama
-драматург	n	dramatwrg
-драматургия	n	dramatwrgiya
+достық	n	doslıq	x
+доцент	n	docent	x
+дөңгелек	n	do'n'gelek	x
+драма	n	drama	x
+драматург	n	dramaturg	x
+драматургия	n	dramaturgiya	x
 дума	n	dwma
 дүйсенбі	n	du'ysenbi
 дүкен	n	du'ken
 дүние	n	du'nie
 дұға	n	dug'a
-дұшпан	n	dushpan
+дұшпан	n	dushpan	x
 дыбыс	n	dıbıs
-егін	n	egin
-егінші	n	eginshi
-егіншілік	n	eginshilik
+егін	n	egin	x
+егінші	n	eginshi	x
+егіншілік	n	eginshilik	x
 еден	n	eden
 екпін	n	ekpin
 елбас	n	elbas
 елдес	n	eldes
-ел	n	el
-елші	n	elshi
+ел	n	el	x
+елші	n	elshi	x
 елшілік	n	elshilik
-ем	n	em
+ем	n	em	x
 еместік	n	emestik
-емтихан	n	emtixan
+емтихан	n	imtixan	x
 ене	n	ene
 ен	n	en
 енші	n	enshi
@@ -505,67 +505,67 @@ Kazakh	POS	Karakalpak	Checked	Comment
 еңбектестік	n	en'bektestik
 ереже	n	ereje
 ерекшелік	n	erekshelik
-ер	n	er
+ер	n	er	x
 ереуіл	n	erewil
-ерік	n	erik
-ерін	n	erin
-еркек	n	erkek
-еркіндік	n	erkindik
-ертең	n	erten'
+ерік	n	erik	x
+ерін	n	erin	x
+еркек	n	erkek	x
+еркіндік	n	erkinlik	x
+ертең	n	erten'	x
 есе	n	ese
 есек	n	esek
-есеп	n	esep
-ес	n	es
-есік	n	esik
+есеп	n	esap	x
+ес	n	es	x
+есік	n	esik	x
 есім	n	esim
 есірткі	n	esirtki
-ескерткіш	n	eskertkish
-етек	n	etek
+ескерткіш	n	eskertkish	x
+етек	n	etek	x
 ет	n	et
-еуро	n	ewro
-еуро	n	ewro
-ешкі	n	eshki
+еуро	n	euro	x
+еуро	n	euro	x
+ешкі	n	eshki	x
 жабағы	n	jabag'ı
 жабдық	n	jabdıq
-жаға	n	jag'a
-жағалау	n	jag'alaw
-жағдай	n	jag'day
+жаға	n	jag'a	x
+жағалау	n	jag'alaw	x
+жағдай	n	jag'day	x
 жаза	n	jaza
-жаз	n	jaz
-жазушы	n	jazwshı
+жаз	n	jaz	x
+жазушы	n	jazıwshı	x
 жазық	n	jazıq
-жай	n	jay
-жайлау	n	jaylaw
+жай	n	jay	x
+жайлау	n	jaylaw	x
 жайт	n	jayt
 жақ	n	jaq
-жақсылық	n	jaqsılıq
+жақсылық	n	jaqsılıq	x
 жақтас	n	jaqtas
 жала	n	jala
 жалақы	n	jalaqı
 жалау	n	jalaw
 жалбағай	n	jalbag'ay
 жалбыз	n	jalbız
-жалған	n	jalg'an
+жалған	n	jalg'an	x
 жалғас	n	jalg'as
 жалдап	n	jaldap
 жалпы	n	jalpı
 жалшы	n	jalshı
 жалын	n	jalın
 жамағат	n	jamag'at
-жамандық	n	jamandıq
-жанармай	n	janarmay
+жамандық	n	jamanlıq	x
+жанармай	n	janar may	x
 жан%-жақ	n	jan%-jaq
-жанжал	n	janjal
-жан	n	jan
+жанжал	n	ja'njel	x
+жан	n	jan	x
 жанкештілік	n	jankeshtilik
-жанкүйер	n	janku'yer
-жанр	n	janr
-жануар	n	janwar
-жаңалык	n	jan'alık
+жанкүйер	n	janku'yer	x
+жанр	n	janr	x
+жануар	n	ja'niwar	x
+жаңалык	n	jan'alıq	x
 жаңбыр	n	jan'bır
 жапа	n	japa
-жапырақ	n	japıraq
-жара	n	jara
+жапырақ	n	japıraq	x
+жара	n	jara	x
 жарақат	n	jaraqat
 жарақ	n	jaraq
 жар	n	jar
@@ -573,123 +573,123 @@ Kazakh	POS	Karakalpak	Checked	Comment
 жарнама	n	jarnama
 жарық	n	jarıq
 жарылыс	n	jarılıs
-жарыс	n	jarıs
-жас	n	jas
-жасөспірім	n	jaso'spirim
+жарыс	n	jarıs	x
+жас	n	jas	x
+жасөспірім	n	jas o'spirim	x
 жастық	n	jastıq
 жасуша	n	jaswsha
 жасырын	n	jasırın
 жатжұрттық	n	jatjurttıq
 жаттықтырушы	n	jattıqtırwshı
-жауап	n	jawap
-жауапкершілік	n	jawapkershilik
-жау	n	jaw
-жауынгер	n	jawınger
-жауын	n	jawın
-жәбірленуші	n	ja'birlenwshi
+жауап	n	juwap	x
+жауапкершілік	n	juwapkershilik	x
+жау	n	jaw	x
+жауынгер	n	jawınger	x
+жауын	n	jawın	x
+жәбірленуші	n	ja'birlenwshi	x
 жәдігер	n	ja'diger
-жәрдем	n	ja'rdem
-жәрдемші	n	ja'rdemshi
+жәрдем	n	ja'rdem	x
+жәрдемші	n	ja'rdemshi	x
 жәрмеңке	n	ja'rmen'ke
 жәшік	n	ja'shik
-жезде	n	jezde
+жезде	n	jezde	x
 жез	n	jez
 жезөкше	n	jezo'kshe
 жейде	n	jeyde
-жекеменшік	n	jekemenshik
+жекеменшік	n	jeke menshik	x
 жексенбі	n	jeksenbi
 желетка	n	jeletka
-жел	n	jel
+жел	n	jel	x
 желіс	n	jelis
 желке	n	jelke
 желтоқсан	n	jeltoqsan
-жеміс	n	jemis
+жеміс	n	jemis	x
 жемқорлық	n	jemqorlıq
-жең	n	jen'
-жеңілдік	n	jen'ildik
-жеңіс	n	jen'is
+жең	n	jen'	x
+жеңілдік	n	jen'illik	x
+жеңіс	n	jen'is	x
 жеребе	n	jerebe
-жер	n	jer
+жер	n	jer	x
 жерқойма	n	jerqoyma
 жесір	n	jesir
-жетекші	n	jetekshi
-жетекшілік	n	jetekshilik
+жетекші	n	jetekshi	x
+жетекшілік	n	jetekshilik	x
 жетіген	n	jetigen
-жетім	n	jetim
+жетім	n	jetim	x
 жетістік	n	jetistik
-жиен	n	jien
+жиен	n	jiyen	x
 жинақ	n	jinaq
-жиналыс	n	jinalıs
+жиналыс	n	jiynalıs	x
 жиын	n	jiın
 жиынтық	n	jiıntıq
 жібек	n	jibek
-жігіт	n	jigit
+жігіт	n	jigit	x
 жік	n	jik
-жіп	n	jip
-жоба	n	joba
+жіп	n	jip	x
+жоба	n	joba	x
 жоқтық	n	joqtıq
-жолаушы	n	jolawshı
-жолбарыс	n	jolbarıs
+жолаушы	n	jolawshı	x
+жолбарыс	n	jolbarıs	x
 жолдама	n	joldama
-жолдас	n	joldas
-жолдау	n	joldaw
-жол	n	jol
+жолдас	n	joldas	x
+жолдау	n	jollaw	x
+жол	n	jol	x
 жолсерік	n	jolserik
 жорамал	n	joramal
 жорға	n	jorg'a
 жоспар	n	jospar
 жота	n	jota
 жөн	n	jo'n
-жөтел	n	jo'tel
-журнал	n	jwrnal
-журналистика	n	jwrnalistika
-жусан	n	jwsan
+жөтел	n	jo'tel	x
+журнал	n	jurnal	x
+журналистика	n	jurnalistika	x
+жусан	n	juwsan	x
 жүзе	n	ju'ze
-жүз	n	ju'z
-жүзік	n	ju'zik
-жүзім	n	ju'zim
+жүз	n	ju'z	x
+жүзік	n	ju'zik	x
+жүзім	n	ju'zim	x
 жүйе	n	ju'ye
 жүйке	n	ju'yke
-жүк	n	ju'k
+жүк	n	ju'k	x
 жүлде	n	ju'lde
-жүн	n	ju'n
+жүн	n	ju'n	x
 жүп	n	ju'p
-жүрек	n	ju'rek
-жұбай	n	jubay
+жүрек	n	ju'rek	x
+жұбай	n	jubay	x
 жұбаныш	n	jubanısh
-жұлдыз	n	juldız
-жұма	n	juma
-жұмбақ	n	jumbaq
+жұлдыз	n	juldız	x
+жұма	n	juma	x
+жұмбақ	n	jumbaq	x
 жұмыртқа	n	jumırtqa
-жұмыс	n	jumıs
-жұмыссыздық	n	jumıssızdıq
-жұмысшы	n	jumısshı
-жұрт	n	jurt
+жұмыс	n	jumıs	x
+жұмыссыздық	n	jumıssızlıq	x
+жұмысшы	n	jumısshı	x
+жұрт	n	jurt	x
 жұртшылық	n	jurtshılıq
 жұтым	n	jutım
 жыбыр	n	jıbır
-жылан	n	jılan
-жылдамдық	n	jıldamdıq
-жыл	n	jıl
-жылқы	n	jılqı
-жылқышы	n	jılqıshı
+жылан	n	jılan	x
+жылдамдық	n	tezlik	x
+жыл	n	jıl	x
+жылқы	n	jılqı	x
+жылқышы	n	jılqıshı	x
 жылу	n	jılw
 жым	n	jım
 жын	n	jın
-жыныс	n	jınıs
-жыр	n	jır
-зайып	n	zayıp
+жыныс	n	jınıs	x
+жыр	n	jır	x
+зайып	n	zayıp	x
 зақымдалу	n	zaqımdalw
-зал	n	zal
-залым	n	zalım
-замандас	n	zamandas
-заман	n	zaman
+зал	n	zal	x
+залым	n	zalım	x
+замандас	n	zamanlas	x
+заман	n	zaman	x
 заңгер	n	zan'ger
 заңдық	n	zan'dıq
 заң	n	zan'
 зардап	n	zardap
 зар	n	zar
-зат	n	zat
+зат	n	zat	x
 зауыт	n	zawıt
 зәйтүн	n	za'ytu'n
 зәр	n	za'r
@@ -698,47 +698,47 @@ Kazakh	POS	Karakalpak	Checked	Comment
 зейнеткер	n	zeynetker
 зекет	n	zeket
 зембил	n	zembil
-зиян	n	ziyan
+зиян	n	zıyan	x
 зікір	n	zikir
 зомбылық	n	zombılıq
-зона	n	zona
-зорлық	n	zorlıq
-зұлымдық	n	zulımdıq
-зұлым	n	zulım
+зона	n	zona	x
+зорлық	n	zorlıq	x
+зұлымдық	n	zulımlıq	x
+зұлым	n	zulım	x
 зымыран	n	zımıran
 игілік	n	igilik
-идеал	n	ideal
-идеология	n	ideologiya
-идея	n	ideya
+идеал	n	ideal	x
+идеология	n	ideologiya	x
+идея	n	ideya	x
 иегер	n	ieger
 ие	n	ie
 иеленуші	n	ielenwshi
 иелік	n	ielik
 иіс	n	iis
-имам	n	imam
-иман	n	iman
-иммунитет	n	immwnitet
-император	n	imperator
-империя	n	imperiya
-инвестиция	n	investiciya
-инвестор	n	investor
-индекс	n	indeks
-индуизм	n	indwizm
+имам	n	imam	x
+иман	n	iman	x
+иммунитет	n	immunitet	x
+император	n	imperator	x
+империя	n	imperiya	x
+инвестиция	n	investiciya	x
+инвестор	n	investor	x
+индекс	n	indeks	x
+индуизм	n	induizm	x
 ине	n	ine
-интернат	n	internat
+интернат	n	internat	x
 инфрақұрылым	n	infraqurılım
 инь	n	in
-ион	n	ion
-ипотека	n	ipoteka
-Ислам	n	Islam
-ит	n	it
+ион	n	ion	x
+ипотека	n	ipoteka	x
+Ислам	n	Islam	x
+ит	n	it	x
 иықағаш	n	iıqag'ash
 иық	n	iıq
 ізбасар	n	izbasar
-із	n	iz
-ілгек	n	ilgek
-ілгері	n	ilgeri
-ілім	n	ilim
+із	n	iz	x
+ілгек	n	ilgek	x
+ілгері	n	ilgeri	x
+ілім	n	ilim	x
 ілмек	n	ilmek
 ілтипат	n	iltipat
 інжір	n	injir
@@ -749,41 +749,41 @@ Kazakh	POS	Karakalpak	Checked	Comment
 ісік	n	isik
 іс	n	is
 істеу	n	istew
-ішек	n	ishek
+ішек	n	ishek	x
 ішік	n	ishik
-ішімдік	n	ishimdik
+ішімдік	n	ishimlik	x
 іш	n	ish
-кадр	n	kadr
-казак	n	kazak
-калий	n	kaliy
-камбала	n	kambala
-камера	n	kamera
-канал	n	kanal
-кандидат	n	kandidat
-кандидатура	n	kandidatwra
-капитал	n	kapital
-каркас	n	karkas
-карта	n	karta
-категория	n	kategoriya
+кадр	n	kadr	x
+казак	n	kazak	x
+калий	n	kaliy	x
+камбала	n	kambala	x
+камера	n	kamera	x
+канал	n	kanal	x
+кандидат	n	kandidat	x
+кандидатура	n	kandidatura	x
+капитал	n	kapital	x
+каркас	n	karkas	x
+карта	n	karta	x
+категория	n	kategoriya	x
 катион	n	kation
-католик	n	katolik
-кафедра	n	kafedra
-кафе	n	kafe
+католик	n	katolik	x
+кафедра	n	kafedra	x
+кафе	n	kafe	x
 кәмелет	n	ka'melet
 кәмшат	n	ka'mshat
 кәпір	n	ka'pir
 кәріп	n	ka'rip
 кәріп%-қасер	n	ka'rip%-qaser
 кәсер	n	ka'ser
-кәсіп	n	ka'sip
+кәсіп	n	ka'sip	x
 кәсіпкер	n	ka'sipker
 кәсіпкерлік	n	ka'sipkerlik
 кәсіподақ	n	ka'sipodaq
 кәсіпорын	n	ka'siporın
 кәсіпорын	n	ka'siporın
-квант	n	kvant
-кварц	n	kvarc
-квота	n	kvota
+квант	n	kvant	x
+кварц	n	kvarc	x
+квота	n	kvota	x
 кебін	n	kebin
 кебіс	n	kebis
 кеден	n	keden
@@ -791,288 +791,288 @@ Kazakh	POS	Karakalpak	Checked	Comment
 кезек	n	kezek
 кезең	n	kezen'
 кез	n	kez
-кейін	n	keyin
+кейін	n	keyin	x
 кек	n	kek
-келбет	n	kelbet
-келешек	n	keleshek
+келбет	n	kelbet	x
+келешек	n	keleshek	x
 келі	n	keli
-келін	n	kelin
-келісім	n	kelisim
+келін	n	kelin	x
+келісім	n	kelisim	x
 келіссөз	n	kelisso'z
-кеме	n	keme
+кеме	n	keme	x
 кемеңгер	n	kemen'ger
-кемпір	n	kempir
+кемпір	n	kempir	x
 кенже	n	kenje
 кеніш	n	kenish
 кен	n	ken
-кеңес	n	ken'es
-кеңесші	n	ken'esshi
-кеңсе	n	ken'se
-кеңшілік	n	ken'shilik
-кепілдік	n	kepildik
-кепіл	n	kepil
+кеңес	n	ken'es	x
+кеңесші	n	ken'esshi	x
+кеңсе	n	ken'se	x
+кеңшілік	n	ken'shilik	x
+кепілдік	n	kepillik	x
+кепіл	n	kepil	x
 кептіргіш	n	keptirgish
-керек	n	kerek
+керек	n	kerek	x
 керектік	n	kerektik
 керемет	n	keremet
 кереует	n	kerewet
 керіс	n	keris
-кесек	n	kesek
+кесек	n	kesek	x
 кесір	n	kesir
-кеспе	n	kespe
+кеспе	n	kespe	x
 кеуде	n	kewde
 кеудеше	n	kewdeshe
 кешен	n	keshen
-кешірім	n	keshirim
-кеш	n	kesh
-киіз	n	kiiz
-киік	n	kiik
-киім%-кешек	n	kiim%-keshek
-киім	n	kiim
-килограмм	n	kilogramm
-километр	n	kilometr
-кино	n	kino
-кириллица	n	kirillica
-кит	n	kit
-кілем	n	kilem
-кілт	n	kilt
+кешірім	n	keshirim	x
+кеш	n	kesh	x
+киіз	n	kiyiz	x
+киік	n	kiyik	x
+киім%-кешек	n	kiyim%-kenshek	x
+киім	n	kiyim	x
+килограмм	n	kilogramm	x
+километр	n	kilometr	x
+кино	n	kino	x
+кириллица	n	kirillica	x
+кит	n	kit	x
+кілем	n	gilem	x
+кілт	n	gilt	x
 кінә	n	kina'
-кірпік	n	kirpik
+кірпік	n	kirpik	x
 кісі	n	kisi
-кітап	n	kitap
-кітапхана	n	kitapxana
-класс	n	klass
-климат	n	klimat
-коалиция	n	koaliciya
-коллегия	n	kollegiya
-колонна	n	kolonna
-колхоз	n	kolxoz
-команда	n	komanda
-комбинат	n	kombinat
-комедия	n	komediya
-энциклопедия	n	enciklopediya
-комиссар	n	komissar
-комиссия	n	komissiya
-комитет	n	komitet
-комментарий	n	kommentariy
+кітап	n	kitap	x
+кітапхана	n	kitapxana	x
+класс	n	klass	x
+климат	n	klimat	x
+коалиция	n	koaliciya	x
+коллегия	n	kollegiya	x
+колонна	n	kolonna	x
+колхоз	n	kolxoz	x
+команда	n	komanda	x
+комбинат	n	kombinat	x
+комедия	n	komediya	x
+энциклопедия	n	enciklopediya	x
+комиссар	n	komissar	x
+комиссия	n	komissiya	x
+комитет	n	komitet	x
+комментарий	n	kommentariy	x
 коммент	n	komment
-компания	n	kompaniya
-компартия	n	kompartiya
-комплекс	n	kompleks
-композитор	n	kompozitor
-композиция	n	kompoziciya
-компот	n	kompot
-компьютер	n	kompyuter
-комсомол	n	komsomol
-конгресс	n	kongress
-конкурс	n	konkwrs
-конституция	n	konstitwciya
-континент	n	kontinent
-контракт	n	kontrakt
-конференция	n	konferenciya
-концентрация	n	koncentraciya
-концерт	n	koncert
+компания	n	kompaniya	x
+компартия	n	kompartiya	x
+комплекс	n	kompleks	x
+композитор	n	kompozitor	x
+композиция	n	kompoziciya	x
+компот	n	kompot	x
+компьютер	n	kompyuter	x
+комсомол	n	komsomol	x
+конгресс	n	kongress	x
+конкурс	n	konkurs	x
+конституция	n	konstituciya	x
+континент	n	kontinent	x
+контракт	n	kontrakt	x
+конференция	n	konferenciya	x
+концентрация	n	koncentraciya	x
+концерт	n	koncert	x
 король	n	korol
-коррупция	n	korrwpciya
-кофта	n	kofta
-коэффициент	n	koefficient
-көбісі	n	ko'bisi
+коррупция	n	korrupciya	x
+кофта	n	kofta	x
+коэффициент	n	koefficient	x
+көбісі	n	ko'bisi	x
 көжек	n	ko'jek
-көз	n	ko'z
-көзқарас	n	ko'zqaras
-көк	n	ko'k
+көз	n	ko'z	x
+көзқарас	n	ko'z-qaras	x
+көк	n	ko'k	x
 көкөніс	n	ko'ko'nis
 көктем	n	ko'ktem
 көлденең	n	ko'ldenen'
-көлем	n	ko'lem
-көлік	n	ko'lik
-көл	n	ko'l
+көлем	n	ko'lem	x
+көлік	n	ko'lik	x
+көл	n	ko'l	x
 көмбе	n	ko'mbe
-көмек	n	ko'mek
-көмекші	n	ko'mekshi
-көмір	n	ko'mir
+көмек	n	ko'mek	x
+көмекші	n	ko'mekshi	x
+көмір	n	ko'mir	x
 көмірсутек	n	ko'mirswtek
 көміртек	n	ko'mirtek
 көңіл	n	ko'n'il
 көңіл	n	ko'n'il
-көпшілік	n	ko'pshilik
-көрініс	n	ko'rinis
+көпшілік	n	ko'pshilik	x
+көрініс	n	ko'rinis	x
 көріпкелдік	n	ko'ripkeldik
 көріпкелдің	n	ko'ripkeldin'
 көркемдік	n	ko'rkemdik
 көрме	n	ko'rme
-көрпе	n	ko'rpe
-көрсеткіш	n	ko'rsetkish
+көрпе	n	ko'rpe	x
+көрсеткіш	n	ko'rsetkish	x
 көрші	n	ko'rshi
 көсем	n	ko'sem
 көт	n	ko't
 көшбасшы	n	ko'shbasshı
-көше	n	ko'she
+көше	n	ko'she	x
 көш	n	ko'sh
-кратер	n	krater
-кредит	n	kredit
-кремль	n	kreml
-кризис	n	krizis
-кристалл	n	kristall
-критерий	n	kriteriy
+кратер	n	krater	x
+кредит	n	kredit	x
+кремль	n	kreml	x
+кризис	n	krizis	x
+кристалл	n	kristall	x
+критерий	n	kriteriy	x
 куәгер	n	kwa'ger
 куә	n	kwa'
 куәлік	n	kwa'lik
-купе	n	kwpe
-куртка	n	kwrtka
-курьер	n	kwrer
+купе	n	kupe	x
+куртка	n	kurtka	x
+курьер	n	kuryer	x
 күбі	n	ku'bi
 күбір	n	ku'bir
 күдер	n	ku'der
 күдік	n	ku'dik
 күзеу	n	ku'zew
 күйе	n	ku'ye
-күйеу	n	ku'yew
+күйеу	n	ku'yew	x
 күй	n	ku'y
 күлкі	n	ku'lki
 күмән	n	ku'ma'n
-күміс	n	ku'mis
+күміс	n	gu'mis	x
 күнәкар	n	ku'na'kar
 күнә	n	ku'na'
 күндік	n	ku'ndik
 күнкөріс	n	ku'nko'ris
-күн	n	ku'n
+күн	n	ku'n	x
 күнтізбе	n	ku'ntizbe
 күңкіл	n	ku'n'kil
 күң	n	ku'n'
-күрес	n	ku'res
-күріш	n	ku'rish
-күшік	n	ku'shik
-күш	n	ku'sh
-қабақ	n	qabaq
-қабат	n	qabat
+күрес	n	gu'res	x
+күріш	n	gu'rish	x
+күшік	n	ku'shik	x
+күш	n	ku'sh	x
+қабақ	n	qabaq	x
+қабат	n	qabat	x
 қабілет	n	qabilet
 қабір	n	qabir
-қабық	n	qabıq
-қабық	n	qabıq
-қабыл	n	qabıl
-қабырға	n	qabırg'a
-қағаз	n	qag'az
-қағида	n	qag'ida
-қадам	n	qadam
-қадір	n	qadir
-қажет	n	qajet
+қабық	n	qabıq	x
+қабық	n	qabıq	x
+қабыл	n	qabıl	x
+қабырға	n	qabırg'a	x
+қағаз	n	qag'az	x
+қағида	n	qag'ıyda	x
+қадам	n	qadem	x
+қадір	n	qa'dir	x
+қажет	n	qa'jet	x
 қажеттік	n	qajettik
 қажеттілік	n	qajettilik
 қажы	n	qajı
 қажылық	n	qajılıq
 қаза	n	qaza
-қазан	n	qazan
-қазір	n	qazir
+қазан	n	qazan	x
+қазір	n	ha'zir	x
 қаз	n	qaz
-қазы	n	qazı
+қазы	n	qazı	x
 қазына	n	qazına
-қайғы	n	qayg'ı
-қайран	n	qayran
-қайраткер	n	qayratker
-қайрат	n	qayrat
-қайшы	n	qayshı
-қайық	n	qayıq
+қайғы	n	qayg'ı	x
+қайран	n	hayran	x
+қайраткер	n	g'ayratker	x
+қайрат	n	g'ayrat	x
+қайшы	n	qayshı	x
+қайық	n	qayıq	x
 қайыр	n	qayır
 қайырма	n	qayırma
 қайырымдылық	n	qayırımdılıq
 қайырым	n	qayırım
 қақпа	n	qaqpa
 қақтығыс	n	qaqtıg'ıs
-қалайы	n	qalayı
-қала	n	qala
-қалам	n	qalam
+қалайы	n	qalayı	x
+қала	n	qala	x
+қалам	n	qa'lem	x
 қаламұш	n	qalamush
 қалбағай	n	qalbag'ay
-қалта	n	qalta
+қалта	n	qalta	x
 қалыңдық	n	qalın'dıq
 қалып	n	qalıp
 қамба	n	qamba
 қам	n	qam
-қамшы	n	qamshı
-қамыр	n	qamır
-қамыс	n	qamıs
-қанат	n	qanat
-қан	n	qan
+қамшы	n	qamshı	x
+қамыр	n	qamır	x
+қамыс	n	qamıs	x
+қанат	n	qanat	x
+қан	n	qan	x
 қантар	n	qantar
-қант	n	qant
+қант	n	qant	x
 қаңтар	n	qan'tar
 қапас	n	qapas
 қап	n	qap
 қарабайыр	n	qarabayır
 қаражат	n	qarajat
-қарақшы	n	qaraqshı
-қарақшылық	n	qaraqshılıq
-қарауыл	n	qarawıl
-қараша	n	qarasha
-қарға	n	qarg'a
+қарақшы	n	qaraqshı	x
+қарақшылық	n	qaraqshılıq	x
+қарауыл	n	qarawıl	x
+қараша	n	qarasha	x
+қарға	n	g'arg'a	x
 қарғыс	n	qarg'ıs
-қаржы	n	qarjı
+қаржы	n	qarjı	x
 қария	n	qariya
-қар	n	qar
+қар	n	qar	x
 қарқара	n	qarqara
 қарқын	n	qarqın
 қарқындылық	n	qarqındılıq
-қарлығаш	n	qarlıg'ash
+қарлығаш	n	qarlıg'ash	x
 қарсаң	n	qarsan'
-қарсылас	n	qarsılas
-қарсылық	n	qarsılıq
+қарсылас	n	qarsılas	x
+қарсылық	n	qarsılıq	x
 қарт	n	qart
 қару	n	qarw
 қаршыға	n	qarshıg'a
-қарыз	n	qarız
+қарыз	n	qarız	x
 қарық	n	qarıq
-қарындас	n	qarındas
-қарын	n	qarın
+қарындас	n	qarındas	x
+қарын	n	qarın	x
 қарыс	n	qarıs
 қасбет	n	qasbet
-қасиет	n	qasiet
+қасиет	n	qa'siyet	x
 қасірет	n	qasiret
-қас	n	qas
-қасқыр	n	qasqır
+қас	n	qas	x
+қасқыр	n	qasqır	x
 қастандық	n	qastandıq
 қастер	n	qaster
 қастық	n	qastıq
-қасық	n	qasıq
-қатар	n	qatar
-қате	n	qate
-қателік	n	qatelik
+қасық	n	qasıq	x
+қатар	n	qatar	x
+қате	n	qa'te	x
+қателік	n	qa'telik	x
 қатер	n	qater
 қатыc	n	qatıc
 қатынас	n	qatınas
-қатын	n	qatın
+қатын	n	qatın	x
 қатыс	n	qatıs
-қауіп	n	qawip
-қауіп	n	qawip
-қауіпсіздік	n	qawipsizdik
+қауіп	n	qa'wip	x
+қауіп	n	qa'wip	x
+қауіпсіздік	n	qa'wipsizlik	x
 қаулы	n	qawlı
 қауымдастық	n	qawımdastıq
 қауым	n	qawım
 қаһар	n	qahar
-қаһарман	n	qaharman
+қаһарман	n	qaharman	x
 қи	n	qi
 қимыл	n	qimıl
 қиындық	n	qiındıq
 қиямет	n	qiyamet
 қоғам	n	qog'am
 қожайын	n	qojayın
-қожа	n	qoja
-қозғалыс	n	qozg'alıs
-қозы	n	qozı
-қой	n	qoy
+қожа	n	xoja	x
+қозғалыс	n	qozg'alıs	x
+қозы	n	qozı	x
+қой	n	qoy	x
 қойнау	n	qoynaw
 қоқыс	n	qoqıs
 қола	n	qola
 қолбасшы	n	qolbasshı
-қолғап	n	qolg'ap
-қолжазба	n	qoljazba
-қол	n	qol
+қолғап	n	qolg'ap	x
+қолжазба	n	qoljazba	x
+қол	n	qol	x
 қолөнерші	n	qolo'nershi
 қолтаңба	n	qoltan'ba
 қолтаңба	n	qoltan'ba
-қонақ	n	qonaq
+қонақ	n	qonaq	x
 қонжық	n	qonjıq
-қоныс	n	qonıs
+қоныс	n	qonıs	x
 қора	n	qora
 қорек	n	qorek
 қор	n	qor
@@ -1080,34 +1080,34 @@ Kazakh	POS	Karakalpak	Checked	Comment
 қорытынды	n	qorıtındı
 қорытынды	n	qorıtındı
 қошемет	n	qoshemet
-қошқар	n	qoshqar
-қоян	n	qoyan
+қошқар	n	qoshqar	x
+қоян	n	qoyan	x
 қуаңшылық	n	qwan'shılıq
-қуат	n	qwat
+қуат	n	quwat	x
 қуғын	n	qwg'ın
 қулық	n	qwlıq
-құбылыс	n	qubılıs
+құбылыс	n	qubılıs	x
 құбыр	n	qubır
 құбыр	n	qubır
-Құдай	n	Quday
-құдірет	n	qudiret
-құдық	n	qudıq
+Құдай	n	Quday	x
+құдірет	n	qudiret	x
+құдық	n	qudıq	x
 құжат	n	qujat
 құжат	n	qujat
 құз	n	quz
 құзырет	n	quzıret
 құқ	n	quq
 құқыққорғаушы	n	quqıqqorg'awshı
-құқық	n	quqıq
+құқық	n	huqıq	x
 құқықтық	n	quqıqtıq
-құлақ	n	qulaq
+құлақ	n	qulaq	x
 құлан	n	qulan
-құл	n	qul
-құлшылық	n	qulshılıq
+құл	n	qul	x
+құлшылық	n	qulshılıq	x
 құлын	n	qulın
-құмар	n	qumar
-құм	n	qum
-құмырсқа	n	qumırsqa
+құмар	n	qumar	x
+құм	n	qum	x
+құмырсқа	n	qumırsqa	x
 құнажын	n	qunajın
 құнан	n	qunan
 құндыз	n	qundız
@@ -1115,93 +1115,93 @@ Kazakh	POS	Karakalpak	Checked	Comment
 құн	n	qun
 құпия	n	qupiya
 құралай	n	quralay
-құрал	n	qural
+құрал	n	qural	x
 құрама	n	qurama
 құрам	n	quram
-Құран	n	Quran
-Құран	n	Quran
-құрбандық	n	qurbandıq
-құрбан	n	qurban
+Құран	n	Quran	x
+Құран	n	Quran	x
+құрбандық	n	qurbanlıq	x
+құрбан	n	qurban	x
 құр	n	qur
-құрмет	n	qurmet
+құрмет	n	hu'rmet	x
 құрсақ	n	qursaq
 құрылтайшы	n	qurıltayshı
 құрылым	n	qurılım
 құрылыс	n	qurılıs
 құрым	n	qurım
-құс	n	qus
+құс	n	qus	x
 құт	n	qut
-құшақ	n	qushaq
+құшақ	n	qushaq	x
 қызғалдақ	n	qızg'aldaq
-қыз	n	qız
-қызметкер	n	qızmetker
-қызмет	n	qızmet
+қыз	n	qız	x
+қызметкер	n	xızmetker	x
+қызмет	n	xızmet	x
 қызметтес	n	qızmettes
-қызметші	n	qızmetshi
-қызығушылық	n	qızıg'wshılıq
+қызметші	n	xızmetshi	x
+қызығушылық	n	qızıg'ıwshılıq	x
 қызылша	n	qızılsha
 қызынақ	n	qızınaq
 қылмыс	n	qılmıs
-қымыз	n	qımız
-қыпшақ	n	qıpshaq
+қымыз	n	qımız	x
+қыпшақ	n	qıpshaq	x
 қыркүйек	n	qırku'yek
 қыркүйек	n	qırku'yek
 қыркүйек	n	qırku'yek
 қыртыс	n	qırtıs
 қыруар	n	qırwar
-қыс	n	qıs
+қыс	n	qıs	x
 қысқыш% темір	n	qısqısh% temir
 қыспақ	n	qıspaq
 қыстау	n	qıstaw
 қыша% бот	n	qısha% bot
 қыша	n	qısha
 қышқыл	n	qıshqıl
-лаборатория	n	laboratoriya
+лаборатория	n	laboratoriya	x
 лавр	n	lavr
 лағынет	n	lag'ınet
-лақап	n	laqap
+лақап	n	laqap	x
 лақ	n	laq
 лаңкестік	n	lan'kestik
 лас	n	las
 лат	n	lat
-лауреат	n	lawreat
-лейтенант	n	leytenant
-лексика	n	leksika
-лекция	n	lekciya
-лига	n	liga
-лимон	n	limon
-лимфа	n	limfa
-линия	n	liniya
-лирика	n	lirika
-лифт	n	lift
-лицензия	n	licenziya
-логика	n	logika
-лорд	n	lord
+лауреат	n	laureat	x
+лейтенант	n	leytenant	x
+лексика	n	leksika	x
+лекция	n	lekciya	x
+лига	n	liga	x
+лимон	n	limon	x
+лимфа	n	limfa	x
+линия	n	liniya	x
+лирика	n	lirika	x
+лифт	n	lift	x
+лицензия	n	licenziya	x
+логика	n	logika	x
+лорд	n	lord	x
 лұғат	n	lug'at
-магний	n	magniy
-магнит	n	magnit
-мағлұмат	n	mag'lumat
+магний	n	magniy	x
+магнит	n	magnit	x
+мағлұмат	n	mag'lıwmat	x
 мағына	n	mag'ına
 мадақ	n	madaq
 мазақ	n	mazaq
 мазар	n	mazar
-мазмұн	n	mazmun
+мазмұн	n	mazmun	x
 майдангер	n	maydanger
-майдан	n	maydan
-май	n	may
-мақала	n	maqala
-мақсат	n	maqsat
+майдан	n	maydan	x
+май	n	may	x
+мақала	n	maqala	x
+мақсат	n	maqset	x
 мақсұм	n	maqsum
 мақта	n	maqta
-мақтаныш	n	maqtanısh
+мақтаныш	n	maqtanısh	x
 малай	n	malay
-мал	n	mal
+мал	n	mal	x
 малшы	n	malshı
 мамандық	n	mamandıq
 маман	n	maman
 мамыр	n	mamır
-манат	n	manat
-мандат	n	mandat
+манат	n	manat	x
+мандат	n	mandat	x
 мансап	n	mansap
 маңай	n	man'ay
 маңдай	n	man'day
