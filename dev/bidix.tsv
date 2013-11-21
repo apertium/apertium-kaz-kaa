@@ -137,7 +137,9 @@ Kazakh	POS	Karakalpak	Checked	Comment
 археология	n	arxeologiya	x
 арыз	n	arız	x
 арыстан	n	arıslan	x
-ас	n	awqat/as/tamaq	x
+ас	n	awqat	x
+ас	n	as	x
+ас	n	tamaq	x
 асбест	n	asbest	x
 асқабақ	n	asqabaq	x
 асқазан	n	asqazan	x
@@ -1209,102 +1211,102 @@ Kazakh	POS	Karakalpak	Checked	Comment
 маң	n	man'
 маңыз	n	man'ız
 марал	n	maral
-маржан	n	marjan
-марқұм	n	marqum
-маршал	n	marshal
+маржан	n	marjan	x
+марқұм	n	marqum	x
+маршал	n	marshal	x
 маса	n	masa
-маскүнем	n	masku'nem
-масқара	n	masqara
-масса	n	massa
-мастер	n	master
-математика	n	matematika
-математик	n	matematik
-материал	n	material
-материя	n	materiya
-матч	n	match
-маусым	n	mawsım
-машина	n	mashina
-мәдениет	n	ma'deniet
-мәжіліс	n	ma'jilis
+маскүнем	n	masku'nem	x
+масқара	n	masqara	x
+масса	n	massa	x
+мастер	n	master	x
+математика	n	matematika	x
+математик	n	matematik	x
+материал	n	material	x
+материя	n	materiya	x
+матч	n	match	x
+маусым	n	ma'wsim	x
+машина	n	mashina	x
+мәдениет	n	ma'deniyat	x
+мәжіліс	n	ma'jilis	x
 мәйіт	n	ma'yit
 мәлімдеме	n	ma'limdeme
-мәлімет	n	ma'limet
-мәлімет	n	ma'limet
+мәлімет	n	ma'g'lıwmat	x
+мәлімет	n	ma'g'lıwmat	x
 мәміле	n	ma'mile
 мән	n	ma'n
 мәңгілік	n	ma'n'gilik
-мәртебе	n	ma'rtebe
-мәрте	n	ma'rte
+мәртебе	n	ma'rtebe	x
+мәрте	n	ma'rte	x
 мәрхамет	n	ma'rxamet
-мәселе	n	ma'sele
+мәселе	n	ma'sele	x
 мәслихат	n	ma'slixat
 мәстек	n	ma'stek
 мәтін	n	ma'tin
-медаль	n	medal
-медицина	n	medicina
-медресе	n	medrese
-мезгіл	n	mezgil
+медаль	n	medal	x
+медицина	n	medicina	x
+медресе	n	medrese	x
+мезгіл	n	mezgil	x
 мейіз	n	meyiz
 мейірім	n	meyirim
 мейрам	n	meyram
-мекеме	n	mekeme
+мекеме	n	mekeme	x
 мекен	n	meken
-мектеп	n	mektep
-мембрана	n	membrana
-мемлекет	n	memleket	x
-меншік	n	menshik
+мектеп	n	mektep	x
+мембрана	n	membrana	x
+мемлекет	n	ma'mleket	x
+меншік	n	menshik	x
 меңгеруші	n	men'gerwshi
 мерәсім	n	mera'sim
-мерген	n	mergen
+мерген	n	mergen	x
 мердігер	n	merdiger
 мерез	n	merez
 мерей	n	merey
 мерейтой	n	mereytoy
-мереке	n	mereke
+мереке	n	mereke	x
 мерзім	n	merzim
 мерт	n	mert
-металл	n	metall
-металлургия	n	metallwrgiya
-метан	n	metan
-метафизик	n	metafizik
-метафморф	n	metafmorf
-метафора	n	metafora
-метр	n	metr
-механика	n	mexanika
-мешіт	n	meshit
-миграция	n	migraciya
-микроскоп	n	mikroskop
-милиция	n	miliciya
-миллионер	n	millioner
+металл	n	metall	x
+металлургия	n	metallwrgiya	x
+метан	n	metan	x
+метафизик	n	metafizik	x
+метафморф	n	metafmorf	x
+метафора	n	metafora	x
+метр	n	metr	x
+механика	n	mexanika	x
+мешіт	n	meshit	x
+миграция	n	migraciya	x
+микроскоп	n	mikroskop	x
+милиция	n	miliciya	x
+миллионер	n	millioner	x
 ми	n	mi
 мим	n	mim
-минерал	n	mineral
-министрлік	n	ministrlik
-министр	n	ministr
-мирас	n	miras
+минерал	n	mineral	x
+министрлік	n	ministrlik	x
+министр	n	ministr	x
+мирас	n	miyras	x
 мир	n	mir
-миф	n	mif
+миф	n	mif	x
 мінажат	n	minajat
 міндет	n	mindet
-мінез	n	minez
+мінез	n	minez	x
 мін	n	min
-мойын	n	moyın
-мойын	n	moyın
-молда	n	molda
-молекула	n	molekwla
-молибден	n	molibden
-монархия	n	monarxiya
-мониторинг	n	monitoring
-монография	n	monografiya
-монолог	n	monolog
-мораль	n	moral
-мөлшер	n	mo'lsher
+мойын	n	moyın	x
+мойын	n	moyın	x
+молда	n	molla	x
+молекула	n	molekula	x
+молибден	n	molibden	x
+монархия	n	monarxiya	x
+мониторинг	n	monitoring	x
+монография	n	monografiya	x
+монолог	n	monolog	x
+мораль	n	moral	x
+мөлшер	n	mo'lsher	x
 мөртабан	n	mo'rtaban
-мрамор	n	mramor
-музей	n	mwzey
-музыка	n	mwzıka
-музыкант	n	mwzıkant
-мутация	n	mwtaciya
+мрамор	n	mramor	x
+музей	n	muzey	x
+музыка	n	muzıka	x
+музыкант	n	muzıkant	x
+мутация	n	mutaciya	x
 мүгедек	n	mu'gedek
 мүдде	n	mu'dde
 мүйіз	n	mu'yiz
@@ -1312,10 +1314,10 @@ Kazakh	POS	Karakalpak	Checked	Comment
 мүмін	n	mu'min
 мүмкіндік	n	mu'mkindik
 мүше	n	mu'she
-мұғалім% әйел	n	mug'alim% a'yel
-мұғалім	n	mug'alim
+мұғалім% әйел	n	mug'allim% a'yel	x
+мұғалім	n	mug'allim	x
 мұғжиза	n	mug'jiza
-мұз	n	muz
+мұз	n	muz	x
 мұқтаж	n	muqtaj
 мұнай	n	munay
 мұнайшы	n	munayshı
@@ -1331,280 +1333,280 @@ Kazakh	POS	Karakalpak	Checked	Comment
 мұрындық	n	murındıq
 мұрындық	n	murındıq
 мұрын	n	murın
-мұсылман	n	musılman
+мұсылман	n	musılman	x
 мұхит	n	muxit
 мылқау	n	mılqaw
-мылтық	n	mıltıq
-мырза	n	mırza
-мысал	n	mısal
+мылтық	n	mıltıq	x
+мырза	n	mırza	x
+мысал	n	mısal	x
 мысқал	n	mısqal
-мыс	n	mıs
-мысық	n	mısıq
+мыс	n	mıs	x
+мысық	n	pıshıq	x
 нағашы	n	nag'ashı
 нағыз	n	nag'ız
 назар	n	nazar
 найзағай	n	nayzag'ay
-намаз	n	namaz
-намыс	n	namıs
-нан	n	nan
-наразылық	n	narazılıq
+намаз	n	namaz	x
+намыс	n	namıs	x
+нан	n	nan	x
+наразылық	n	narazılıq	x
 нарық	n	narıq
 насихат	n	nasixat
 науқан	n	nawqan
-наурыз	n	nawrız
-нашар	n	nashar
-нәресте	n	na'reste
+наурыз	n	nawrız	x
+нашар	n	nashar	x
+нәресте	n	na'reste	x
 нәр	n	na'r
-нәтиже	n	na'tije
-негіз	n	negiz
-неке	n	neke
+нәтиже	n	na'tiyje	x
+негіз	n	negiz	x
+неке	n	neke	x
 немере% аға	n	nemere% ag'a
 немере	n	nemere
 несие	n	nesie
-несібе	n	nesibe
-ниет	n	niet
-никель	n	nikel
-норма	n	norma
-нөкер	n	no'ker
-нөмір	n	no'mir
-нүкте	n	nu'kte
+несібе	n	nesiybe	x
+ниет	n	niyet	x
+никель	n	nikel	x
+норма	n	norma	x
+нөкер	n	no'ker	x
+нөмір	n	nomer	x
+нүкте	n	noqat	x
 нұқсан	n	nuqsan
-нұр	n	nur
-нұсқа	n	nusqa
+нұр	n	nur	x
+нұсқа	n	nusqa	x
 нығмет	n	nıg'met
 нысана	n	nısana
 облыс	n	oblıs
-объект	n	obekt
+объект	n	obekt	x
 одақ	n	odaq
 одақтас	n	odaqtas
-ой	n	oy
-ойпат	n	oypat
-ойын	n	oyın
-ойыншық	n	oyınshıq
-ойыншы	n	oyınshı
-округ	n	okrwg
+ой	n	oy	x
+ойпат	n	oypat	x
+ойын	n	oyın	x
+ойыншық	n	oyınshıq	x
+ойыншы	n	oyınshı	x
+округ	n	okrug	x
 оқиға	n	oqig'a
-оқ	n	oq
-оқушы% әйел	n	oqwshı% a'yel
-оқушы	n	oqwshı
+оқ	n	oq	x
+оқушы% әйел	n	oqıwshı% a'yel	x
+оқушы	n	oqıwshı	x
 оқырман	n	oqırman
-оқытушы	n	oqıtwshı
-олжа	n	olja
-олигоцен	n	oligocen
-олимпиада	n	olimpiada
-омыртқа	n	omırtqa
-онлайн	n	onlayn
+оқытушы	n	oqıtıwshı	x
+олжа	n	olja	x
+олигоцен	n	oligocen	x
+олимпиада	n	olimpiada	x
+омыртқа	n	omırtqa	x
+онлайн	n	onlayn	x
 оңтүстік	n	on'tu'stik
 опасыздық	n	opasızdıq
 опат	n	opat
-опера	n	opera
-операция	n	operaciya
+опера	n	opera	x
+операция	n	operaciya	x
 оп	n	op
-оппозиция	n	oppoziciya
-оптика	n	optika
-ораза	n	oraza
-орай	n	oray
+оппозиция	n	oppoziciya	x
+оптика	n	optika	x
+ораза	n	oraza	x
+орай	n	oray	x
 оралман	n	oralman
-орамал	n	oramal
-орамал	n	oramal
-орбита	n	orbita
-орган	n	organ
+орамал	n	oramal	x
+орамал	n	oramal	x
+орбита	n	orbita	x
+орган	n	organ	x
 орда	n	orda
-орден	n	orden
+орден	n	orden	x
 орман	n	orman
-орталық	n	ortalıq
-орта	n	orta
-орынбасар	n	orınbasar
+орталық	n	ortalıq	x
+орта	n	orta	x
+орынбасар	n	orınbasar	x
 орындық	n	orındıq
-орын	n	orın
-орын	n	orın
+орын	n	orın	x
+орын	n	orın	x
 отан	n	otan
 отбасылық	n	otbasılıq
-от	n	ot
-отряд	n	otryad
+от	n	ot	x
+отряд	n	otryad	x
 отырыс	n	otırıs
-офицер	n	oficer
-очерк	n	ocherk
-өгіз	n	o'giz
+офицер	n	oficer	x
+очерк	n	ocherk	x
+өгіз	n	o'giz	x
 өгізше	n	o'gizshe
-өзгеріс	n	o'zgeris
+өзгеріс	n	o'zgeris	x
 өзен	n	o'zen
 өкіл	n	o'kil
 өкімет	n	o'kimet
-өкініш	n	o'kinish
-өкше	n	o'kshe
+өкініш	n	o'kinish	x
+өкше	n	o'kshe	x
 өлең	n	o'len'
-өлім	n	o'lim
+өлім	n	o'lim	x
 өлке	n	o'lke
-өмір	n	o'mir
-өндіріс	n	o'ndiris
+өмір	n	o'mir	x
+өндіріс	n	o'ndiris	x
 өнеркәсіп	n	o'nerka'sip
-өнер	n	o'ner
-өнім	n	o'nim
+өнер	n	o'ner	x
+өнім	n	o'nim	x
 өңір	n	o'n'ir
 өң	n	o'n'
 өркен	n	o'rken
-өрмекші	n	o'rmekshi
+өрмекші	n	o'rmekshi	x
 өр	n	o'r
-өрт	n	o'rt
-өсек	n	o'sek
+өрт	n	o'rt	x
+өсек	n	o'sek	x
 өсиет	n	o'siet
-өсімдік	n	o'simdik
-өсім	n	o'sim
+өсімдік	n	o'simlik	x
+өсім	n	o'sim	x
 өтемақы	n	o'temaqı
-өтініш	n	o'tinish
-өтірік	n	o'tirik
-өтірікші	n	o'tirikshi
-пайғамбарлық	n	payg'ambarlıq
-пайғамбар	n	payg'ambar
-пайда	n	payda
+өтініш	n	o'tinish	x
+өтірік	n	o'tirik	x
+өтірікші	n	o'tirikshi	x
+пайғамбарлық	n	payg'ambarlıq	x
+пайғамбар	n	payg'ambar	x
+пайда	n	payda	x
 пайыз	n	payız
-палуан	n	palwan
-параллель	n	parallel
-пара	n	para
+палуан	n	palwan	x
+параллель	n	parallel	x
+пара	n	para	x
 парасат	n	parasat
-парламент	n	parlament
-пар	n	par
-партия	n	partiya
-патшалық	n	patshalıq
-патша	n	patsha
+парламент	n	parlament	x
+пар	n	par	x
+партия	n	partiya	x
+патшалық	n	patshalıq	x
+патша	n	patsha	x
 пәтер	n	pa'ter
-педагогика	n	pedagogika
-педагог	n	pedagog
+педагогика	n	pedagogika	x
+педагог	n	pedagog	x
 пейіл	n	peyil
 пейіш	n	peyish
 пенде	n	pende
-период	n	period
-періште	n	perishte
+период	n	period	x
+періште	n	perishte	x
 перне	n	perne
-печенье	n	pechene
+печенье	n	pechene	x
 пеш	n	pesh
-пигмент	n	pigment
-пионер	n	pioner
-пияз	n	piyaz
-пікір	n	pikir
-піл	n	pil
+пигмент	n	pigment	x
+пионер	n	pioner	x
+пияз	n	piyaz	x
+пікір	n	pikir	x
+піл	n	pil	x
 пішін	n	pishin
-планета	n	planeta
-пластика	n	plastika
-пластмасса	n	plastmassa
-платформа	n	platforma
-плацкарт	n	plackart
-повесть	n	povest
-подполковник	n	podpolkovnik
-пойыз	n	poyız
-полиметалл	n	polimetall
-полиция	n	policiya
-полюс	n	polyus
-порт	n	port
-портрет	n	portret
-потенциал	n	potencial
-пошта	n	poshta
-поэзия	n	poeziya
-поэма	n	poema
-православие	n	pravoslavie
+планета	n	planeta	x
+пластика	n	plastika	x
+пластмасса	n	plastmassa	x
+платформа	n	platforma	x
+плацкарт	n	plackart	x
+повесть	n	povest	x
+подполковник	n	podpolkovnik	x
+пойыз	n	poezd	x
+полиметалл	n	polimetall	x
+полиция	n	policiya	x
+полюс	n	polyus	x
+порт	n	port	x
+портрет	n	portret	x
+потенциал	n	potencial	x
+пошта	n	pochta	x
+поэзия	n	poeziya	x
+поэма	n	poema	x
+православие	n	pravoslavie	x
 президент	n	prezident	x
-президенттік	n	prezidenttik
-премия	n	premiya
-премьер	n	premer
-препарат	n	preparat
-призма	n	prizma
-приказ	n	prikaz
-принцип	n	princip
-программа	n	programma
-прогресс	n	progress
-проект	n	proekt
-проза	n	proza
-прокуратура	n	prokwratwra
-прокурор	n	prokwror
-промышленность	n	promıshlennost
-протестант	n	protestant
-протон	n	proton
-психология	n	psixologiya
-публицистика	n	pwblicistika
-публицист	n	pwblicist
-пункт	n	pwnkt
-пышақ	n	pıshaq
-пьеса	n	pesa
-радиация	n	radiaciya
-радий	n	radiy
-радио	n	radio
-радиус	n	radiws
-разряд	n	razryad
+президенттік	n	prezidentlik	x
+премия	n	premiya	x
+премьер	n	premer	x
+препарат	n	preparat	x
+призма	n	prizma	x
+приказ	n	prikaz	x
+принцип	n	princip	x
+программа	n	programma	x
+прогресс	n	progress	x
+проект	n	proekt	x
+проза	n	proza	x
+прокуратура	n	prokuratura	x
+прокурор	n	prokuror	x
+промышленность	n	o'ndiris	x
+протестант	n	protestant	x
+протон	n	proton	x
+психология	n	psixologiya	x
+публицистика	n	publicistika	x
+публицист	n	publicist	x
+пункт	n	punkt	x
+пышақ	n	pıshaq	x
+пьеса	n	pesa	x
+радиация	n	radiaciya	x
+радий	n	radiy	x
+радио	n	radio	x
+радиус	n	radius	x
+разряд	n	razryad	x
 рай	n	ray
-район	n	rayon
-ракета	n	raketa
-рақмет	n	raqmet
+район	n	rayon	x
+ракета	n	raketa	x
+рақмет	n	raxmet	x
 рақымдылық	n	raqımdılıq
 рақым	n	raqım
 рақымшылық	n	raqımshılıq
 рас	n	ras
-рәсім	n	ra'sim
-реактор	n	reaktor
-реакция	n	reakciya
-революция	n	revolyuciya
-регион	n	region
-редактор	n	redaktor
-режим	n	rejim
-режиссер	n	rejisser
-рекорд	n	rekord
-ректор	n	rektor
-рентген	n	rentgen
-репортер	n	reporter
+рәсім	n	su'wret	x
+реактор	n	reaktor	x
+реакция	n	reakciya	x
+революция	n	revolyuciya	x
+регион	n	region	x
+редактор	n	redaktor	x
+режим	n	rejim	x
+режиссер	n	rejisser	x
+рекорд	n	rekord	x
+ректор	n	rektor	x
+рентген	n	rentgen	x
+репортер	n	reporter	x
 республика	n	respublika	x
-рет	n	ret
-референдум	n	referendwm
-реформа	n	reforma
-рецензия	n	recenziya
+рет	n	ret	x
+референдум	n	referendum	x
+реформа	n	reforma	x
+рецензия	n	recenziya	x
 ризық	n	rizıq
 род	n	rod
-роль	n	rol
-роман	n	roman
+роль	n	rol	x
+роман	n	roman	x
 рөл	n	ro'l
-ру	n	rw
-рух	n	rwx
-ручка	n	rwchka
-рұқсат	n	ruqsat
-сабақ	n	sabaq
-сабан	n	saban
-сабын	n	sabın
-сағат	n	sag'at
-садақа	n	sadaqa
-саз	n	saz
-сайлау	n	saylaw
-сақал	n	saqal
+ру	n	uruw	x
+рух	n	rux	x
+ручка	n	ruchka	x
+рұқсат	n	ruxsat	x
+сабақ	n	sabaq	x
+сабан	n	saban	x
+сабын	n	sabın	x
+сағат	n	saat	x
+садақа	n	sadaqa	x
+саз	n	saz	x
+сайлау	n	saylaw	x
+сақал	n	saqal	x
 сала	n	sala
 салдар	n	saldar
-салқын	n	salqın
-салмақ	n	salmaq
-салтанат	n	saltanat
+салқын	n	salqın	x
+салмақ	n	salmaq	x
+салтанат	n	saltanat	x
 салт	n	salt
-салық	n	salıq
-санақ	n	sanaq
-сана	n	sana
-сандық	n	sandıq
-сан	n	san
-сапар	n	sapar
-сапа	n	sapa
-сарай	n	saray
+салық	n	salıq	x
+санақ	n	sanaq	x
+сана	n	sana	x
+сандық	n	sandıq	x
+сан	n	san	x
+сапар	n	sapar	x
+сапа	n	sapa	x
+сарай	n	saray	x
 сараптама	n	saraptama
 сарапшы	n	sarapshı
 сарбаз	n	sarbaz
-сарымсақ	n	sarımsaq
+сарымсақ	n	sarımsaq	x
 сарып	n	sarıp
-сауалнама	n	sawalnama
-сауал	n	sawal
-сауда	n	sawda
+сауалнама	n	sorawnama	x
+сауал	n	soraw	x
+сауда	n	sawda	x
 саусақ	n	sawsaq
 сау	n	saw
 сауын	n	sawın
 сауыт	n	sawıt
 саясаткер	n	sayasatker
-саясат	n	sayasat
+саясат	n	siyasat	x
 саясаттанушы	n	sayasattanwshı
-сая	n	saya
-саяхат	n	sayaxat
-саяхатшы	n	sayaxatshı
+сая	n	saya	x
+саяхат	n	sayaxat	x
+саяхатшы	n	sayaxatshı	x
 сәби	n	sa'bi
 сәбіз	n	sa'biz
 сәжде	n	sa'jde
