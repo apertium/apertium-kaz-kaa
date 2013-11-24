@@ -1611,7 +1611,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 сәбіз	n	sa'biz
 сәжде	n	sa'jde
 сәлеметтік	n	sa'lemettik
-сәлем	n	sa'lem
+сәлем	n	sa'lem	х
 сән	n	sa'n
 сәрсенбі	n	sa'rsenbi
 сәт	n	sa't
@@ -1620,91 +1620,91 @@ Kazakh	POS	Karakalpak	Checked	Comment
 сәулет	n	sa'wlet
 сәулетші	n	sa'wletshi
 себепкер	n	sebepker
-себеп	n	sebep
+себеп	n	sebep	х
 сегізаяқ	n	segizayaq
-сезім	n	sezim
-сезон	n	sezon
+сезім	n	sezim	х
+сезон	n	sezon	х
 сейсенбі	n	seysenbi
 секіл	n	sekil
-сексеуіл	n	seksewil
-сектор	n	sektor
+сексеуіл	n	seksewil	х
+сектор	n	sektor	х
 селеу	n	selew
-семинар	n	seminar
+семинар	n	seminar	х
 семсер	n	semser
-сенатор	n	senator
-сенат	n	senat
+сенатор	n	senator	х
+сенат	n	senat	х
 сенбі	n	senbi
-сенім	n	senim
+сенім	n	isenim	x
 сенімсіздік	n	senimsizdik
 серік	n	serik
 серіктес	n	seriktes
 серіктестік	n	seriktestik
-сертификат	n	sertifikat
+сертификат	n	sertifikat	x
 серт	n	sert
 сиқыр	n	siqır
-символ	n	simvol
-синоним	n	sinonim
-синтез	n	sintez
+символ	n	simvol	x
+синоним	n	sinonim	x
+синтез	n	sintez	x
 сипат	n	sipat
 сипаттама	n	sipattama
-сиыр	n	siır
+сиыр	n	sıyır	x
 сияқ	n	siyaq
 сия	n	siya
 сілкініс	n	silkinis
-сілтеме	n	silteme
-сіңлі	n	sin'li
-совет	n	sovet
-совхоз	n	sovxoz
+сілтеме	n	silteme	x
+сіңлі	n	sin'li	x
+совет	n	sovet	x
+совхоз	n	sovxoz	x
 соғым	n	sog'ım
-соғыс	n	sog'ıs
+соғыс	n	sog'ıs	x
 соз	n	soz
 созым	n	sozım
-соққы	n	soqqı
-соқыр	n	soqır
-солдат	n	soldat
-солист	n	solist
+соққы	n	soqqı	x
+соқыр	n	soqır	x
+солдат	n	soldat	x
+солист	n	solist	x
 солтүстік	n	soltu'stik
-сорпа	n	sorpa
+сорпа	n	sorpa	x
 сор	n	sor
 сортаң	n	sortan'
 сот	n	sot
-социология	n	sociologiya
-сөздік	n	so'zdik
-сөз	n	so'z
+социология	n	sociologiya	x
+сөздік	n	so'zlik	x
+сөз	n	so'z	x
 сөре	n	so're
-спикер	n	spiker
-спонсор	n	sponsor
-спорт	n	sport
-спортшы	n	sportshı
-стадион	n	stadion
-стакан	n	stakan
-стандарт	n	standart
-станция	n	stanciya
-статистика	n	statistika
-стиль	n	stil
-студент% әйел	n	stwdent% a'yel
-студент	n	stwdent
-субъект	n	swbekt
-судья	n	swdya
-сульфат	n	swlfat
-сум	n	swm
-сурет	n	swret
-суретші	n	swretshi
-су	n	sw
+спикер	n	spiker	x
+спонсор	n	sponsor	x
+спорт	n	sport	x
+спортшы	n	sportshı	x
+стадион	n	stadion	x
+стакан	n	stakan	x
+стандарт	n	standart	x
+станция	n	stanciya	x
+статистика	n	statistika	x
+стиль	n	stil	x
+студент% әйел	n	student% a'yel	x
+студент	n	student	x
+субъект	n	subekt	x
+судья	n	sudya	x
+сульфат	n	sulfat	x
+сум	n	sum	x
+сурет	n	su'wret	x
+суретші	n	su'wretshi	x
+су	n	suw	x
 сутаған	n	swtag'an
 сутек	n	swtek
 суыр	n	swır
-сүйек	n	su'yek
+сүйек	n	su'yek	x
 сүйемел	n	su'yemel
 сүйем	n	su'yem
 сүйіспеншілік	n	su'yispenshilik
 сүлік	n	su'lik
 сүндет	n	su'ndet
-сүргін	n	su'rgin
+сүргін	n	su'rgin	x
 сүрет	n	su'ret
 сүтсірне	n	su'tsirne
 сүт	n	su't
-сұлтан	n	sultan
+сұлтан	n	sultan	x
 сұмдық	n	sumdıq
 сұңқар	n	sun'qar
 сұрақ	n	suraq
@@ -1716,179 +1716,179 @@ Kazakh	POS	Karakalpak	Checked	Comment
 сыбыр	n	sıbır
 сыбыс	n	sıbıs
 сыздық	n	sızdıq
-сызық	n	sızıq
-сыйлық	n	sıylıq
+сызық	n	sızıq	x
+сыйлық	n	sıylıq	x
 сый	n	sıy
 сыла	n	sıla
-сым	n	sım
-сынақ	n	sınaq
-сын	n	sın
-сыншы	n	sınshı
+сым	n	sım	x
+сынақ	n	sınaq	x
+сын	n	sın	x
+сыншы	n	sınshı	x
 сынып	n	sınıp
 сыра	n	sıra
-сырға	n	sırg'a
-сыр	n	sır
-сырт	n	sırt
-сэр	n	ser
-сюжет	n	syujet
-сюрприз	n	syurpriz
-табақ	n	tabaq
-табан	n	taban
-таба	n	taba
-табиғат	n	tabig'at
-табыс	n	tabıs
+сырға	n	sırg'a	x
+сыр	n	sır	x
+сырт	n	sırt	x
+сэр	n	ser	x
+сюжет	n	syujet	x
+сюрприз	n	syurpriz	x
+табақ	n	tabaq	x
+табан	n	taban	x
+таба	n	taba	x
+табиғат	n	ta'biyat	x
+табыс	n	tabıs	x
 тағам	n	tag'am
 таған	n	tag'an
 тағдыр	n	tag'dır
 тайпа	n	taypa
 тай	n	tay
-тактика	n	taktika
-тақ	n	taq
+тактика	n	taktika	x
+тақ	n	taq	x
 тақта	n	taqta
 тақырып	n	taqırıp
-талан%-тараж	n	talan%-taraj
-талап	n	talap
-талас	n	talas
-талибан	n	taliban
+талан%-тараж	n	talan%-taraj	x
+талап	n	talap	x
+талас	n	talas	x
+талибан	n	taliban	x
 талқы	n	talqı
-тамақ	n	tamaq
+тамақ	n	tamaq	x
 тамыз	n	tamız
-тамыр	n	tamır
-танк	n	tank
+тамыр	n	tamır	x
+танк	n	tank	x
 таңертең	n	tan'erten'
-таң	n	tan'
+таң	n	tan'	x
 тапсырыс	n	tapsırıs
 тап	n	tap
 тапшылық	n	tapshılıq
-тарақ	n	taraq
+тарақ	n	taraq	x
 тарап	n	tarap
-тарау	n	taraw
-тарих	n	tarix
-тарихшы	n	tarixshı
+тарау	n	taraw	x
+тарих	n	tariyx	x
+тарихшы	n	tariyxshı	x
 тармақ	n	tarmaq
 тасқын	n	tasqın
 тас	n	tas
 тасшөп	n	tassho'p
-тауар	n	tawar
-тау	n	taw
-таяқ	n	tayaq
-тәжірибе	n	ta'jiribe
-тәлім	n	ta'lim
+тауар	n	tawar	x
+тау	n	taw	x
+таяқ	n	tayaq	x
+тәжірибе	n	ta'jiriybe	x
+тәлім	n	ta'lim	x
 тәліп	n	ta'lip
-тән	n	ta'n
+тән	n	ta'n	x
 Тәңір	n	Ta'n'ir
-тәрбие	n	ta'rbie
-тәрелке	n	ta'relke
-тәрелке	n	ta'relke
-тәрелке	n	ta'relke
-тәртіп	n	ta'rtip
+тәрбие	n	ta'rbiya	x
+тәрелке	n	tarelka	x
+тәрелке	n	tarelka	x
+тәрелке	n	tarelka	x
+тәртіп	n	ta'rtip	x
 тәсіл	n	ta'sil
 тәубе	n	ta'wbe
 тәуелсіздік	n	ta'welsizdik
 тәулік	n	ta'wlik
 тәулік	n	ta'wlik
-театр	n	teatr
+театр	n	teatr	x
 текежаумыт	n	tekejawmıt
-текше	n	tekshe
+текше	n	tekshe	x
 телеарна	n	telearna
-телеграф	n	telegraf
+телеграф	n	telegraf	x
 теледидар	n	teledidar
-телескоп	n	teleskop
-телефон	n	telefon
-темекі	n	temeki
-темекі	n	temeki
-теміржол	n	temirjol
-темір	n	temir
-температура	n	temperatwra
-темп	n	temp
-тентек	n	tentek
-теңге	n	ten'ge
-теңге	n	ten'ge
+телескоп	n	teleskop	x
+телефон	n	telefon	x
+темекі	n	temeki	x
+темекі	n	temeki	x
+теміржол	n	temir jol	x
+темір	n	temir	x
+температура	n	temperatura	x
+темп	n	temp	x
+тентек	n	tentek	x
+теңге	n	ten'ge	x
+теңге	n	ten'ge	x
 теңдік	n	ten'dik
-теңіз	n	ten'iz
-теңізші	n	ten'izshi
-тең	n	ten'
-теория	n	teoriya
+теңіз	n	ten'iz	x
+теңізші	n	ten'izshi	x
+тең	n	ten'	x
+теория	n	teoriya	x
 тепе%-теңдік	n	tepe%-ten'dik
 терезе	n	tereze
 терек	n	terek
 тереңдік	n	teren'dik
 терістік	n	teristik
-тері	n	teri
-термин	n	termin
-территория	n	territoriya
-тер	n	ter
-тесік	n	tesik
-техника	n	texnika
-техникум	n	texnikwm
-технология	n	texnologiya
+тері	n	teri	x
+термин	n	termin	x
+территория	n	territoriya	x
+тер	n	ter	x
+тесік	n	tesik	x
+техника	n	texnika	x
+техникум	n	texnikum	x
+технология	n	texnologiya	x
 тиек	n	tiek
 тиімділік	n	tiimdilik
-тиін	n	tiin
-титан	n	titan
-титул	n	titwl
-тиын	n	tiın
+тиін	n	tıyın	x
+титан	n	titan	x
+титул	n	titul	x
+тиын	n	tiyin	x
 тігінші	n	tiginshi
 тізгін	n	tizgin
 тізе	n	tize
 тізім	n	tizim
-тілек	n	tilek
+тілек	n	tilek	x
 тілмаш	n	tilmash
 тіл	n	til	x
-тілші	n	tilshi
-тіршілік	n	tirshilik
-тіс	n	tis
-товар	n	tovar
+тілші	n	tilshi	x
+тіршілік	n	tirishilik	x
+тіс	n	tis	x
+товар	n	tovar	x
 тозақ	n	tozaq
 тозаң	n	tozan'
-той	n	toy
-ток	n	tok
-толқын	n	tolqın
-томат	n	tomat
-том	n	tom
-тонна	n	tonna
-тон	n	ton
-топ	n	top
-топырақ	n	topıraq
+той	n	toy	x
+ток	n	tok	x
+толқын	n	tolqın	x
+томат	n	tomat	x
+том	n	tom	x
+тонна	n	tonna	x
+тон	n	ton	x
+топ	n	topar	x
+топырақ	n	topıraq	x
 торай	n	toray
-торғай	n	torg'ay
-торф	n	torf
+торғай	n	torg'ay	x
+торф	n	torf	x
 тосқауыл	n	tosqawıl
-төбе	n	to'be
+төбе	n	to'be	x
 төбет	n	to'bet
-төлем	n	to'lem
+төлем	n	to'lem	x
 төл	n	to'l
 төңірек	n	to'n'irek
 төңкеріс	n	to'n'keris
 төрағалық	n	to'rag'alıq
 төраға	n	to'rag'a
 төрайым	n	to'rayım
-төре	n	to're
-төр	n	to'r
-төсек	n	to'sek
-трагедия	n	tragediya
-трактор	n	traktor
-трамплин	n	tramplin
-транзит	n	tranzit
-транскрипция	n	transkripciya
-транспорт	n	transport
-туберкулез	n	twberkwlez
+төре	n	to're	x
+төр	n	to'r	x
+төсек	n	to'sek	x
+трагедия	n	tragediya	x
+трактор	n	traktor	x
+трамплин	n	tramplin	x
+транзит	n	tranzit	x
+транскрипция	n	transkripciya	x
+транспорт	n	transport	x
+туберкулез	n	tuberkulez	x
 туралық	n	twralıq
-турнир	n	twrnir
+турнир	n	turnir	x
 ту	n	tw
-туысқан	n	twısqan
+туысқан	n	tuwısqan	x
 туыс	n	twıs
 түйек	n	tu'yek
-түйе	n	tu'ye
+түйе	n	tu'ye	x
 түйсік	n	tu'ysik
-түк	n	tu'k
+түк	n	tu'k	x
 түлік	n	tu'lik
-түлкі	n	tu'lki
+түлкі	n	tu'lki	x
 түнек	n	tu'nek
-түн	n	tu'n
-түп	n	tu'p
-түрме	n	tu'rme
-түрткі	n	tu'rtki
+түн	n	tu'n	x
+түп	n	tu'p	x
+түрме	n	tu'rme	x
+түрткі	n	tu'rtki	x
 түр	n	tu'r
 түсініктеме	n	tu'sinikteme
 түсінік	n	tu'sinik
