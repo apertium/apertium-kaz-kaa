@@ -81,7 +81,7 @@ pos_sym = {
 	'vi': '<s n="v"/><s n="iv"/>'
 };
 
-sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'top', 'pers', 'abbr', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
+sym_list = ['post', 'cop', 'cnjcoo', 'cnjsub', 'prn', 'det', 'num', 'n', 'np', 'adj', 'adv', 'v', 'tv', 'iv', 'ant', 'top', 'pers', 'abbr', 'sent', 'lpar', 'rpar', 'guio', 'cm', 'apos', 'lquot', 'rquot'];
 
 pos_static = {};
 pos_static['pron'] = '''

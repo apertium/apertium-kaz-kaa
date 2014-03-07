@@ -15,6 +15,7 @@
     <sdef n="v"/>
     <sdef n="tv"/>
     <sdef n="iv"/>
+    <sdef n="ant"/>
     <sdef n="top"/>
     <sdef n="pers"/>
     <sdef n="abbr"/>
@@ -1610,8 +1611,8 @@
     <e><p><l>Орынбор<s n="np"/><s n="top"/></l><r>Orenburg<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Санкт-Петербург<s n="np"/><s n="top"/></l><r>Sankt<b/>Peterburg<s n="np"/><s n="top"/></r></p></e>
 
-    <e><p><l>Азамат<s n="np"/><s n="top"/></l><r>Azamat<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Айгүл<s n="np"/><s n="top"/></l><r>Aygu'l<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Азамат<s n="np"/><s n="ant"/></l><r>Azamat<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Айгүл<s n="np"/><s n="ant"/></l><r>Aygu'l<s n="np"/><s n="ant"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
