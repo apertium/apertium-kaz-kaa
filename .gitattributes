@@ -5,14 +5,10 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-kaz-kaa.kaa-kaz.LR.att.gz -text
-/apertium-kaz-kaa.kaa-kaz.RL.att.gz -text
 /apertium-kaz-kaa.kaa-kaz.lrx -text
 /apertium-kaz-kaa.kaa-kaz.rlx -text
 /apertium-kaz-kaa.kaa-kaz.t1x -text
 /apertium-kaz-kaa.kaa-kaz.t2x -text
-/apertium-kaz-kaa.kaz-kaa.LR.att.gz -text
-/apertium-kaz-kaa.kaz-kaa.RL.att.gz -text
 /apertium-kaz-kaa.kaz-kaa.dix -text
 /apertium-kaz-kaa.kaz-kaa.lrx -text
 /apertium-kaz-kaa.kaz-kaa.rlx -text
@@ -28,4 +24,3 @@ dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
 texts/story.kaz.txt -text svneol=unset#application/octet-stream
-/update-morphs.bash -text

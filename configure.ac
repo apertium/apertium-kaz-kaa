@@ -7,7 +7,6 @@ AC_PROG_AWK
 
 m4_define([required_apertium_version], [3.2.0])
 PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-                          
 
 AC_PATH_PROG(HFSTLEXC, hfst-lexc, no)
 if test x$ac_cv_path_HFSTLEXC = x
@@ -84,7 +83,9 @@ else
   AC_SUBST(ZCAT,[gzcat])
 fi
 
+m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
+AP_CHECK_LING([1], [apertium-kaz])
+AP_CHECK_LING([2], [apertium-kaa])
 
 AC_OUTPUT([Makefile])
-
