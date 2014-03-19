@@ -395,6 +395,7 @@
     <e><p><l>атмосфера<s n="n"/></l><r>atmosfera<s n="n"/></r></p></e>
     <e><p><l>атом<s n="n"/></l><r>atom<s n="n"/></r></p></e>
     <e><p><l>ауа<s n="n"/></l><r>hawa<s n="n"/></r></p></e>
+    <e><p><l>ауа<b/>райы<s n="n"/></l><r>hawa<b/>rayı<s n="n"/></r></p></e>
     <e><p><l>ау<s n="n"/></l><r>aw<s n="n"/></r></p></e>
     <e><p><l>аударушы<s n="n"/></l><r>awdarıwshı<s n="n"/></r></p></e>
     <e><p><l>аудитория<s n="n"/></l><r>auditoriya<s n="n"/></r></p></e>
@@ -418,6 +419,7 @@
     <e><p><l>әңгіме<s n="n"/></l><r>a'n'gime<s n="n"/></r></p></e>
     <e><p><l>әскер<s n="n"/></l><r>a'sker<s n="n"/></r></p></e>
     <e><p><l>баба<s n="n"/></l><r>baba<s n="n"/></r></p></e>
+    <e><p><l>бағ<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
     <e><p><l>бағана<s n="n"/></l><r>bag'ana<s n="n"/></r></p></e>
     <e><p><l>бағдарлама<s n="n"/></l><r>bag'darlama<s n="n"/></r></p></e>
     <e><p><l>бағыт<s n="n"/></l><r>bag'ıt<s n="n"/></r></p></e>
@@ -1613,11 +1615,17 @@
 
     <e><p><l>Азамат<s n="np"/><s n="ant"/></l><r>Azamat<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Айгүл<s n="np"/><s n="ant"/></l><r>Aygu'l<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Айша<s n="np"/><s n="ant"/></l><r>Aysha<s n="np"/><s n="ant"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>жақсы<s n="adj"/></l><r>jaqsı<s n="adj"/></r></p></e>
+    <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
+    <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+    <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
+
     <!-- SECTION: Verbs -->
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
 
