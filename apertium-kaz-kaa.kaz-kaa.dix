@@ -48,6 +48,7 @@
     <e><p><l>және<s n="cnjcoo"/></l><r>ja'ne<s n="cnjcoo"/></r></p></e>
     <e><p><l>не<s n="cnjcoo"/></l><r>ya/yamasa<s n="cnjcoo"/></r></p></e>
     <e><p><l>немесе<s n="cnjcoo"/></l><r>yamasa<s n="cnjcoo"/></r></p></e>
+    <e><p><l>пен<s n="cnjcoo"/></l><r>penen<s n="cnjcoo"/></r></p></e>
     <e><p><l>сондай-ақ<s n="cnjcoo"/></l><r>sonday-aq<s n="cnjcoo"/></r></p></e>
     <e><p><l>тек<s n="cnjcoo"/></l><r>tek<s n="cnjcoo"/></r></p></e>
     <e><p><l>түгіл<s n="cnjcoo"/></l><r>tu'we<s n="cnjcoo"/></r></p></e>
@@ -1613,7 +1614,7 @@
     <e><p><l>Орынбор<s n="np"/><s n="top"/></l><r>Orenburg<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Санкт-Петербург<s n="np"/><s n="top"/></l><r>Sankt<b/>Peterburg<s n="np"/><s n="top"/></r></p></e>
 
-    <e><p><l>Азамат<s n="np"/><s n="ant"/></l><r>Azamat<s n="np"/><s n="ant"/></r></p></e>
+    <!-- <e><p><l>Азамат<s n="np"/><s n="ant"/></l><r>Azamat<s n="np"/><s n="ant"/></r></p></e> -->
     <e><p><l>Айгүл<s n="np"/><s n="ant"/></l><r>Aygu'l<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Айша<s n="np"/><s n="ant"/></l><r>Aysha<s n="np"/><s n="ant"/></r></p></e>
 
@@ -1623,7 +1624,9 @@
     <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
+    <e><p><l>әбден<s n="adv"/></l><r>a'bden<s n="adv"/></r></p></e>
     <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+    <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
