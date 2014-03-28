@@ -35,6 +35,7 @@
     <sdef n="apos"/>
     <sdef n="lquot"/>
     <sdef n="rquot"/>
+    <sdef n="qst"/>
   </sdefs>
   <section id="main" type="standard">
 
@@ -42,6 +43,12 @@
 
     <e><p><l>е<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
 
+    <!-- SECTION: Modal/discourse particles -->
+
+    <e><p><l>ма<s n="qst"/></l><r>ma<s n="qst"/></r></p></e>
+    <!-- <e><p><l>мекен<s n="qst"/></l><r>meken<s n="qst"/></r></p></e> -->
+    <e><p><l>ма<b/>не<s n="qst"/></l><r>me<b/>ne<s n="qst"/></r></p></e>
+    <!-- <e><p><l>ше<s n="qst"/></l><r>she<s n="adv"/><s n="itg"/></r></p></e> -->
 
     <!-- SECTION: Conjunctions -->
 
