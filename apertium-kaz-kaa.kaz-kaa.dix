@@ -5,6 +5,7 @@
     <sdef n="cop"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="cnjadv"/>
     <sdef n="prn"/>
     <sdef n="det"/>
     <sdef n="num"/>
@@ -20,6 +21,13 @@
     <sdef n="pers"/>
     <sdef n="abbr"/>
     <sdef n="sent"/>
+    <!-- OLAR -->
+    <sdef n="sg"/>
+    <sdef n="sp"/>
+    <sdef n="p2"/>
+    <sdef n="frm"/>
+    <sdef n="pl"/>
+    <!-- OLAR -->
     <sdef n="lpar"/>
     <sdef n="rpar"/>
     <sdef n="guio"/>
@@ -65,7 +73,12 @@
     <e><p><l>себебі<s n="cnjsub"/></l><r>sebebi<s n="cnjsub"/></r></p></e>
     <e><p><l>яғни<s n="cnjsub"/></l><r>yag'nıy<s n="cnjsub"/></r></p></e>
 
+    <!-- SECTION: Adverbial conjunctions -->
+
+    <e><p><l>осы<b/>себептен<s n="cnjadv"/></l><r>usı<b/>sebepten<s n="cnjadv"/></r></p></e>
+
     <!-- SECTION: Postpositions -->
+
     <e><p><l>арқылы<s n="post"/></l><r>arqalı<s n="post"/></r></p></e>
     <e><p><l>арналған<s n="post"/></l><r>arnalg'an<s n="post"/></r></p></e>
     <e><p><l>басқа<s n="post"/></l><r>basqa<s n="post"/></r></p></e>
@@ -115,14 +128,19 @@
     <e><p><l>хақында<s n="post"/></l><r>haqqında<s n="post"/></r></p></e>
     <e><p><l>шейін<s n="post"/></l><r>shekem<s n="post"/></r></p></e>
 
-    <!-- SECTION: Pronouns -->
+<!-- SECTION: Pronouns -->
 
+    <!-- Personal pronouns -->
 
     <e><p><l>мен<s n="prn"/><s n="pers"/></l><r>men<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>сен<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>ол<s n="prn"/><s n="pers"/></l><r>ol<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>біз<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
     <e><p><l>сіз<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сендер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizler<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>олар<s n="prn"/><s n="pers"/></l><r>olar<s n="prn"/><s n="pers"/></r></p></e>
+    <e><p><l>сіз<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="frm"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="sp"/><s n="frm"/></r></p></e>
+    <e r="LR"><p><l>сіздер<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="frm"/></l><r>sizler  <s n="prn"/><s n="pers"/><s n="p2"/><s n="sp"/><s n="frm"/></r></p></e>
 
     <e><p><l>барлық<s n="prn"/></l><r>barlıq<s n="prn"/></r></p></e>
     <e><p><l>басқа<s n="prn"/></l><r>basqa<s n="prn"/></r></p></e>
@@ -1584,6 +1602,11 @@
     <e><p><l>қазақстандық<s n="n"/></l><r>qazaqstanlı<s n="n"/></r></p></e>
     <e><p><l>ресейлік<s n="n"/></l><r>rossiyalı<s n="n"/></r></p></e>
 
+    <!-- Nouns used as postpositions when <posssessive.case> -->
+
+    <e><p><l>алд<s n="n"/></l><r>ald<s n="n"/></r></p></e> <!--"front"-->
+  
+
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>Россия<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
@@ -1621,16 +1644,26 @@
     <!-- SECTION: Adjectives -->
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
     <e><p><l>жақсы<s n="adj"/></l><r>jaqsı<s n="adj"/></r></p></e>
+    <e><p><l>жасар<s n="adj"/></l><r>jasar<s n="adj"/></r></p></e> <!-- (after numerals) "of ageX"-->
     <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
+    <e><p><l>кішкене<s n="adj"/></l><r>кечкенә<s n="adj"/></r></p></e> <!-- "little"-->
+    <e><p><l>кішкентай<s n="adj"/></l><r>kishkentay<s n="adj"/></r></p></e> <!-- "small, little"-->
+    <e><p><l>қуанышты<s n="adj"/></l><r>quwanıshlı<s n="adj"/></r></p></e>
+    <e><p><l>суық<s n="adj"/></l><r>suwıq<s n="adj"/></r></p></e>
+    <e><p><l>үлкен<s n="adj"/></l><r>u'lken<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
     <e><p><l>әбден<s n="adv"/></l><r>a'bden<s n="adv"/></r></p></e>
+    <e><p><l>әрдайым<s n="adv"/></l><r>ha'rdayım<s n="adv"/></r></p></e>
+    <e><p><l>әрдайым<s n="adv"/></l><r>ha'r<b/>waqıt<s n="adv"/></r></p></e>
     <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
     <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
