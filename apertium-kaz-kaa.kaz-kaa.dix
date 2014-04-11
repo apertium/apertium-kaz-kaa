@@ -1707,6 +1707,7 @@
 
     <!-- SECTION: Verbs -->
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>көр<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e> <!--"see"  -->
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
 
