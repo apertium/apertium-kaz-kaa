@@ -1374,6 +1374,7 @@
     <e><p><l>теңізші<s n="n"/></l><r>ten'izshi<s n="n"/></r></p></e>
     <e><p><l>тең<s n="n"/></l><r>ten'<s n="n"/></r></p></e>
     <e><p><l>теория<s n="n"/></l><r>teoriya<s n="n"/></r></p></e>
+    <e><p><l>терезе<s n="n"/></l><r>ayna<s n="n"/></r></p></e>
     <e><p><l>тері<s n="n"/></l><r>teri<s n="n"/></r></p></e>
     <e><p><l>термин<s n="n"/></l><r>termin<s n="n"/></r></p></e>
     <e><p><l>территория<s n="n"/></l><r>territoriya<s n="n"/></r></p></e>
@@ -1688,6 +1689,7 @@
 
     <!-- SECTION: Adjectives -->
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>ескі<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
     <e><p><l>жақсы<s n="adj"/></l><r>jaqsı<s n="adj"/></r></p></e>
     <e><p><l>жасар<s n="adj"/></l><r>jasar<s n="adj"/></r></p></e> <!-- (after numerals) "of ageX"-->
     <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
@@ -1709,11 +1711,19 @@
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>көр<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e> <!--"see"  -->
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ұйықта<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
+
+    <!-- Auxiliary verbs -->
+    <e><p><l>жат<s n="vaux"/></l><r>jat<s n="vaux"/></r></p></e>
+    <e><p><l>жүр<s n="vaux"/></l><r>ju'r<s n="vaux"/></r></p></e>
+    <e><p><l>отыр<s n="vaux"/></l><r>otır<s n="vaux"/></r></p></e>
+    <e><p><l>тұр<s n="vaux"/></l><r>tur<s n="vaux"/></r></p></e>
 
     <!-- SECTION: Interjections -->
 
