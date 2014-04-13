@@ -1693,8 +1693,10 @@
     <e><p><l>жақсы<s n="adj"/></l><r>jaqsı<s n="adj"/></r></p></e>
     <e><p><l>жасар<s n="adj"/></l><r>jasar<s n="adj"/></r></p></e> <!-- (after numerals) "of ageX"-->
     <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
-    <e><p><l>кішкене<s n="adj"/></l><r>кечкенә<s n="adj"/></r></p></e> <!-- "little"-->
+    <e><p><l>кішкене<s n="adj"/></l><r>kishkene<s n="adj"/></r></p></e> <!-- "little"-->
     <e><p><l>кішкентай<s n="adj"/></l><r>kishkentay<s n="adj"/></r></p></e> <!-- "small, little"-->
+    <e><p><l>қатты<s n="adj"/></l><r>qattı<s n="adj"/></r></p></e> <!-- "~hard"-->
+    <e><p><l>қатты<s n="adj"/></l><r>tez<s n="adj"/></r></p></e> <!-- "fast"-->
     <e><p><l>қуанышты<s n="adj"/></l><r>quwanıshlı<s n="adj"/></r></p></e>
     <e><p><l>суық<s n="adj"/></l><r>suwıq<s n="adj"/></r></p></e>
     <e><p><l>үлкен<s n="adj"/></l><r>u'lken<s n="adj"/></r></p></e>
@@ -1714,8 +1716,12 @@
     <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
 
-    <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e> <!-- "cautious,attentive,beware" -->
+    <e><p><l>бар<s n="v"/><s n="iv"/></l><r>bar<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>жүгір<s n="v"/><s n="iv"/></l><r>ju'gir<s n="v"/><s n="iv"/></r></p></e> <!--"run"  -->
+    <e><p><l>кел<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>кет<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ұйықта<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 
