@@ -199,6 +199,10 @@
     <e><p><l>не<s n="prn"/></l><r>ne<s n="prn"/></r></p></e>
     <e><p><l>өз<s n="prn"/></l><r>o'z<s n="prn"/></r></p></e>
 
+       <!-- Negative pronouns -->
+
+    <e><p><l>еш<b/>нәрсе<s n="prn"/><s n="neg"/></l><r>hesh<b/>na'rse<s n="prn"/><s n="neg"/></r></p></e>
+
     <!-- SECTION: Determiners -->
     <e><p><l>анау<s n="det"/></l><r>anaw<s n="det"/></r></p></e>
     <e><p><l>бар<s n="det"/></l><r>bar<s n="det"/></r></p></e>
@@ -1706,19 +1710,28 @@
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'rdayım<s n="adv"/></r></p></e>
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'r<b/>waqıt<s n="adv"/></r></p></e>
     <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+    <e><p><l>еш<s n="adv"/></l><r>hesh<s n="adv"/></r></p></e>
     <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
+    <e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>bu'yt<s n="v"/><s n="tv"/></r></p></e> <!-- "" NOTE: (tat) trimm -->
+    <e><p><l>де<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>көр<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e> <!--"see"  -->
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>сана<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e> <!-- "count" -->
+    <e><p><l>іш<s n="v"/><s n="tv"/></l><r>ish<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>істе<s n="v"/><s n="tv"/></l><r>isle<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e> <!-- "cautious,attentive,beware" -->
     <e><p><l>бар<s n="v"/><s n="iv"/></l><r>bar<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>бол<s n="v"/><s n="iv"/></l><r>bol<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>жасырын<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e> <!--"hide oneself"  -->
+    <e><p><l>жау<s n="v"/><s n="iv"/></l><r>jaw<s n="v"/><s n="iv"/></r></p></e> <!--"hide oneself"  -->
     <e><p><l>жүгір<s n="v"/><s n="iv"/></l><r>ju'gir<s n="v"/><s n="iv"/></r></p></e> <!--"run"  -->
     <e><p><l>кел<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>кет<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
