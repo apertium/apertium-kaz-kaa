@@ -1706,15 +1706,26 @@
     <e><p><l>үлкен<s n="adj"/></l><r>u'lken<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
+
+    <!-- "Interrogative adverbs", "pronoun-adverbs" -->
+
+    <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+
+    <!-- More or less regular stuff -->
+
     <e><p><l>әбден<s n="adv"/></l><r>a'bden<s n="adv"/></r></p></e>
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'rdayım<s n="adv"/></r></p></e>
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'r<b/>waqıt<s n="adv"/></r></p></e>
-    <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
     <e><p><l>еш<s n="adv"/></l><r>hesh<s n="adv"/></r></p></e>
-    <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
 
+    <!-- Adverbs wich take -KI and become an attr/adj -->
+
+    <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+    <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
+
     <!-- SECTION: Verbs -->
+
     <e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>bu'yt<s n="v"/><s n="tv"/></r></p></e> <!-- "" NOTE: (tat) trimm -->
     <e><p><l>де<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
@@ -1724,8 +1735,10 @@
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>сана<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e> <!-- "count" -->
-    <e><p><l>іш<s n="v"/><s n="tv"/></l><r>ish<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sora<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ізде<s n="v"/><s n="tv"/></l><r>izle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>істе<s n="v"/><s n="tv"/></l><r>isle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>іш<s n="v"/><s n="tv"/></l><r>ish<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>абай<b/>бол<s n="v"/><s n="iv"/></l><r>abay<b/>bol<s n="v"/><s n="iv"/></r></p></e> <!-- "cautious,attentive,beware" -->
     <e><p><l>бар<s n="v"/><s n="iv"/></l><r>bar<s n="v"/><s n="iv"/></r></p></e>
