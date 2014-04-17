@@ -1321,6 +1321,7 @@
     <e><p><l>су<s n="n"/></l><r>suw<s n="n"/></r></p></e>
     <e><p><l>сүйек<s n="n"/></l><r>su'yek<s n="n"/></r></p></e>
     <e><p><l>сүргін<s n="n"/></l><r>su'rgin<s n="n"/></r></p></e>
+    <e><p><l>сұрақ<s n="n"/></l><r>soraw<s n="n"/></r></p></e>
     <e><p><l>сұлтан<s n="n"/></l><r>sultan<s n="n"/></r></p></e>
     <e><p><l>сызық<s n="n"/></l><r>sızıq<s n="n"/></r></p></e>
     <e><p><l>сыйлық<s n="n"/></l><r>sıylıq<s n="n"/></r></p></e>
@@ -1709,6 +1710,7 @@
 
     <!-- "Interrogative adverbs", "pronoun-adverbs" -->
 
+    <e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
     <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
 
     <!-- More or less regular stuff -->
@@ -1717,6 +1719,7 @@
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'rdayım<s n="adv"/></r></p></e>
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'r<b/>waqıt<s n="adv"/></r></p></e>
     <e><p><l>еш<s n="adv"/></l><r>hesh<s n="adv"/></r></p></e>
+    <e><p><l>еш<b/>қашан<s n="adv"/><s n="itg"/></l><r>hesh<b/>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
 
     <!-- Adverbs wich take -KI and become an attr/adj -->
@@ -1726,6 +1729,7 @@
 
     <!-- SECTION: Verbs -->
 
+    <e><p><l>ал<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>bu'yt<s n="v"/><s n="tv"/></r></p></e> <!-- "" NOTE: (tat) trimm -->
     <e><p><l>де<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
@@ -1735,6 +1739,7 @@
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>сана<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e> <!-- "count" -->
+    <e><p><l>сөйле<s n="v"/><s n="tv"/></l><r>so'yle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sora<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ізде<s n="v"/><s n="tv"/></l><r>izle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>істе<s n="v"/><s n="tv"/></l><r>isle<s n="v"/><s n="tv"/></r></p></e>
@@ -1752,6 +1757,7 @@
     <e><p><l>ұйықта<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 
     <!-- Auxiliary verbs -->
+    <e><p><l>ал<s n="vaux"/></l><r>al<s n="vaux"/></r></p></e>
     <e><p><l>біт<s n="vaux"/></l><r>pit<s n="vaux"/></r></p></e>
     <e><p><l>жат<s n="vaux"/></l><r>jat<s n="vaux"/></r></p></e>
     <e><p><l>жүр<s n="vaux"/></l><r>ju'r<s n="vaux"/></r></p></e>
@@ -1761,9 +1767,8 @@
 
     <!-- SECTION: Interjections -->
 
-
+    <e><p><l>әлбетте<s n="ij"/></l><r>a'lbette<s n="ij"/></r></p></e>
     <e><p><l>жоқ<s n="ij"/></l><r>joq<s n="ij"/></r></p></e>
-
 
     <!-- SECTION: Abbreviations -->
 
