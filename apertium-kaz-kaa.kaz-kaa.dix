@@ -158,7 +158,7 @@
     <e><p><l>қоса<s n="post"/></l><r>birge<s n="post"/></r></p></e>
     <e><p><l>құрлы<s n="post"/></l><r>qurlı<s n="post"/></r></p></e>
     <e><p><l>мақсатында<s n="post"/></l><r>maqsetınde<s n="post"/></r></p></e>
-    <e><p><l>мен<s n="post"/></l><r>men<s n="post"/></r></p></e>
+    <e><p><l>мен<s n="post"/></l><r>penen<s n="post"/></r></p></e>
     <e><p><l>сайын<s n="post"/></l><r>sayın<s n="post"/></r></p></e>
     <e><p><l>салым<s n="post"/></l><r>qaray<s n="post"/></r></p></e>
     <e><p><l>сәйкес<s n="post"/></l><r>sa'ykes<s n="post"/></r></p></e>
@@ -198,6 +198,10 @@
     <e><p><l>кім<s n="prn"/></l><r>kim<s n="prn"/></r></p></e>
     <e><p><l>не<s n="prn"/></l><r>ne<s n="prn"/></r></p></e>
     <e><p><l>өз<s n="prn"/></l><r>o'z<s n="prn"/></r></p></e>
+
+        <!-- Interrogative pronouns -->
+
+    <e><p><l>нәрсе<s n="prn"/></l><r>na'rse<s n="prn"/></r></p></e> <!-- "thing" -->
 
        <!-- Negative pronouns -->
 
@@ -302,6 +306,8 @@
     <e><p><l>триллион<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
+    <e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
+
     <e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
     <e><p><l>аберрация<s n="n"/></l><r>aberratsiya<s n="n"/></r></p></e>
     <e><p><l>абсолют<s n="n"/></l><r>absolyut<s n="n"/></r></p></e>
@@ -485,6 +491,7 @@
     <e><p><l>әке<s n="n"/></l><r>a'ke<s n="n"/></r></p></e>
     <e><p><l>әкім<s n="n"/></l><r>ha'kim<s n="n"/></r></p></e>
     <e><p><l>әңгіме<s n="n"/></l><r>a'n'gime<s n="n"/></r></p></e>
+    <e><p><l>әрекет<s n="n"/></l><r>ha'reket<s n="n"/></r></p></e>
     <e><p><l>әскер<s n="n"/></l><r>a'sker<s n="n"/></r></p></e>
     <e><p><l>баба<s n="n"/></l><r>baba<s n="n"/></r></p></e>
     <e><p><l>бағ<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
@@ -645,6 +652,7 @@
     <e><p><l>драматург<s n="n"/></l><r>dramaturg<s n="n"/></r></p></e>
     <e><p><l>драматургия<s n="n"/></l><r>dramaturgiya<s n="n"/></r></p></e>
     <e><p><l>дұшпан<s n="n"/></l><r>dushpan<s n="n"/></r></p></e>
+    <e><p><l>дыбыс<s n="n"/></l><r>dawısа<s n="n"/></r></p></e>
     <e><p><l>егін<s n="n"/></l><r>egin<s n="n"/></r></p></e>
     <e><p><l>егінші<s n="n"/></l><r>eginshi<s n="n"/></r></p></e>
     <e><p><l>егіншілік<s n="n"/></l><r>eginshilik<s n="n"/></r></p></e>
@@ -1131,6 +1139,7 @@
     <e><p><l>орта<s n="n"/></l><r>orta<s n="n"/></r></p></e>
     <e><p><l>орынбасар<s n="n"/></l><r>orınbasar<s n="n"/></r></p></e>
     <e><p><l>орын<s n="n"/></l><r>orın<s n="n"/></r></p></e>
+    <e><p><l>орындық<s n="n"/></l><r>orındıq<s n="n"/></r></p></e>
     <e><p><l>от<s n="n"/></l><r>ot<s n="n"/></r></p></e>
     <e><p><l>отряд<s n="n"/></l><r>otryad<s n="n"/></r></p></e>
     <e><p><l>офицер<s n="n"/></l><r>oficer<s n="n"/></r></p></e>
@@ -1458,6 +1467,7 @@
     <e><p><l>үн<s n="n"/></l><r>u'n<s n="n"/></r></p></e>
     <e><p><l>үстірт<s n="n"/></l><r>u'stirt<s n="n"/></r></p></e>
     <e><p><l>үст<s n="n"/></l><r>u'st<s n="n"/></r></p></e>
+    <e><p><l>үстел<s n="n"/></l><r>stol<s n="n"/></r></p></e>
     <e><p><l>үш<s n="n"/></l><r>u'sh<s n="n"/></r></p></e>
     <e><p><l>ұзындық<s n="n"/></l><r>uzınlıq<s n="n"/></r></p></e>
     <e><p><l>ұйқы<s n="n"/></l><r>uyqı<s n="n"/></r></p></e>
@@ -1656,6 +1666,7 @@
     <!-- Nouns used as postpositions when <posssessive.case> -->
 
     <e><p><l>алд<s n="n"/></l><r>ald<s n="n"/></r></p></e> <!--"front"-->
+    <e><p><l>аст<s n="n"/></l><r>ast<s n="n"/></r></p></e> <!--"under"-->
   
 
     <!-- SECTION: Proper nouns -->
@@ -1693,11 +1704,16 @@
     <e><p><l>Айша<s n="np"/><s n="ant"/></l><r>Aysha<s n="np"/><s n="ant"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
+
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>ақырын<s n="adj"/></l><r>aqırın<s n="adj"/></r></p></e>
+    <e><p><l>анық<s n="adj"/></l><r>anıq<s n="adj"/></r></p></e>
     <e><p><l>ескі<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
     <e><p><l>жақсы<s n="adj"/></l><r>jaqsı<s n="adj"/></r></p></e>
+    <e><p><l>жақын<s n="adj"/></l><r>jaqın<s n="adj"/></r></p></e>
     <e><p><l>жасар<s n="adj"/></l><r>jasar<s n="adj"/></r></p></e> <!-- (after numerals) "of ageX"-->
     <e><p><l>жылы<s n="adj"/></l><r>jıllı<s n="adj"/></r></p></e>
+    <e><p><l>көңілді<s n="adj"/></l><r>kewilli<s n="adj"/></r></p></e>
     <e><p><l>кішкене<s n="adj"/></l><r>kishkene<s n="adj"/></r></p></e> <!-- "little"-->
     <e><p><l>кішкентай<s n="adj"/></l><r>kishkentay<s n="adj"/></r></p></e> <!-- "small, little"-->
     <e><p><l>қатты<s n="adj"/></l><r>qattı<s n="adj"/></r></p></e> <!-- "~hard"-->
@@ -1710,8 +1726,11 @@
 
     <!-- "Interrogative adverbs", "pronoun-adverbs" -->
 
+    <e><p><l>әлі<s n="adv"/><s n="itg"/></l><r>ele<s n="adv"/><s n="itg"/></r></p></e> <!-- "still" (location) -->
+    <e><p><l>әлі<b/>де<b/>болса<s n="adv"/><s n="itg"/></l><r>elede<b/>bolsa<s n="adv"/><s n="itg"/></r></p></e> <!-- "still" (location) -->
     <e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
     <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+    <e><p><l>ішінде<s n="adv"/><s n="itg"/></l><r>ishinde<s n="adv"/><s n="itg"/></r></p></e> <!-- "in" -->
 
     <!-- More or less regular stuff -->
 
@@ -1719,28 +1738,40 @@
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'rdayım<s n="adv"/></r></p></e>
     <e><p><l>әрдайым<s n="adv"/></l><r>ha'r<b/>waqıt<s n="adv"/></r></p></e>
     <e><p><l>еш<s n="adv"/></l><r>hesh<s n="adv"/></r></p></e>
-    <e><p><l>еш<b/>қашан<s n="adv"/><s n="itg"/></l><r>hesh<b/>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
+    <e><p><l>еш<b/>қашан<s n="adv"/><s n="itg"/></l><r>hesh<b/>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "never" -->
+    <e><p><l>мүмкін<s n="adv"/><s n="itg"/></l><r>mu'mkin<s n="adv"/><s n="itg"/></r></p></e> <!-- "probably" -->
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
+    <e><p><l>қайта<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
 
     <!-- Adverbs wich take -KI and become an attr/adj -->
 
     <e><p><l>бүгін<s n="adv"/></l><r>bu'gin<s n="adv"/></r></p></e>
+    <e><p><l>енді<s n="adv"/></l><r>endi<s n="adv"/></r></p></e>
     <e><p><l>кеше<s n="adv"/></l><r>keshe<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
 
+    <e><p><l>айт<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ал<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>бас<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>баста<s n="v"/><s n="tv"/></l><r>basta<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>бер<s n="v"/><s n="tv"/></l><r>ber<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>bu'yt<s n="v"/><s n="tv"/></r></p></e> <!-- "" NOTE: (tat) trimm -->
+    <e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>де<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>есті<s n="v"/><s n="tv"/></l><r>esit<s n="v"/><s n="tv"/></r></p></e> <!--"hear"  -->
     <e><p><l>ет<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>жақсы<b/>көр<s n="v"/><s n="tv"/></l><r>jaqsı<b/>ko'r<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>же<s n="v"/><s n="tv"/></l><r>je<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>көр<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e> <!--"see"  -->
     <e><p><l>ойна<s n="v"/><s n="tv"/></l><r>oyna<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ойла<s n="v"/><s n="tv"/></l><r>oyla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қара<s n="v"/><s n="tv"/></l><r>qara<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>сана<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e> <!-- "count" -->
     <e><p><l>сөйле<s n="v"/><s n="tv"/></l><r>so'yle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>сұра<s n="v"/><s n="tv"/></l><r>sora<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>тап<s n="v"/><s n="tv"/></l><r>tap<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>тыңда<s n="v"/><s n="tv"/></l><r>tın'la<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ізде<s n="v"/><s n="tv"/></l><r>izle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>істе<s n="v"/><s n="tv"/></l><r>isle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>іш<s n="v"/><s n="tv"/></l><r>ish<s n="v"/><s n="tv"/></r></p></e>
@@ -1751,8 +1782,10 @@
     <e><p><l>жасырын<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e> <!--"hide oneself"  -->
     <e><p><l>жау<s n="v"/><s n="iv"/></l><r>jaw<s n="v"/><s n="iv"/></r></p></e> <!--"hide oneself"  -->
     <e><p><l>жүгір<s n="v"/><s n="iv"/></l><r>ju'gir<s n="v"/><s n="iv"/></r></p></e> <!--"run"  -->
+    <e><p><l>жыми<s n="v"/><s n="iv"/></l><r>ku'limsire<s n="v"/><s n="iv"/></r></p></e> <!--"to smile"  -->
     <e><p><l>кел<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>кет<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>күл<s n="v"/><s n="iv"/></l><r>ku'l<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>тұр<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ұйықта<s n="v"/><s n="iv"/></l><r>uyıqla<s n="v"/><s n="iv"/></r></p></e>
 
@@ -1764,11 +1797,15 @@
     <e><p><l>кет<s n="vaux"/></l><r>ket<s n="vaux"/></r></p></e>
     <e><p><l>отыр<s n="vaux"/></l><r>otır<s n="vaux"/></r></p></e>
     <e><p><l>тұр<s n="vaux"/></l><r>tur<s n="vaux"/></r></p></e>
+    <e><p><l>шық<s n="vaux"/></l><r>shıq<s n="vaux"/></r></p></e>
 
     <!-- SECTION: Interjections -->
 
     <e><p><l>әлбетте<s n="ij"/></l><r>a'lbette<s n="ij"/></r></p></e>
     <e><p><l>жоқ<s n="ij"/></l><r>joq<s n="ij"/></r></p></e>
+
+    <!-- Вводные слова -->
+    <!-- <e><p><l>мүмкін<s n="ij"/></l><r>mu'mkin<s n="ij"/></r></p></e> -->
 
     <!-- SECTION: Abbreviations -->
 
