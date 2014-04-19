@@ -1727,11 +1727,11 @@
 
     <!-- "Interrogative adverbs", "pronoun-adverbs" -->
 
-    <e><p><l>әлі<s n="adv"/><s n="itg"/></l><r>ele<s n="adv"/><s n="itg"/></r></p></e> <!-- "still" (location) -->
-    <e><p><l>әлі<b/>де<b/>болса<s n="adv"/><s n="itg"/></l><r>elede<b/>bolsa<s n="adv"/><s n="itg"/></r></p></e> <!-- "still" (location) -->
+    <e><p><l>әлі<s n="adv"/></l><r>ele<s n="adv"/></r></p></e> <!-- "still" (location) -->
+    <e><p><l>әлі<b/>де<b/>болса<s n="adv"/></l><r>elede<b/>bolsa<s n="adv"/></r></p></e> <!-- "still" (location) -->
     <e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
     <e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
-    <e><p><l>ішінде<s n="adv"/><s n="itg"/></l><r>ishinde<s n="adv"/><s n="itg"/></r></p></e> <!-- "in" -->
+    <e><p><l>іш<s n="n"/></l><r>ish<s n="n"/></r></p></e> <!-- "in" -->
 
     <!-- More or less regular stuff -->
 
