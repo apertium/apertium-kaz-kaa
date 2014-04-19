@@ -208,6 +208,19 @@
     <e><p><l>еш<b/>нәрсе<s n="prn"/><s n="neg"/></l><r>hesh<b/>na'rse<s n="prn"/><s n="neg"/></r></p></e>
 
     <!-- SECTION: Determiners -->
+
+    <!-- Demonstrative determiners -->
+
+   <!--  <e><p><l>анау<s n="det"/><s n="dem"/></l><r>әнә<b/>теге<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>әлгі<s n="det"/><s n="dem"/></l><r>әлеге<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>бұл<s n="det"/><s n="dem"/></l><r>бу<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>мынау<s n="det"/><s n="dem"/></l><r>менә<b/>бу<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>ол<s n="det"/><s n="dem"/></l><r>ул<s n="det"/><s n="dem"/></r></p></e> -->
+    <e><p><l>осы<s n="det"/><s n="dem"/></l><r>usı<s n="det"/><s n="dem"/></r></p></e>
+    <!-- <e><p><l>осынау<s n="det"/><s n="dem"/></l><r>ошбу<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>сол<s n="det"/><s n="dem"/></l><r>шул<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>сонау<s n="det"/><s n="dem"/></l><r>теге<s n="det"/><s n="dem"/></r></p></e>
+
     <e><p><l>анау<s n="det"/></l><r>anaw<s n="det"/></r></p></e>
     <e><p><l>бар<s n="det"/></l><r>bar<s n="det"/></r></p></e>
     <e><p><l>барлық<s n="det"/></l><r>barlıq<s n="det"/></r></p></e>
@@ -245,7 +258,7 @@
     <e><p><l>осы<s n="det"/></l><r>usı<s n="det"/></r></p></e>
     <e><p><l>осынау<s n="det"/></l><r>usını<s n="det"/></r></p></e>
     <e><p><l>сол<s n="det"/></l><r>sol<s n="det"/></r></p></e>
-    <e><p><l>сонау<s n="det"/></l><r>anaw<s n="det"/></r></p></e>
+    <e><p><l>сонау<s n="det"/></l><r>anaw<s n="det"/></r></p></e> -->
 
     <!-- SECTION: Numerals -->
 
@@ -1743,6 +1756,7 @@
     <e><p><l>мүмкін<s n="adv"/><s n="itg"/></l><r>mu'mkin<s n="adv"/><s n="itg"/></r></p></e> <!-- "probably" -->
     <e><p><l>өте<s n="adv"/></l><r>ju'da'<s n="adv"/></r></p></e>
     <e><p><l>қайта<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
+    <e><p><l>ішінде<s n="adv"/></l><r>ishinde<s n="adv"/></r></p></e> <!-- "in" -->
 
     <!-- Adverbs wich take -KI and become an attr/adj -->
 
