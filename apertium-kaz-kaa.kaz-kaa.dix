@@ -212,9 +212,9 @@
     <!-- Demonstrative determiners -->
 
    <!--  <e><p><l>анау<s n="det"/><s n="dem"/></l><r>әнә<b/>теге<s n="det"/><s n="dem"/></r></p></e>
-    <e><p><l>әлгі<s n="det"/><s n="dem"/></l><r>әлеге<s n="det"/><s n="dem"/></r></p></e>
-    <e><p><l>бұл<s n="det"/><s n="dem"/></l><r>бу<s n="det"/><s n="dem"/></r></p></e>
-    <e><p><l>мынау<s n="det"/><s n="dem"/></l><r>менә<b/>бу<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>әлгі<s n="det"/><s n="dem"/></l><r>әлеге<s n="det"/><s n="dem"/></r></p></e> -->
+    <e><p><l>бұл<s n="det"/><s n="dem"/></l><r>bul<s n="det"/><s n="dem"/></r></p></e>
+    <!-- <e><p><l>мынау<s n="det"/><s n="dem"/></l><r>менә<b/>бу<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>ол<s n="det"/><s n="dem"/></l><r>ул<s n="det"/><s n="dem"/></r></p></e> -->
     <e><p><l>осы<s n="det"/><s n="dem"/></l><r>usı<s n="det"/><s n="dem"/></r></p></e>
     <!-- <e><p><l>осынау<s n="det"/><s n="dem"/></l><r>ошбу<s n="det"/><s n="dem"/></r></p></e>
@@ -251,14 +251,21 @@
     <e><p><l>миллиардтаған<s n="det"/></l><r>milliardlag'an<s n="det"/></r></p></e>
     <e><p><l>миллиондаған<s n="det"/></l><r>millionlag'an<s n="det"/></r></p></e>
     <e><p><l>мынау<s n="det"/></l><r>mınaw<s n="det"/></r></p></e>
-    <e><p><l>мыңдаған<s n="det"/></l><r>mın'lag'an<s n="det"/></r></p></e>
-    <e><p><l>өз<s n="det"/></l><r>o'z<s n="det"/></r></p></e>
-    <e><p><l>ол<s n="det"/></l><r>ol<s n="det"/></r></p></e>
+    <e><p><l>мыңдаған<s n="det"/></l><r>mın'lag'an<s n="det"/></r></p></e> -->
+    <!-- <e><p><l>ол<s n="det"/></l><r>ol<s n="det"/></r></p></e>
     <e><p><l>ондаған<s n="det"/></l><r>onlag'an<s n="det"/></r></p></e>
     <e><p><l>осы<s n="det"/></l><r>usı<s n="det"/></r></p></e>
-    <e><p><l>осынау<s n="det"/></l><r>usını<s n="det"/></r></p></e>
-    <e><p><l>сол<s n="det"/></l><r>sol<s n="det"/></r></p></e>
-    <e><p><l>сонау<s n="det"/></l><r>anaw<s n="det"/></r></p></e> -->
+    <e><p><l>осынау<s n="det"/></l><r>usını<s n="det"/></r></p></e> -->
+    <e><p><l>сол<s n="det"/><s n="dem"/></l><r>sol<s n="det"/><s n="dem"/></r></p></e>
+    <!-- <e><p><l>сонау<s n="det"/></l><r>anaw<s n="det"/></r></p></e>  -->
+
+    <!-- Reflexive determiners -->
+    
+    <e><p><l>өз<s n="det"/><s n="ref"/></l><r>o'z<s n="det"/><s n="ref"/></r></p></e>
+
+    <!-- Interrogative determiners -->
+
+    <e><p><l>қай<s n="det"/><s n="itg"/></l><r>qay<s n="det"/><s n="itg"/></r></p></e>
 
     <!-- SECTION: Numerals -->
 
