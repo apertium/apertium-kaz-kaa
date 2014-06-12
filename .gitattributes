@@ -24,5 +24,4 @@ dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
 texts/story.kaa.postedit.txt -text
-texts/story.kaa.txt -text
 texts/story.kaz.txt -text svneol=unset#application/octet-stream
