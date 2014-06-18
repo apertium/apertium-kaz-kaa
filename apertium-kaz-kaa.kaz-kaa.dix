@@ -10,8 +10,8 @@
     <sdef n="det"   c="Determiner                  Детерминатив        Determinativ"/> 
     <sdef n="v"     c="Verb                        Етістік             Feyil"/> 
     <sdef n="vaux"  c="Auxiliary verb              Көмекші етістік     Ko'mekshi feyil"/> 
-    <sdef n="adv"   c="Adverb                      Үстеу               Ra'wish"/> 
-    <sdef n="post"  c="Postposition                Септеулік шылау     Tirkewish"/> 
+    <sdef n="adv"       c="Adverb                      Үстеу               Ra'wish"/> 
+    <sdef n="post"      c="Postposition                Септеулік шылау     Tirkewish"/> 
     <sdef n="postadv"   c="Postadverb                  'Артүстеу'          'Артрәвеш'"/> 
     <sdef n="cnjcoo"    c="Coordinating conjunction    ? жалғаулық шылау   Du'ziwshi da'neker"/> 
     <sdef n="cnjsub"    c="Subordinating conjunction   ? жалғаулық шылау   Jaratıwshı da'neker"/> 
@@ -63,7 +63,7 @@
     <sdef n="p3"    c=""/> 
     <sdef n="frm"   c=""/> 
     <sdef n="qst"   c="Question modal particle (cltic)"/> 
-    <sdef n="emph"  c="Emphasizing modal particle"/> 
+    <sdef n="emph"  c="Emphasising modal particle"/> 
     <sdef n="mod_ass"   c="Assertive modal particle (clitic)"/> 
     <sdef n="mod_ind"   c="Indefinite modal particle (clitic)"/> 
     <sdef n="mod"   c="Modal verbs"/> 
@@ -83,10 +83,14 @@
 
     <e><p><l>е<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
 
+    <!-- SECTION: Miscellaneous -->
+
+    <e><p><l>шы<s n="emph"/></l><r>shı<s n="emph"/></r></p></e>
+    <e><p><l>да<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
 
     <!-- SECTION: Conjunctions -->
 
-	<e><p><l>пен<s n="cnjcoo"/></l><r>penen<s n="cnjcoo"/></r></p></e>
+    <e><p><l>пен<s n="cnjcoo"/></l><r>penen<s n="cnjcoo"/></r></p></e>
     <e><p><l>да<s n="cnjcoo"/></l><r>da<s n="cnjcoo"/></r></p></e>
 
 

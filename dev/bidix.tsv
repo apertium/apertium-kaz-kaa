@@ -169,7 +169,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 атмосфера	n	atmosfera	x
 атом	n	atom	x
 атты	n	attı
-атшабар	n	atshabar
+атшабар	n	atshabar	x
 ауа	n	hawa	x
 ау	n	aw	x
 аудан	n	awdan
@@ -184,9 +184,9 @@ Kazakh	POS	Karakalpak	Checked	Comment
 ауыл	n	awıl	x
 ауыл	n	awıl	x
 ауырлық	n	awırlıq	x
-ахуал	n	ahwal
+ахуал	n	awhal	x
 ашаршылық	n	asharshılıq	x
-ашу	n	ashw
+ашу	n	ashıw	x
 ашытқы	n	ashıtqı	x
 ая	n	aya
 аяз	n	ayaz	x
@@ -195,41 +195,41 @@ Kazakh	POS	Karakalpak	Checked	Comment
 әдебиет	n	a'debiyat	x
 әдет	n	a'det	x
 әділдік	n	a'dillik	x
-әділет	n	a'dalat
-әділетсіздік	n	a'diletsizdik
-әдіс	n	a'dis
-әже	n	a'je
-әзір	n	a'zir
-әзірлік	n	a'zirlik
+әділет	n	a'dalat	x
+әділетсіздік	n	a'dalatsızlıq	x
+әдіс	n	usıl	x
+әже	n	a'je	x
+әзір	n	a'zir	x
+әзірлік	n	ha'zirlik	x
 әйел	n	hayal	x
 әке	n	a'ke	x
 әкім	n	ha'kim	x
-әкімдік	n	a'kimdik
-әкімшілік	n	a'kimshilik
-әл	n	a'l
-әлем	n	a'lem
-әмір	n	a'mir
-ән	n	a'n
-әнші% әйел	n	a'nshi% a'yel
-әнші	n	a'nshi
+әкімдік	n	ha’kimlik	x
+әкімшілік	n	ha'kimshilik	x
+әл	n	hal
+әлем	n	a'lem	x
+әмір	n	a'mir	x
+ән	n	qosıq	x
+әнші% әйел	n	qosıqshı hayal	x
+әнші	n	qosıqshı	x
 әңгіме	n	a'n'gime	x
 әпке	n	a'pke
-әрекет	n	a'reket
+әрекет	n	ha'reket	x
 әріптес	n	a'riptes
 әріптестік	n	a'riptestik
-әсер	n	a'ser
+әсер	n	ta'sir	x
 әскер	n	a'sker	x
 әуе	n	a'we
 әуежай	n	a'wejay
-әулет	n	a'wlet
-әуре	n	a'wre
+әулет	n	a’wlаd	x
+әуре	n	a’wеrе	x
 баба	n	baba	x
-баға	n	bag'a
+баға	n	bahа	x
 бағам	n	bag'am
 бағана	n	bag'ana	x
 бағдарлама	n	bag'darlama	x
 бағыт	n	bag'ıt	x
-баж	n	baj
+баж	n	baj	x
 база	n	baza	x
 базар	n	bazar	x
 базарлық	n	bazarlıq	x
@@ -238,7 +238,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 байлық	n	baylıq	x
 байтал	n	baytal
 бактерия	n	bakteriya	x
-бақ	n	baq
+бақ	n	bаg’	x
 бақша	n	baqsha	x
 бақыр	n	baqır
 бақыт	n	baxıt	x
@@ -255,99 +255,99 @@ Kazakh	POS	Karakalpak	Checked	Comment
 бапкер	n	bapker
 барит	n	barit
 баритон	n	bariton	x
-барыс	n	barıs
+барыс	n	barıs	x
 бас	n	bas	x
 басқарма	n	basqarma	x
 басқарушы	n	basqaruwshı	x
 баспана	n	baspana	x
 баспасөз	n	baspaso'z	x
-бастық	n	bastıq
+бастық	n	baslıq	x
 басшы	n	basshı	x
 басшылық	n	basshılıq	x
-басылым	n	basılım
-бата	n	bata
+басылым	n	basılım	x
+бата	n	pa'tiya	x
 батыл	n	batıl
 батыр	n	batır	x
 батыс	n	batıs	x
 бау%-бақша	n	baw%-baqsha
-бауыр	n	bawır
-бауырлас	n	bawırlas
+бауыр	n	bawır	x
+бауырлас	n	bawırlas	x
 баян	n	bayan	x
-баяндама	n	bayandama
+баяндама	n	bаyanlаmа	x
 бәйбіше	n	ba'ybishe
-бәсеке	n	ba'seke	x
-бәсекелестік	n	ba'sekelestik
+бәсеке	n	ba'seki	x
+бәсекелестік	n	ba'sekeleslik
 бәтеңке	n	ba'ten'ke
-бедел	n	bedel
+бедел	n	bedel	x
 бедер	n	beder
 без	n	bez	x
 бейбітшілік	n	beybitshilik
-бейне	n	beyne
+бейне	n	biyne	x
 бейнет	n	beynet
-бейсенбі	n	beysenbi
-бекет	n	beket
+бейсенбі	n	biyshеnbе	x
+бекет	n	piket	x
 бел	n	bel	x
 белгі	n	belgi	x
 белең	n	belen'
-белсенділік	n	belsendilik
-бентонит	n	bentonit
+белсенділік	n	belsendilik	x
+бентонит	n	bentonit	x
 бет	n	bet	x
 бетеге	n	betege
-бетон	n	beton
-бешпет	n	beshpet
-бешпет	n	beshpet
-би	n	bi
-бидай	n	biday
-бие	n	bie
+бетон	n	beton	x
+бешпет	n	beshpent	x
+бешпет	n	beshpent	x
+би	n	biy	x
+бидай	n	biyday	x
+бие	n	biye
 бизнес	n	biznes	x
-биіктік	n	biiktik
-билік	n	bilik
+биіктік	n	biyiklik	x
+билік	n	biylik	x
 биология	n	biologiya	x
 биржа	n	birja	x
 биыл	n	bıyıl	x
 білезік	n	bilezik	x
 білім	n	bilim	x
-бірлестік	n	birlestik
+бірлестік	n	birlespe	x
 бірлік	n	birlik	x
 бітімгершілік	n	bitimgershilik
 блог	n	blog	x
 бой	n	boy	x
 болат	n	polat	x
 болашақ	n	keleshek	x
-болжам	n	boljam
-болыс	n	bolıs
+болжам	n	boljama	x
+болыс	n	bolıs	x
 бомба	n	bomba	x
-бор	n	bor
+бор	n	por	x
 борсақ	n	borsaq
-борыш	n	borısh
+борыш	n	bursh	x
 босқын	n	bosqın
-бостандық	n	bostandıq
-бояу	n	boyaw
-бөгет	n	bo'get
-бөлік	n	bo'lik
+бостандық	n	bostanlıq
+бояу	n	boyaw	x
+бөгет	n	bo'get	x
+бөлік	n	bo'lek	x
 бөлім	n	bo'lim	x
 бөлімше	n	bo'limshe	x
 бөлме	n	bo'lme	x
 бөлшек	n	bo'lshek	x
-бөрене	n	bo'rene
+бөрене	n	bo'rene	x
 бөрі	n	bo'ri	x
-бу	n	bw
-бүйрек	n	bu'yrek
+бу	n	puw	x
+бүйрек	n	bu'yrek	x
 бүлікші	n	bu'likshi
 бүркіт	n	bu'rkit	x
 бүрсігүн	n	bu'rsigu'n
-бұғау	n	bug'aw
-бұзақылық	n	buzaqılıq
+бұғау	n	bug'aw	x
+бұзақылық	n	buzaqılıq	x
 бұзау	n	buzaw	x
 бұйрық	n	buyrıq	x
 бұқа	n	bug'a	x
 бұлт	n	bult	x
 бұршақ	n	burshaq	x
 бұрыш	n	burısh	x
-бұта	n	buta
-бұтақ	n	butaq
+бұта	n	puta	x
+бұтақ	n	putaq	x
 былау	n	bılaw
-былық	n	bılıq
+былық	n	bılıq	x
 бюджет	n	byudjet	x
 бюро	n	byuro	x
 вакцина	n	vakcina	x
@@ -371,9 +371,9 @@ Kazakh	POS	Karakalpak	Checked	Comment
 вокал	n	vokal	x
 газ	n	gaz	x
 газета	n	gazeta	x
-газет	n	gazet
-галл	n	gall
-гамета	n	gameta
+газет	n	gazeta	x
+галл	n	gall	x
+гамета	n	gameta	x
 гамма	n	gamma	x
 гвардия	n	gvardiya	x
 гектар	n	gektar	x
@@ -400,7 +400,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 губернатор	n	gubernator	x
 губерния	n	guberniya	x
 гүл	n	gu'l	x
-гүлтәж	n	gu'lta'j
+гүлтәж	n	venok	x
 ғалым	n	alım	x
 ғарыш	n	g'arısh
 ғасыр	n	g'asır
@@ -1812,7 +1812,7 @@ Kazakh	POS	Karakalpak	Checked	Comment
 тепе%-теңдік	n	tepe%-ten'dik
 терезе	n	tereze
 терек	n	terek
-тереңдік	n	teren'dik
+тереңдік	n	teren'lik
 терістік	n	teristik
 тері	n	teri	x
 термин	n	termin	x
@@ -2273,866 +2273,866 @@ Kazakh	POS	Karakalpak	Checked	Comment
 тасшөп	n	tassho'p
 исраилдік	n	israildik
 Kazakh	POS	Karakalpak	Checked	Comment
-абсолютті	adj	absolyutti
-абсолюттік	adj	absolyuttik
-авиациялық	adj	aviaciyalıq
-автономиялық	adj	avtonomiyalıq
-авторитарлық	adj	avtoritarlıq
-агротехникалық	adj	agrotexnikalıq
-адал	adj	adal
-аз	adj	az
-азаматтық	adj	azamattıq
-азат	adj	azat
-азиялық	adj	aziyalıq
-айқын	adj	ayqın
-айлы	adj	aylı
-айлық	adj	aylıq
-аймақтық	adj	aymaqtıq
-айрықша	adj	ayrıqsha
-айтарлықтай	adj	aytarlıqtay
-айыпты	adj	ayıptı
-ақ	adj	aq
+абсолютті	adj	absolyut	x
+абсолюттік	adj	absolyutlik	x
+авиациялық	adj	aviaciyalıq	x
+автономиялық	adj	avtonomiyalıq	x
+авторитарлық	adj	avtoritarlıq	x
+агротехникалық	adj	agrotexnikalıq	x
+адал	adj	hadal	x
+аз	adj	az	x
+азаматтық	adj	azamatlıq	x
+азат	adj	azat	x
+азиялық	adj	aziyalıq	x
+айқын	adj	ayqın	x
+айлы	adj	aylı	x
+айлық	adj	aylıq	x
+аймақтық	adj	aymaqlıq	x
+айрықша	adj	ayrıqsha	x
+айтарлықтай	adj	aytarlıqtay	x
+айыпты	adj	ayıplı	x
+ақ	adj	aq	x
 академиялық	adj	akademiyalıq	x
-ақпараттық	adj	aqparattıq
-актерлік	adj	akterlik
-активті	adj	aktivti
-ақтөбелік	adj	aqto'belik
-акустикалық	adj	akwstikalıq
-акционерлік	adj	akcionerlik
-ақшыл	adj	aqshıl
-ақырғы	adj	aqırg'ı
-ақырын	adj	aqırın
-ала	adj	ala
-аласа	adj	alasa
-алдыңғы	adj	aldın'g'ı
-алуан	adj	alwan
-алыс	adj	alıs
-аман	adj	aman
-америкалық	adj	amerikalıq
-американдық	adj	amerikandıq
-аналитикалық	adj	analitikalıq
-антропогендік	adj	antropogendik
-антропологиялық	adj	antropologiyalıq
-анық	adj	anıq
-апелляциялық	adj	apellyaciyalıq
-аппақ	adj	appaq
+ақпараттық	adj	informaciyalıq	x
+актерлік	adj	aktyorlıq	x
+активті	adj	aktivli	x
+ақтөбелік	adj	aqto'belik	x
+акустикалық	adj	akustikalıq	x
+акционерлік	adj	akcionerlik	x
+ақшыл	adj	aqshıl	x
+ақырғы	adj	aqırg'ı	x
+ақырын	adj	aqırın	x
+ала	adj	ala	x
+аласа	adj	kelte	x
+алдыңғы	adj	aldın'g'ı	x
+алуан	adj	ha’r% tu’rli	x
+алыс	adj	alıs	x
+аман	adj	aman	x
+америкалық	adj	amerikalı	x
+американдық	adj	amerikanlı	x
+аналитикалық	adj	analitikalıq	x
+антропогендік	adj	antropogenlik	x
+антропологиялық	adj	antropologiyalıq	x
+анық	adj	anıq	x
+апелляциялық	adj	apellyaciyalıq	x
+аппақ	adj	appaq	x
 араз	adj	araz
-арғы	adj	arg'ı
-ардақты	adj	ardaqtı
-арзан	adj	arzan
-арктикалық	adj	arktikalıq
-арнайы	adj	arnayı
-арнаулы	adj	arnawlı
-артиллериялық	adj	artilleriyalıq
-артқы	adj	artqı
-артық	adj	artıq
-археологиялық	adj	arxeologiyalıq
-архитектуралық	adj	arxitektwralıq
-арық	adj	arıq
-асау	adj	asaw
-астам	adj	astam
-астрономиялық	adj	astronomiyalıq
-астыңғы	adj	astın'g'ı
-астыртын	adj	astırtın
-асыл	adj	asıl
-атақты	adj	ataqtı
-аталмыш	adj	atalmısh
-атаулы	adj	atawlı
-атмосфералық	adj	atmosferalıq
-атомдық	adj	atomdıq
-атты	adj	attı
-ауғандық	adj	awg'andıq
-аудандық	adj	awdandıq
-ауқымды	adj	awqımdı
-аулақ	adj	awlaq
-аумақтық	adj	awmaqtıq
-ауылдық	adj	awıldıq
-ашулы	adj	ashwlı
-ашық	adj	ashıq
-ащы	adj	aщı
-аян	adj	ayan
-бағалы	adj	bag'alı
-бай	adj	bay
-байланысты	adj	baylanıstı
-байыпты	adj	bayıptı
-банктік	adj	banktik
-бар	adj	bar
-басқа	adj	basqa
-бастапқы	adj	bastapqı
-басты	adj	bastı
-басым	adj	basım
-батпақты	adj	batpaqtı
-батыл	adj	batıl
-баяғы	adj	bayag'ı
+арғы	adj	arg'ı	x
+ардақты	adj	ardaqlı	x
+арзан	adj	arzan	x
+арктикалық	adj	arktikalıq	x
+арнайы	adj	аrnаwlı	x
+арнаулы	adj	arnawlı	x
+артиллериялық	adj	artilleriyalıq	x
+артқы	adj	artqı	x
+артық	adj	artıq	x
+археологиялық	adj	arxeologiyalıq	x
+архитектуралық	adj	arxitekturalıq	x
+арық	adj	arıq	x
+асау	adj	asaw	x
+астам	adj	aslam	x
+астрономиялық	adj	astronomiyalıq	x
+астыңғы	adj	astın'g'ı	x
+астыртын	adj	astırtın	x
+асыл	adj	hasıl	x
+атақты	adj	ataqlı	x
+аталмыш	adj	atalmısh	x
+атаулы	adj	atawlı	x
+атмосфералық	adj	atmosferalıq	x
+атомдық	adj	atomlıq	x
+атты	adj	atlı	x
+ауғандық	adj	afg'anlıq	x
+аудандық	adj	rayonlıq	x
+ауқымды	adj	ken'	x
+аулақ	adj	awlaq	x
+аумақтық	adj	aymaqlıq	x
+ауылдық	adj	awıllıq	x
+ашулы	adj	ashıwlı	x
+ашық	adj	ashıq	x
+ащы	adj	аshshı	x
+аян	adj	ayan	x
+бағалы	adj	bahalı	x
+бай	adj	bay	x
+байланысты	adj	baylanıslı	x
+байыпты	adj	saldamlı	x
+банктік	adj	banklik	x
+бар	adj	bar	x
+басқа	adj	basqa	x
+бастапқы	adj	baslapqı	x
+басты	adj	baslı	x
+басым	adj	basım	x
+батпақты	adj	batpaqlı	x
+батыл	adj	batır	x
+баяғы	adj	bayag'ı	x
 бейбіт	adj	beybit
-беймәлім	adj	beyma'lim
-бейресми	adj	beyresmi
-белгілі	adj	belgili
-белсенді	adj	belsendi
-берік	adj	berik
-биік	adj	biik
-биологиялық	adj	biologiyalıq
-биохимиялық	adj	bioximiyalıq
-білікті	adj	bilikti
-біржақты	adj	birjaqtı
+беймәлім	adj	 biyma’lım	x
+бейресми	adj	ra’smiy­siz	x
+белгілі	adj	belgili	x
+белсенді	adj	belsendi	x
+берік	adj	berik	x
+биік	adj	biyik	x
+биологиялық	adj	biologiyalıq	x
+биохимиялық	adj	bioximiyalıq	x
+білікті	adj	bilimli	x
+біржақты	adj	birjaqlı	x
 бірік	adj	birik
-біртүрлі	adj	birtu'rli
-біртұтас	adj	birtutas
+біртүрлі	adj	birtu'rli	x
+біртұтас	adj	birtutas	x
 бірыңғай	adj	birın'g'ay
-боз	adj	boz
-бойлы	adj	boylı
-болымсыз	adj	bolımsız
-бос	adj	bos
-бөтен	adj	bo'ten
-британдық	adj	britandıq
-бұйра	adj	buyra
-бұқаралық	adj	buqaralıq
-бүкілресейлік	adj	bu'kilreseylik
-бұлыңғыр	adj	bulın'g'ır
-буржуазиялық	adj	bwrjwaziyalıq
-бүтін	adj	bu'tin
-бюджеттік	adj	byudjettik
-ғажап	adj	g'ajap
-ғаламдық	adj	g'alamdıq
-ғасырлық	adj	g'asırlıq
-генетик	adj	genetik
-генетикалық	adj	genetikalıq
-географиялық	adj	geografiyalıq
-геодезиялық	adj	geodeziyalıq
-геологиялық	adj	geologiyalıq
-геометриялық	adj	geometriyalıq
-геофизик	adj	geofizik
-геофизикалық	adj	geofizikalıq
-геохимиялық	adj	geoximiyalıq
-гигиеналық	adj	gigienalıq
-гидротехникалық	adj	gidrotexnikalıq
-горизонталь	adj	gorizontal
-гравитациялық	adj	gravitaciyalıq
-грамматикалық	adj	grammatikalıq
-графикалық	adj	grafikalıq
-гуманистік	adj	gwmanistik
-гуманитарлық	adj	gwmanitarlıq
-ғылыми	adj	g'ılımi
+боз	adj	bozan'	x
+бойлы	adj	boylı	x
+болымсыз	adj	bolımsız	x
+бос	adj	bos	x
+бөтен	adj	bo'ten	x
+британдық	adj	britanlı	x
+бұйра	adj	buyra	x
+бұқаралық	adj	puxaralıq	x
+бүкілресейлік	adj	pu'tkilrossiyalıq	x
+бұлыңғыр	adj	bultlı	x
+буржуазиялық	adj	burjuaziyalıq	x
+бүтін	adj	pu'tkil	x
+бюджеттік	adj	byudjetlik	x
+ғажап	adj	a'jayıp	x
+ғаламдық	adj	g'alabalıq	x
+ғасырлық	adj	a'sirlik	x
+генетик	adj	genetik	x
+генетикалық	adj	genetikalıq	x
+географиялық	adj	geografiyalıq	x
+геодезиялық	adj	geodeziyalıq	x
+геологиялық	adj	geologiyalıq	x
+геометриялық	adj	geometriyalıq	x
+геофизик	adj	geofizik	x
+геофизикалық	adj	geofizikalıq	x
+геохимиялық	adj	geoximiyalıq	x
+гигиеналық	adj	gigienalıq	x
+гидротехникалық	adj	gidrotexnikalıq	x
+горизонталь	adj	gorizontal	x
+гравитациялық	adj	gravitaciyalıq	x
+грамматикалық	adj	grammatikalıq	x
+графикалық	adj	grafikalıq	x
+гуманистік	adj	gumanislik	x
+гуманитарлық	adj	gumanitarlıq	x
+ғылыми	adj	ilimiy	x
 дағдылы	adj	dag'dılı
-дайым	adj	dayım
-дайын	adj	dayın
-дара	adj	dara
-даулы	adj	dawlı
-дедуктивтік	adj	dedwktivtik
-дейінгі	adj	deyingi
-дәмді	adj	da'mdi
-дәмелі	adj	da'meli
-демографиялық	adj	demografiyalıq
-демократиялық	adj	demokratiyalıq
-денелі	adj	deneli
+дайым	adj	mudаmı	x
+дайын	adj	tayın	x
+дара	adj	dara	x
+даулы	adj	dawlı	x
+дедуктивтік	adj	deduktivlik	x
+дейінгі	adj	deyingi	x
+дәмді	adj	da'mli	x
+дәмелі	adj	da'meli	x
+демографиялық	adj	demografiyalıq	x
+демократиялық	adj	demokratiyalıq	x
+денелі	adj	deneli	x
 дербес	adj	derbes
-дәрігерлік	adj	da'rigerlik
-дәстүрлі	adj	da'stu'rli
-дәу	adj	da'w
-диалектик	adj	dialektik
-динамикалық	adj	dinamikalıq
-дипломатиялық	adj	diplomatiyalıq
-диэлектрик	adj	dielektrik
-діни	adj	dini
-докторлық	adj	doktorlıq
-долларлық	adj	dollarlıq
-доминантты	adj	dominanttı
-дөңгелек	adj	do'n'gelek
+дәрігерлік	adj	shıpakerlik	x
+дәстүрлі	adj	da'stu'rli	x
+дәу	adj	da'w	x
+диалектик	adj	dialektik	x
+динамикалық	adj	dinamikalıq	x
+дипломатиялық	adj	diplomatiyalıq	x
+диэлектрик	adj	dielektrik	x
+діни	adj	diniy	x
+докторлық	adj	doktorlıq	x
+долларлық	adj	dollarlıq	x
+доминантты	adj	dominantlı	x
+дөңгелек	adj	do'n'gelek	x
 дөнежін	adj	do'nejin
 дөнен	adj	do'nen
-драмалық	adj	dramalıq
-дүниежүзілік	adj	du'nieju'zilik
-дұрыс	adj	durıs
+драмалық	adj	dramalıq	x
+дүниежүзілік	adj	du'nya% ju'zlik	x
+дұрыс	adj	durıs	x
 егжей%-тегжейлі	adj	egjey%-tegjeyli
-егістік	adj	egistik
-әдеби	adj	a'debi
-әдемі	adj	a'demi
-едәуір	adj	eda'wir
-әділ	adj	a'dil
-ежелгі	adj	ejelgi
-әжептәуір	adj	a'jepta'wir
-әзір	adj	a'zir
-әйгілі	adj	a'ygili
-екіжақты	adj	ekijaqtı
-екіталай	adj	ekitalay
-әлемдік	adj	a'lemdik
-елеулі	adj	elewli
-әлеуметтік	adj	a'lewmettik
-еңбегі% сіңген	adj	en'begi% sin'gen
-ерекше	adj	erekshe
-еркімен	adj	erkimen
-еркін	adj	erkin
-ерлі	adj	erli
+егістік	adj	egislik	x
+әдеби	adj	a'debiy	x
+әдемі	adj	sulıw	x
+едәуір	adj	a’dеwır	x
+әділ	adj	a'dil	x
+ежелгі	adj	a’yyemgi	x
+әжептәуір	adj	a'jepta'wir	x
+әзір	adj	 tayar	x
+әйгілі	adj	belgili	x
+екіжақты	adj	ekijaqlı	x
+екіталай	adj	kritikаlıq	x
+әлемдік	adj	a'lemlik	x
+елеулі	adj	a’hmiyеtli	x
+әлеуметтік	adj	ja'miyetlik	x
+еңбегі% сіңген	adj	miyneti% sin’gеn	x
+ерекше	adj	erekshe	x
+еркімен	adj	 еrikli	x
+еркін	adj	erkin	x
+ерлі	adj	erli	x
 әрлі	adj	a'rli
-ерте	adj	erte
-есен	adj	esen
-есіл	adj	esil
-есімді	adj	esimdi
-әскери	adj	a'skeri
-ескі	adj	eski
-еуразиялық	adj	ewraziyalıq
-еуропалық	adj	ewropalıq
-жабайы	adj	jabayı
-жабық	adj	jabıq
-жазғы	adj	jazg'ı
-жайлы	adj	jaylı
-жақсы	adj	jaqsı
-жақын	adj	jaqın
-жалаңаш	adj	jalan'ash
-жалғыз	adj	jalg'ız
-жалпақ	adj	jalpaq
-жалпы	adj	jalpı
+ерте	adj	erte	x
+есен	adj	esen	x
+есіл	adj	a’tten’	x
+есімді	adj	isimli	x
+әскери	adj	a'skeriy	x
+ескі	adj	eski	x
+еуразиялық	adj	evraziyalı	x
+еуропалық	adj	evropalı	x
+жабайы	adj	jabayı	x
+жабық	adj	jabıq	x
+жазғы	adj	jazg'ı	x
+жайлы	adj	jaylı	x
+жақсы	adj	jaqsı	x
+жақын	adj	jaqın	x
+жалаңаш	adj	jalan'ash	x
+жалғыз	adj	jalg'ız	x
+жалпақ	adj	jalpaq	x
+жалпы	adj	jalpı	x
 жалпыұлттық	adj	jalpıulttıq
-жалтыр	adj	jaltır
-жаман	adj	jaman
-жаңа	adj	jan'a
-жапан	adj	japan
-жапондық	adj	japondıq
-жаппай	adj	jappay
-жарасатындай	adj	jarasatınday
-жарлы	adj	jarlı
-жарты	adj	jartı
-жарық	adj	jarıq
-жарылғыш	adj	jarılg'ısh
-жарым	adj	jarım
-жас	adj	jas
-жасар	adj	jasar
-жасыл	adj	jasıl
-жаһандық	adj	jahandıq
-жедел	adj	jedel
-жеке	adj	jeke
-жексұрын	adj	jeksurın
-жеңіл	adj	jen'il
-жергілікті	adj	jergilikti
-жеткілікті	adj	jetkilikti
-жиі	adj	jii
-жіңішке	adj	jin'ishke
-жоғарғы	adj	jog'arg'ı
-жоғары	adj	jog'arı
-жоқ	adj	joq
-жуан	adj	jwan
-жүдеу	adj	ju'dew
+жалтыр	adj	jaltır	x
+жаман	adj	jaman	x
+жаңа	adj	jan'a	x
+жапан	adj	elsiz
+жапондық	adj	yaponiyalı	x
+жаппай	adj	mаssаlıq	x
+жарасатындай	adj	jarasatug'ınday	x
+жарлы	adj	jarlı	x
+жарты	adj	jartı	x
+жарық	adj	jarıq	x
+жарылғыш	adj	jarılg'ısh	x
+жарым	adj	yarım	x
+жас	adj	jas	x
+жасар	adj	jasar	x
+жасыл	adj	jasıl	x
+жаһандық	adj	ja’ha’nlik	x
+жедел	adj	jedel	x
+жеке	adj	jeke	x
+жексұрын	adj	jеrkеnishli	x
+жеңіл	adj	jen'il	x
+жергілікті	adj	jergilikli	x
+жеткілікті	adj	jetkilikli	x
+жиі	adj	jiyi	x
+жіңішке	adj	jin'ishke	x
+жоғарғы	adj	joqarg'ı	x
+жоғары	adj	joqarı	x
+жоқ	adj	joq	x
+жуан	adj	juwan	x
+жүдеу	adj	ju'dew	x
 жүйелі	adj	ju'yeli
-жүйрік	adj	ju'yrik
-жұқа	adj	juqa
-жұмсақ	adj	jumsaq
-жұрттық	adj	jurttıq
-жуық	adj	jwıq
-жылғы	adj	jılg'ı
-жылдам	adj	jıldam
-жылдық	adj	jıldıq
-жылжымайтын	adj	jıljımaytın
-жылы	adj	jılı
-зайыпты	adj	zayıptı
+жүйрік	adj	ju'yrik	x
+жұқа	adj	juqa	x
+жұмсақ	adj	jumsaq	x
+жұрттық	adj	jurtlıq	x
+жуық	adj	 jaqın	x
+жылғы	adj	jılg'ı	x
+жылдам	adj	jıldam	x
+жылдық	adj	jıllıq	x
+жылжымайтын	adj	jıljımaytug'ın	x
+жылы	adj	jıllı	x
+зайыпты	adj	zayıplı	x
 зайырлы	adj	zayırlı
-заманауи	adj	zamanawi
-заңды	adj	zan'dı
-зор	adj	zor
-игі	adj	igi
-идеалды	adj	idealdı
-идеологиялық	adj	ideologiyalıq
-идеялық	adj	ideyalıq
+заманауи	adj	zamanago'y	x
+заңды	adj	nızamlı	x
+зор	adj	zor	x
+игі	adj	iygilikli	x
+идеалды	adj	ideal	x
+идеологиялық	adj	ideologiyalıq	x
+идеялық	adj	ideyalıq	x
 иен	adj	ien
-иммиграциялық	adj	immigraciyalıq
-императорлық	adj	imperatorlıq
-империялық	adj	imperiyalıq
-инвестициялық	adj	investiciyalıq
-индукциялық	adj	indwkciyalıq
-инженерлік	adj	injenerlik
-инновациялық	adj	innovaciyalıq
-интеграциялық	adj	integraciyalıq
-интеллектуалдық	adj	intellektwaldıq
-ирандық	adj	irandıq
-исламшыл	adj	islamshıl
-исраилдік	adj	israildik
-ізгі	adj	izgi
-ірі	adj	iri
-ішкі	adj	ishki
-қадірлі	adj	qadirli
-қазақстандық	adj	qazaqstandıq
-қайғылы	adj	qayg'ılı
-қайран	adj	qayran
-қайырлы	adj	qayırlı
-қалалық	adj	qalalıq
-қалың	adj	qalın'
-қамтамасыз	adj	qamtamasız
-қара	adj	qara
-қаралы	adj	qaralı
-қараңғы	adj	qaran'g'ı
-қарапайым	adj	qarapayım
-қарасты	adj	qarastı
-қаржылық	adj	qarjılıq
-қарқынды	adj	qarqındı
-қарсы	adj	qarsı
-қартаң	adj	qartan'
-қарулы	adj	qarwlı
-қатал	adj	qatal
-қатаң	adj	qatan'
-қатарлы	adj	qatarlı
-қатты	adj	qattı
-қатысты	adj	qatıstı
-қауқарсыз	adj	qawqarsız
-қашық	adj	qashıq
-кедей	adj	kedey
-кедендік	adj	kedendik
-кәдімгі	adj	ka'dimgi
-кездейсоқ	adj	kezdeysoq
-келесі	adj	kelesi
-кем	adj	kem
-кең	adj	ken'
-керек	adj	kerek
-кері	adj	keri
-кәрі	adj	ka'ri
-кәсіби	adj	ka'sibi
-кеш	adj	kesh
-киелі	adj	kieli
-қиын	adj	qiın
-кібісе	adj	kibise
-кінәлі	adj	kina'li
-кір	adj	kir
-кіші	adj	kishi
-кішкене	adj	kishkene
-кішкентай	adj	kishkentay
-классик	adj	klassik
-классикалық	adj	klassikalıq
-климаттық	adj	klimattıq
-клиникалық	adj	klinikalıq
-қоғамдық	adj	qog'amdıq
-көк	adj	ko'k
-көктемгі	adj	ko'ktemgi
-қолайлы	adj	qolaylı
-қомақты	adj	qomaqtı
-коммерциялық	adj	kommerciyalıq
-коммуналдық	adj	kommwnaldıq
-коммунистік	adj	kommwnistik
-композициялық	adj	kompoziciyalıq
-компьютерлік	adj	kompyuterlik
-көне	adj	ko'ne
-көңілді	adj	ko'n'ildi
-конституциялық	adj	konstitwciyalıq
-континенттік	adj	kontinenttik
-концерттік	adj	koncerttik
-қоңыр	adj	qon'ır
-көп	adj	ko'p
-қор	adj	qor
-көркем	adj	ko'rkem
-қорқынышты	adj	qorqınıshtı
-көрнекі	adj	ko'rneki
-көрнекті	adj	ko'rnekti
-корпоративтік	adj	korporativtik
-коррупциялық	adj	korrwpciyalıq
-көршілес	adj	ko'rshiles
-қос	adj	qos
-қосалқы	adj	qosalqı
-қосымша	adj	qosımsha
-қош	adj	qosh
-көшпелі	adj	ko'shpeli
-қою	adj	qoyu
-кристалдық	adj	kristaldıq
-қу	adj	qw
-қуанышты	adj	qwanıshtı
-кубалық	adj	kwbalıq
-құдіретті	adj	qudiretti
-құнарлы	adj	qunarlı
-күнгі	adj	ku'ngi
-күнделікті	adj	ku'ndelikti
-күндік	adj	ku'ndik
-құнды	adj	qundı
-құр	adj	qur
-құрама	adj	qurama
-құрамдас	adj	quramdas
-құрғақ	adj	qurg'aq
-күрделі	adj	ku'rdeli
-күрең	adj	ku'ren'
-құрылымдық	adj	qurılımdıq
+иммиграциялық	adj	immigraciyalıq	x
+императорлық	adj	imperatorlıq	x
+империялық	adj	imperiyalıq	x
+инвестициялық	adj	investiciyalıq	x
+индукциялық	adj	indukciyalıq	x
+инженерлік	adj	injenerlik	x
+инновациялық	adj	innovaciyalıq	x
+интеграциялық	adj	integraciyalıq	x
+интеллектуалдық	adj	intellektuallıq	x
+ирандық	adj	iranlı	x
+исламшыл	adj	islamshıl	x
+исраилдік	adj	izrailli	x
+ізгі	adj	a'diwli
+ірі	adj	iri	x
+ішкі	adj	ishki	x
+қадірлі	adj	qa’dirli	x
+қазақстандық	adj	qazaqstanlı	x
+қайғылы	adj	qayg'ılı	x
+қайран	adj	hayran	x
+қайырлы	adj	qayırlı	x
+қалалық	adj	qalalıq	x
+қалың	adj	qalın'	x
+қамтамасыз	adj	ta’miyinlеngеn	x
+қара	adj	qara	x
+қаралы	adj	qaralı	x
+қараңғы	adj	qaran'g'ı	x
+қарапайым	adj	qarapayım	x
+қарасты	adj	qaraslı	x
+қаржылық	adj	qarjılıq	x
+қарқынды	adj	ku’shli	x
+қарсы	adj	qarsı	x
+қартаң	adj	qаrt	x
+қарулы	adj	qarıwlı	x
+қатал	adj	qatal	x
+қатаң	adj	qatan'	x
+қатарлы	adj	qatarlı	x
+қатты	adj	qattı	x
+қатысты	adj	qatıslı	x
+қауқарсыз	adj	ha’lsiz	x
+қашық	adj	qashıq	x
+кедей	adj	gedey	x
+кедендік	adj	baj	x
+кәдімгі	adj	qa'dimgi	x
+кездейсоқ	adj	tоsаttаn% bolg’an	x
+келесі	adj	kelesi	x
+кем	adj	kem	x
+кең	adj	ken'	x
+керек	adj	kerek	x
+кері	adj	keri	x
+кәрі	adj	g’arrı	x
+кәсіби	adj	ka'siplik	x
+кеш	adj	kesh	x
+киелі	adj	wa’liy	x
+қиын	adj	qıyın	x
+кібісе	adj	visokosniy
+кінәлі	adj	gu’nаlı	x
+кір	adj	kir	x
+кіші	adj	kishi	x
+кішкене	adj	kishkene	x
+кішкентай	adj	kishkentay	x
+классик	adj	klassik	x
+классикалық	adj	klassikalıq	x
+климаттық	adj	klimatlıq	x
+клиникалық	adj	klinikalıq	x
+қоғамдық	adj	 ja’miyetlik	x
+көк	adj	ko'k	x
+көктемгі	adj	ba’ha’rgi	x
+қолайлы	adj	qolaylı	x
+қомақты	adj	ko’lemli	x
+коммерциялық	adj	kommerciyalıq	x
+коммуналдық	adj	kommunallıq	x
+коммунистік	adj	kommunislik	x
+композициялық	adj	kompoziciyalıq	x
+компьютерлік	adj	kompyuterlik	x
+көне	adj	go'ne	x
+көңілді	adj	kewilli	x
+конституциялық	adj	konstituciyalıq	x
+континенттік	adj	kontinentlik	x
+концерттік	adj	koncertlik	x
+қоңыр	adj	qon'ır	x
+көп	adj	ko'p	x
+қор	adj	qor	x
+көркем	adj	ko'rkem	x
+қорқынышты	adj	qorqınıshlı	x
+көрнекі	adj	ko’rnеkli	x
+көрнекті	adj	ko'rnekli	x
+корпоративтік	adj	korporativlik	x
+коррупциялық	adj	korrupciyalıq	x
+көршілес	adj	qоn’sılаs	x
+қос	adj	qos	x
+қосалқы	adj	qosımshа	x
+қосымша	adj	qosımsha	x
+қош	adj	хоsh	x
+көшпелі	adj	ko'shpeli	x
+қою	adj	qoyıw	x
+кристалдық	adj	kristallıq	x
+қу	adj	quw	x
+қуанышты	adj	quwanıshlı	x
+кубалық	adj	kubalı	x
+құдіретті	adj	qudiretli	x
+құнарлы	adj	o’nimli
+күнгі	adj	ku'ngi	x
+күнделікті	adj	ku'ndelikli	x
+күндік	adj	ku'nlik	x
+құнды	adj	qunlı	x
+құр	adj	qurı	x
+құрама	adj	qurama	x
+құрамдас	adj	qurama	x
+құрғақ	adj	qurg'aq	x
+күрделі	adj	quramalı	x
+күрең	adj	gu’ren’	x
+құрылымдық	adj	qurılıslı	x
 кушма	adj	kwshma
-күшті	adj	ku'shti
-қызғылт	adj	qızg'ılt
-қызулы	adj	qızwlı
-қызық	adj	qızıq
-қызықты	adj	qızıqtı
-қызыл	adj	qızıl
-қылмыстық	adj	qılmıstıq
-кымбат	adj	kımbat
-қымбат	adj	qımbat
-қырлы	adj	qırlı
-қысқа	adj	qısqa
-қытайлық	adj	qıtaylıq
-қышқыл	adj	qıshqıl
-лайық	adj	layıq
-лайықты	adj	layıqtı
-лауазымды	adj	lawazımdı
+күшті	adj	ku'shli	x
+қызғылт	adj	qızg'ılt	x
+қызулы	adj	qızg’ınlı	x
+қызық	adj	qızıq	x
+қызықты	adj	qızıqlı	x
+қызыл	adj	qızıl	x
+қылмыстық	adj	qılmıslılıq	x
+кымбат	adj	qımbat	x
+қымбат	adj	qımbat	x
+қырлы	adj	qırlı	x
+қысқа	adj	qısqa	x
+қытайлық	adj	qıtaylı	x
+қышқыл	adj	qıshqılt	x
+лайық	adj	ılayıq
+лайықты	adj	ılayıqlı
+лауазымды	adj	lawazımlı	x
 леуілік	adj	lewilik
-лингвистикалық	adj	lingvistikalıq
-лирик	adj	lirik
-лирикалық	adj	lirikalıq
-литологиялық	adj	litologiyalıq
-логикалық	adj	logikalıq
-маңызды	adj	man'ızdı
-маркалы	adj	markalı
-марроколық	adj	marrokolıq
-математик	adj	matematik
-математикалық	adj	matematikalıq
-материалдық	adj	materialdıq
-материалистік	adj	materialistik
-мәдени	adj	ma'deni
-медициналық	adj	medicinalıq
-мәжбүр	adj	ma'jbu'r
-мәз	adj	ma'z
-мейірімді	adj	meyirimdi
-мәлім	adj	ma'lim
-мемлекеттік	adj	memlekettik
-мемориалдық	adj	memorialdıq
-мәңгі	adj	ma'n'gi
-мәңгілік	adj	ma'n'gilik
-мерекелік	adj	merekelik
-металдық	adj	metaldıq
-металлургиялық	adj	metallwrgiyalıq
-метаморфтық	adj	metamorftıq
-метрлік	adj	metrlik
-механик	adj	mexanik
-механикалық	adj	mexanikalıq
-минералды	adj	mineraldı
-минералдық	adj	mineraldıq
-мифологиялық	adj	mifologiyalıq
-мифтік	adj	miftik
-міндетті	adj	mindetti
-мол	adj	mol
-мөлдір	adj	mo'ldir
-молекулалық	adj	molekwlalıq
-момын	adj	momın
-монголоид	adj	mongoloid
-монументтік	adj	monwmenttik
-моральдық	adj	moraldıq
-морфологиялық	adj	morfologiyalıq
-мүдделі	adj	mu'ddeli
-музейлік	adj	mwzeylik
-музыкалық	adj	mwzıkalıq
-мүйізді	adj	mu'yizdi
-мұқият	adj	muqiyat
-мүмкін	adj	mu'mkin
-муниципалдық	adj	mwnicipaldıq
+лингвистикалық	adj	lingvistikalıq	x
+лирик	adj	lirik	x
+лирикалық	adj	lirikalıq	x
+литологиялық	adj	litologiyalıq	x
+логикалық	adj	logikalıq	x
+маңызды	adj	mаn’ızlı	x
+маркалы	adj	markalı	x
+марроколық	adj	marrokolı	x
+математик	adj	matematik	x
+математикалық	adj	matematikalıq	x
+материалдық	adj	materiallıq	x
+материалистік	adj	materialislik	x
+мәдени	adj	ma'deniy	x
+медициналық	adj	medicinalıq	x
+мәжбүр	adj	ma'jbu'r	x
+мәз	adj	ma's	x
+мейірімді	adj	miyrimli	x
+мәлім	adj	ma'lim	x
+мемлекеттік	adj	memleketlik	x
+мемориалдық	adj	memoriallıq	x
+мәңгі	adj	ma'n'gi	x
+мәңгілік	adj	ma'n'gilik	x
+мерекелік	adj	mеrеkеli	x
+металдық	adj	metallıq	x
+металлургиялық	adj	metallurgiyalıq	x
+метаморфтық	adj	metamorflıq	x
+метрлік	adj	metrlik	x
+механик	adj	mexanik	x
+механикалық	adj	mexanikalıq	x
+минералды	adj	minerallı	x
+минералдық	adj	minerallıq	x
+мифологиялық	adj	mifologiyalıq	x
+мифтік	adj	miflik	x
+міндетті	adj	minnеtli	x
+мол	adj	mol	x
+мөлдір	adj	mo'ldir	x
+молекулалық	adj	molekulalıq	x
+момын	adj	mo’hmin	x
+монголоид	adj	mongoloid	x
+монументтік	adj	monumentlik	x
+моральдық	adj	morallıq	x
+морфологиялық	adj	morfologiyalıq	x
+мүдделі	adj	qızıg’ıwshı	x
+музейлік	adj	muzeylik	x
+музыкалық	adj	muzıkalıq	x
+мүйізді	adj	mu'yizli	x
+мұқият	adj	muqıyatlı	x
+мүмкін	adj	mu'mkin	x
+муниципалдық	adj	municipallıq	x
 мұражайлық	adj	murajaylıq
-мұралық	adj	muralıq
-мықты	adj	mıqtı
-мылқау	adj	mılqaw
-нағыз	adj	nag'ız
-надан	adj	nadan
-нақты	adj	naqtı
-нақтылы	adj	naqtılı
-наразы	adj	narazı
-нарықтық	adj	narıqtıq
-нашар	adj	nashar
-небір	adj	nebir
-негізгі	adj	negizgi
-нәзік	adj	na'zik
-нормативтік	adj	normativtik
-ну	adj	nw
-нулы	adj	nwlı
-нұрлы	adj	nurlı
-нық	adj	nıq
-облыстық	adj	oblıstıq
-объективті	adj	obektivti
-өзара	adj	o'zara
-өзге	adj	o'zge
-өзгеше	adj	o'zgeshe
-өзекті	adj	o'zekti
-өзіндік	adj	o'zindik
-округтік	adj	okrwgtik
-өктем	adj	o'ktem
-оқшау	adj	oqshaw
-өлі	adj	o'li
-өмірлік	adj	o'mirlik
-оң	adj	on'
-оңай	adj	on'ay
-оңаша	adj	on'asha
-өндірістік	adj	o'ndiristik
-өңшең	adj	o'n'shen'
-операциялық	adj	operaciyalıq
-оппозициялық	adj	oppoziciyalıq
-оптик	adj	optik
-оптикалық	adj	optikalıq
-органик	adj	organik
-органикалық	adj	organikalıq
-өрескел	adj	o'reskel
-өркениетті	adj	o'rkenietti
-орманды	adj	ormandı
-орта	adj	orta
-ортақ	adj	ortaq
-орташа	adj	ortasha
-орфографиялық	adj	orfografiyalıq
-отбасылық	adj	otbasılıq
-өткен	adj	o'tken
-өткір	adj	o'tkir
-отырықшы	adj	otırıqshı
-пайдалы	adj	paydalı
-пайыздық	adj	payızdıq
-парафинді	adj	parafindi
-парламенттік	adj	parlamenttik
-партиялық	adj	partiyalıq
-патриархалдық	adj	patriarxaldıq
-педагогикалық	adj	pedagogikalıq
-пәк	adj	pa'k
-пәкістандық	adj	pa'kistandıq
-периодты	adj	periodtı
-периодтық	adj	periodtıq
-пластикалық	adj	plastikalıq
-платформалық	adj	platformalıq
-политехникалық	adj	politexnikalıq
-постсоветтік	adj	postsovettik
-потенциалдық	adj	potencialdıq
-поэзиялық	adj	poeziyalıq
-поэтикалық	adj	poetikalıq
-практикалық	adj	praktikalıq
-президенттік	adj	prezidenttik
-пропорционал	adj	proporcional
-психикалық	adj	psixikalıq
-психологиялық	adj	psixologiyalıq
-радиациялық	adj	radiaciyalıq
-радиоактивті	adj	radioaktivti
-радиолокациялық	adj	radiolokaciyalıq
-радиоэлектрондық	adj	radioelektrondıq
-разы	adj	razı
-ракеталық	adj	raketalıq
-реалистік	adj	realistik
-революциялық	adj	revolyuciyalıq
-режиссерлік	adj	rejisserlik
-ресми	adj	resmi
-республикалық	adj	respwblikalıq
-рецессивті	adj	recessivti
-риза	adj	riza
-римдік	adj	rimdik
-романтик	adj	romantik
-романтикалық	adj	romantikalıq
-рухани	adj	rwxani
-сабыр	adj	sabır
-сай	adj	say
-сақ	adj	saq
-салалық	adj	salalıq
-салтанатты	adj	saltanattı
-салыстырмалы	adj	salıstırmalı
-сапалы	adj	sapalı
-сары	adj	sarı
-сатирик	adj	satirik
-сау	adj	saw
-саяси	adj	sayasi
-семіз	adj	semiz
-сенімді	adj	senimdi
-символикалық	adj	simvolikalıq
-синтаксистік	adj	sintaksistik
-синтетикалық	adj	sintetikalıq
-сирек	adj	sirek
-советтік	adj	sovettik
-сол	adj	sol
-соң	adj	son'
-сорлы	adj	sorlı
-социал	adj	social
-социалистік	adj	socialistik
-спектрлік	adj	spektrlik
-спонсорлық	adj	sponsorlıq
-спорттық	adj	sporttıq
-стандартты	adj	standarttı
-статистикалық	adj	statistikalıq
-стратегиялық	adj	strategiyalıq
-стратиграфиялық	adj	stratigrafiyalıq
-субтропиктік	adj	swbtropiktik
-субъективті	adj	swbektivti
-сүйікті	adj	su'yikti
-сүйкімді	adj	su'ykimdi
-сұйық	adj	suyıq
-сұлу	adj	sulw
-сулы	adj	swlı
-сұр	adj	sur
-сұраным	adj	suranım
-суық	adj	swıq
-сыбайлас	adj	sıbaylas
-сынды	adj	sındı
-сыртқы	adj	sırtqı
-табиғи	adj	tabig'i
-табысты	adj	tabıstı
-таза	adj	taza
-тақау	adj	taqaw
-тақуа	adj	taqwa
-талай	adj	talay
-тамаша	adj	tamasha
-таңғы	adj	tan'g'ı
-таңдаулы	adj	tan'dawlı
-танымал	adj	tanımal
-тар	adj	tar
-тарихи	adj	tarixi
-тату	adj	tatw
-таулы	adj	tawlı
-тегін	adj	tegin
-тәжірибелі	adj	ta'jiribeli
-тез	adj	tez
-тектоникалық	adj	tektonikalıq
-температуралық	adj	temperatwralıq
-тең	adj	ten'
-тән	adj	ta'n
-теоретик	adj	teoretik
-теориялық	adj	teoriyalıq
-тепе%-тең	adj	tepe%-ten'
-тәрбиелік	adj	ta'rbielik
-терең	adj	teren'
-тәріздес	adj	ta'rizdes
-тәрізді	adj	ta'rizdi
-теріс	adj	teris
-термиялық	adj	termiyalıq
-террористік	adj	terroristik
-террорлық	adj	terrorlıq
-тәуекел	adj	ta'wekel
-тәуелді	adj	ta'weldi
-тәуелсіз	adj	ta'welsiz
-техникалық	adj	texnikalıq
-технологиялық	adj	texnologiyalıq
-тиесілі	adj	tiesili
-тиімді	adj	tiimdi
-тиімсіз	adj	tiimsiz
-тиіс	adj	tiis
-тиісті	adj	tiisti
-тік	adj	tik
-тікелей	adj	tikeley
-тірі	adj	tiri
-төзімді	adj	to'zimdi
-төл	adj	to'l
-толы	adj	tolı
-толық	adj	tolıq
-төмен	adj	to'men
-төменгі	adj	to'mengi
-топырақты	adj	topıraqtı
+мұралық	adj	miyrаslıq	x
+мықты	adj	mıqlı	x
+мылқау	adj	gu’n’еlеk	x
+нағыз	adj	nag'ız	x
+надан	adj	nadan	x
+нақты	adj	naq	x
+нақтылы	adj	nоminаl	x
+наразы	adj	narazı	x
+нарықтық	adj	bаzаr	x
+нашар	adj	nashar	x
+небір	adj	nebir	x
+негізгі	adj	negizgi	x
+нәзік	adj	na'zik	x
+нормативтік	adj	normativlik	x
+ну	adj	nuw	x
+нулы	adj	nuwlı	x
+нұрлы	adj	nurlı	x
+нық	adj	nıq	x
+облыстық	adj	oblastlıq	x
+объективті	adj	obyektivli	x
+өзара	adj	o'z-ara	x
+өзге	adj	o'zge	x
+өзгеше	adj	o'zgeshe	x
+өзекті	adj	tiykarg’ı	x
+өзіндік	adj	o'z	x
+округтік	adj	okruglik	x
+өктем	adj	hu’kimshil	x
+оқшау	adj	ayırımlаng’an	x
+өлі	adj	o'li	x
+өмірлік	adj	o'mirlik	x
+оң	adj	on'	x
+оңай	adj	oday	x
+оңаша	adj	bo'lek	x
+өндірістік	adj	o'ndirislik	x
+өңшең	adj	ayırım	x
+операциялық	adj	operaciyalıq	x
+оппозициялық	adj	oppoziciyalıq	x
+оптик	adj	optik	x
+оптикалық	adj	optikalıq	x
+органик	adj	organik	x
+органикалық	adj	organikalıq	x
+өрескел	adj	turpаyı	x
+өркениетті	adj	tsivilizаtsiyalı	x
+орманды	adj	tog'aylı	x
+орта	adj	orta	x
+ортақ	adj	ulıwma	x
+орташа	adj	ortasha	x
+орфографиялық	adj	orfografiyalıq	x
+отбасылық	adj	shаn’аrаqlı	x
+өткен	adj	o'tken	x
+өткір	adj	o'tkir	x
+отырықшы	adj	otırıqlı	x
+пайдалы	adj	paydalı	x
+пайыздық	adj	payızlıq	x
+парафинді	adj	parafinli	x
+парламенттік	adj	parlamentlik	x
+партиялық	adj	partiyalıq	x
+патриархалдық	adj	patriarxallıq	x
+педагогикалық	adj	pedagogikalıq	x
+пәк	adj	pa'k	x
+пәкістандық	adj	pa'kistanlı	x
+периодты	adj	da'wirli	x
+периодтық	adj	da'wirlik	x
+пластикалық	adj	plastikalıq	x
+платформалық	adj	platformalıq	x
+политехникалық	adj	politexnikalıq	x
+постсоветтік	adj	postsovetlik	x
+потенциалдық	adj	potenciallıq	x
+поэзиялық	adj	poeziyalıq	x
+поэтикалық	adj	poetikalıq	x
+практикалық	adj	praktikalıq	x
+президенттік	adj	prezidentlik	x
+пропорционал	adj	proporcional	x
+психикалық	adj	psixikalıq	x
+психологиялық	adj	psixologiyalıq	x
+радиациялық	adj	radiaciyalıq	x
+радиоактивті	adj	radioaktivli	x
+радиолокациялық	adj	radiolokaciyalıq	x
+радиоэлектрондық	adj	radioelektrondıq	x
+разы	adj	razı	x
+ракеталық	adj	raketalıq	x
+реалистік	adj	realistik	x
+революциялық	adj	revolyuciyalıq	x
+режиссерлік	adj	rejisserlik	x
+ресми	adj	ra'smiy	x
+республикалық	adj	respublikalıq	x
+рецессивті	adj	recessivli	x
+риза	adj	ırzа 	x
+римдік	adj	rimli	x
+романтик	adj	romantik	x
+романтикалық	adj	romantikalıq	x
+рухани	adj	ruwxanıy	x
+сабыр	adj	sabır	x
+сай	adj	say	x
+сақ	adj	saq	x
+салалық	adj	salalıq	x
+салтанатты	adj	saltanatlı	x
+салыстырмалы	adj	salıstırmalı	x
+сапалы	adj	sapalı	x
+сары	adj	sarı	x
+сатирик	adj	satirik	x
+сау	adj	saw	x
+саяси	adj	sıyasıy	x
+семіз	adj	semiz	x
+сенімді	adj	isenimli	x
+символикалық	adj	simvolikalıq	x
+синтаксистік	adj	sintaksislik	x
+синтетикалық	adj	sintetikalıq	x
+сирек	adj	siyrek	x
+советтік	adj	sovetlik	x
+сол	adj	sol	x
+соң	adj	son'	x
+сорлы	adj	sorlı	x
+социал	adj	social	x
+социалистік	adj	socialislik	x
+спектрлік	adj	spektrlik	x
+спонсорлық	adj	sponsorlıq	x
+спорттық	adj	sportlıq	x
+стандартты	adj	standartlı	x
+статистикалық	adj	statistikalıq	x
+стратегиялық	adj	strategiyalıq	x
+стратиграфиялық	adj	stratigrafiyalıq	x
+субтропиктік	adj	subtropiklik	x
+субъективті	adj	subyektivli	x
+сүйікті	adj	su'yikli	x
+сүйкімді	adj	su'ykimli	x
+сұйық	adj	suyıq	x
+сұлу	adj	sulıw	x
+сулы	adj	suwlı	x
+сұр	adj	sur	x
+сұраным	adj	talap	it's a noun, i think
+суық	adj	suwıq	x
+сыбайлас	adj	qon'sılas	x
+сынды	adj	sıyaqlı	x
+сыртқы	adj	sırtqı	x
+табиғи	adj	ta'biyiy	x
+табысты	adj	tabıslı	x
+таза	adj	taza	x
+тақау	adj	taqaw	x	seems like adverb
+тақуа	adj	taqıwа	x
+талай	adj	talay	x
+тамаша	adj	tamasha	x
+таңғы	adj	tan'g'ı	x
+таңдаулы	adj	tаnlawlı	x
+танымал	adj	tаnıs	x
+тар	adj	tar	x
+тарихи	adj	tariyxıy	x
+тату	adj	tatıw	x
+таулы	adj	tawlı	x
+тегін	adj	tegin	x
+тәжірибелі	adj	ta'jriybeli	x
+тез	adj	tez	x
+тектоникалық	adj	tektonikalıq	x
+температуралық	adj	temperaturalıq	x
+тең	adj	ten'	x
+тән	adj	ta'n	x
+теоретик	adj	teoretik	x
+теориялық	adj	teoriyalıq	x
+тепе%-тең	adj	teppe%-ten'	x
+тәрбиелік	adj	ta'rbiyalıq	x
+терең	adj	teren'	x
+тәріздес	adj	ta'rizles	x
+тәрізді	adj	ta'rizli	x
+теріс	adj	teris	x
+термиялық	adj	termiyalıq	x
+террористік	adj	terrorislik	x
+террорлық	adj	terrorlıq	x
+тәуекел	adj	ta'wekel	x
+тәуелді	adj	bag’ınıshlı	x
+тәуелсіз	adj	g’a’rezsiz	x
+техникалық	adj	texnikalıq	x
+технологиялық	adj	texnologiyalıq	x
+тиесілі	adj	tiyisli	x
+тиімді	adj	paydalı	x
+тиімсіз	adj	paydasız	x
+тиіс	adj	tiyis	x
+тиісті	adj	tiyisli	x
+тік	adj	tik	x
+тікелей	adj	tikkeley	x
+тірі	adj	tiri	x
+төзімді	adj	shıdаmlı	x
+төл	adj	mеnshik	x
+толы	adj	tolı	x
+толық	adj	tolıq	x
+төмен	adj	to'men	x
+төменгі	adj	to'mengi	x
+топырақты	adj	topıraqlı	x
 торы	adj	torı
-төтенше	adj	to'tenshe
-трагедиялық	adj	tragediyalıq
-транзиттік	adj	tranzittik
-тропикалық	adj	tropikalıq
-тропиктік	adj	tropiktik
-түбегейлі	adj	tu'begeyli
-туған	adj	twg'an
-түгел	adj	tu'gel
-түзу	adj	tu'zw
-тұйық	adj	tuyıq
-тұңғыш	adj	tun'g'ısh
-тұнық	adj	tunıq
-түпкілікті	adj	tu'pkilikti
-тура	adj	twra
-тұрақты	adj	turaqtı
-тұрғын	adj	turg'ın
-туристік	adj	twristik
-түркі	adj	tu'rki
-түрлі	adj	tu'rli
-тұрмыстық	adj	turmıstıq
-түршігерлік	adj	tu'rshigerlik
-турындағы	adj	twrındag'ı
-түскі	adj	tu'ski
-тұтас	adj	tutas
-тұщы	adj	tuщı
-туыс	adj	twıs
-тығыз	adj	tıg'ız
-тын	adj	tın
-тың	adj	tın'
-тыныш	adj	tınısh
-уақ	adj	waq
-уақытша	adj	waqıtsha
-ұжымдық	adj	ujımdıq
-ұзақ	adj	uzaq
-үздік	adj	u'zdik
-ұзын	adj	uzın
-ұзынша	adj	uzınsha
-үйлі	adj	u'yli
-үкіметтік	adj	u'kimettik
-ұқсас	adj	uqsas
-үлкен	adj	u'lken
-ұлтаралық	adj	ultaralıq
-ұлттық	adj	ulttıq
-улы	adj	wlı
-ұлық	adj	ulıq
-ұнамды	adj	unamdı
-үнемі	adj	u'nemi
-үрдіс	adj	u'rdis
-ұсақ	adj	usaq
-үстем	adj	u'stem
-үстеме	adj	u'steme
-үстінгі	adj	u'stingi
-фашистік	adj	fashistik
-федералдық	adj	federaldıq
-федеральды	adj	federaldı
-феодалдық	adj	feodaldıq
-физикалық	adj	fizikalıq
-физиологиялық	adj	fiziologiyalıq
-философиялық	adj	filosofiyalıq
-фольклорлық	adj	folklorlıq
-формальды	adj	formaldı
-функционалдық	adj	fwnkcionaldıq
-хабардар	adj	xabardar
-халал	adj	xalal
-халықаралық	adj	xalıqaralıq
-халықтық	adj	xalıqtıq
-химиялық	adj	ximiyalıq
-хош	adj	xosh
-христиандық	adj	xristiandıq
-хромосомалық	adj	xromosomalıq
-циклді	adj	cikldi
-шағын	adj	shag'ın
-шалғынды	adj	shalg'ındı
-шамалы	adj	shamalı
-шапшаң	adj	shapshan'
-шекаралас	adj	shekaralas
-шексіз	adj	sheksiz
-шектеулі	adj	shektewli
-шетелдік	adj	sheteldik
-шешуші	adj	sheshwshi
-шірік	adj	shirik
-шолақ	adj	sholaq
-шөптесін	adj	sho'ptesin
-шын	adj	shın
-шынайы	adj	shınayı
-шыншыл	adj	shınshıl
-ықтимал	adj	ıqtimal
-ылғалды	adj	ılg'aldı
-ыңғайлы	adj	ın'g'aylı
-ынтымақты	adj	ıntımaqtı
-ырза	adj	ırza
-ыссы	adj	ıssı
-ыстық	adj	ıstıq
-эволюциялық	adj	evolyuciyalıq
-экваторлық	adj	ekvatorlıq
-экологиялық	adj	ekologiyalıq
-экономикалық	adj	ekonomikalıq
-экс	adj	eks
-экспозициялық	adj	ekspoziciyalıq
-экстремистік	adj	ekstremistik
-электрик	adj	elektrik
-электрлік	adj	elektrlik
-электромагниттік	adj	elektromagnittik
-электронды	adj	elektrondı
-электрондық	adj	elektrondıq
-элементар	adj	elementar
-эмоциялық	adj	emociyalıq
-энергетикалық	adj	energetikalıq
-эпик	adj	epik
-эпикалық	adj	epikalıq
-эстетик	adj	estetik
-эстетикалық	adj	estetikalıq
-этикалық	adj	etikalıq
-этникалық	adj	etnikalıq
-этнографиялық	adj	etnografiyalıq
-этностық	adj	etnostıq
-ядролық	adj	yadrolıq
+төтенше	adj	a’detten% tıs	x
+трагедиялық	adj	tragediyalıq	x
+транзиттік	adj	tranzitlik	x
+тропикалық	adj	tropikalıq	x
+тропиктік	adj	tropiklik	x
+түбегейлі	adj	tu’pki	x
+туған	adj	tuwg'an	x
+түгел	adj	pu’tin	x	adverb?
+түзу	adj	tuwrı	x
+тұйық	adj	tuyıq	x
+тұңғыш	adj	tung'ısh	x
+тұнық	adj	tınıq	x
+түпкілікті	adj	tu'pkilikli	x
+тура	adj	tuwra	x
+тұрақты	adj	turaqlı	x
+тұрғын	adj	turg'ın	x
+туристік	adj	turislik	x
+түркі	adj	tu'rkiy	x
+түрлі	adj	tu'rli	x
+тұрмыстық	adj	turmıslıq	x
+түршігерлік	adj	 jеrkеnishlik	x
+турындағы	adj	tuwrındag'ı	x
+түскі	adj	tu'ski	x
+тұтас	adj	tutas	x
+тұщы	adj	dushshı	x
+туыс	adj	tuwıs	x
+тығыз	adj	tıg'ız	x
+тын	adj	dem	noun. breath
+тың	adj	tın'	x
+тыныш	adj	tınısh	x
+уақ	adj	mayda	x
+уақытша	adj	waqıtsha	x
+ұжымдық	adj	kоllеktivlik	x
+ұзақ	adj	uzaq	x
+үздік	adj	ko’rnеkli	x
+ұзын	adj	uzın	x
+ұзынша	adj	uzınsha	x
+үйлі	adj	u'yli	x
+үкіметтік	adj	hu'kimetlik	x
+ұқсас	adj	uqsas	x
+үлкен	adj	u'lken	x
+ұлтаралық	adj	millеt аrаlıq	x
+ұлттық	adj	ultlıq	x
+улы	adj	uwlı	x
+ұлық	adj	ullı	x
+ұнамды	adj	unamlı	x
+үнемі	adj	u'nemi	x
+үрдіс	adj	g'ayratlı	x
+ұсақ	adj	usaq	x
+үстем	adj	u'stem	x
+үстеме	adj	u'steme	x
+үстінгі	adj	u'stingi	x
+фашистік	adj	fashislik	x
+федералдық	adj	federallıq	x
+федеральды	adj	federallı	x
+феодалдық	adj	feodallıq	x
+физикалық	adj	fizikalıq	x
+физиологиялық	adj	fiziologiyalıq	x
+философиялық	adj	filosofiyalıq	x
+фольклорлық	adj	folklorlıq	x
+формальды	adj	formallı	x
+функционалдық	adj	funkcionallıq	x
+хабардар	adj	xabardar	x
+халал	adj	xalal	wrong "халал"
+халықаралық	adj	xalıqaralıq	x
+халықтық	adj	xalıqlıq	x
+химиялық	adj	ximiyalıq	x
+хош	adj	xosh	x
+христиандық	adj	xristianlıq	x
+хромосомалық	adj	xromosomalıq	x
+циклді	adj	ciklli	x
+шағын	adj	kishkene	x
+шалғынды	adj	оtlаq	x
+шамалы	adj	shamalı	x
+шапшаң	adj	shaqqan	x
+шекаралас	adj	shegaralas	x
+шексіз	adj	sheksiz	x
+шектеулі	adj	sheklewli	x
+шетелдік	adj	shetellik	x
+шешуші	adj	sheshiwshi	x
+шірік	adj	shirik	x
+шолақ	adj	sholaq	x
+шөптесін	adj	sho'plik	x
+шын	adj	shın	x
+шынайы	adj	shın	x
+шыншыл	adj	haqıyqatshıl	x
+ықтимал	adj	itimаl	x
+ылғалды	adj	ıg’allı	x
+ыңғайлы	adj	ın'g'aylı	x
+ынтымақты	adj	dos	x
+ырза	adj	ırza	x
+ыссы	adj	ıssı	x
+ыстық	adj	ıssı	x
+эволюциялық	adj	evolyuciyalıq	x
+экваторлық	adj	ekvatorlıq	x
+экологиялық	adj	ekologiyalıq	x
+экономикалық	adj	ekonomikalıq	x
+экс	adj	eks	x
+экспозициялық	adj	ekspoziciyalıq	x
+экстремистік	adj	ekstremislik	x
+электрик	adj	elektrik	x
+электрлік	adj	elektrlik	x
+электромагниттік	adj	elektromagnitlik	x
+электронды	adj	elektronlı	x
+электрондық	adj	elektronlıq	x
+элементар	adj	elementar	x
+эмоциялық	adj	emociyalıq	x
+энергетикалық	adj	energetikalıq	x
+эпик	adj	epik	x
+эпикалық	adj	epikalıq	x
+эстетик	adj	estetik	x
+эстетикалық	adj	estetikalıq	x
+этикалық	adj	etikalıq	x
+этникалық	adj	etnikalıq	x
+этнографиялық	adj	etnografiyalıq	x
+этностық	adj	etnoslıq	x
+ядролық	adj	yadrolıq	x
 Kazakh	POS	Karakalpak	Checked	Comment
-азғана	adv	azg'ana
-азғантай	adv	azg'antay
-ақшалай	adv	aqshalay
-алға	adv	alg'a
-алғашында	adv	alg'ashında
-ана% жолғы	adv	ana% jolg'ı
-аса	adv	asa
-барынша	adv	barınsha
-бері	adv	beri
-бәрібір	adv	ba'ribir
-біраз	adv	biraz
-бірге	adv	birge
-бірен%-саран	adv	biren%-saran
-біржола	adv	birjola
-біржолата	adv	birjolata
-бірталай	adv	birtalay
-бірте%-бірте	adv	birte%-birte
-біртіндеп	adv	birtindep
-біршама	adv	birshama
+азғана	adv	azg'ana	x
+азғантай	adv	azg'antay	x
+ақшалай	adv	aqshalay	x
+алға	adv	alg'a	x
+алғашында	adv	basında	x
+ана% жолғы	adv	ana% ret	x
+аса	adv	asa	x
+барынша	adv	barınsha	x
+бері	adv	beri	x
+бәрібір	adv	ba'ribir	x
+біраз	adv	biraz	x
+бірге	adv	birge	x
+бірен%-саран	adv	аndа%-sаndа	x
+біржола	adv	birоtаlа	x
+біржолата	adv	birоtаlа	x
+бірталай	adv	birtalay	x
+бірте%-бірте	adv	a’stе%-аqırın	x
+біртіндеп	adv	аz%-аzdаn	x
+біршама	adv	bir% neshe	x
 бүгінде	adv	bu'ginde
-бұлайша	adv	bulaysha
-бұл% жолғы	adv	bul% jolg'ı
-бұрынғыдай	adv	burıng'ıday
-бұрыннан	adv	burınnan
-дәл	adv	da'l
+бұлайша	adv	bılayınsha	x
+бұл% жолғы	adv	bul% ret	x
+бұрынғыдай	adv	burıng'ıday	x
+бұрыннан	adv	burınnan	x
+дәл	adv	da'l	x
 дер	adv	der
-дереу	adv	derew
-әбден	adv	a'bden
+дереу	adv	da'rriw	x
+әбден	adv	a'bden	x
 егжей	adv	egjey
-әдейі	adv	a'deyi
-ежелде	adv	ejelde
-әзірше	adv	a'zirshe
-әйтеуір	adv	a'ytewir
-екіталай	adv	ekitalay
-әлгіндей	adv	a'lgindey
-әлдеқайда	adv	a'ldeqayda
-әлі	adv	a'li
-ең	adv	en'
-ендеше	adv	endeshe
-әрдайым	adv	a'rdayım
-әрі	adv	a'ri
-әрқашан	adv	a'rqashan
-әрлі%-берлі	adv	a'rli%-berli
-ерте	adv	erte
-ертең	adv	erten'
-әсіресе	adv	a'sirese
-әсте	adv	a'ste
-әуелі	adv	a'weli
-еш	adv	esh
-ешқашан	adv	eshqashan
-жағалап	adv	jag'alap
-жазбаша	adv	jazbasha
-жалт	adv	jalt
-жартылай	adv	jartılay
-жаяу	adv	jayaw
-жинағы	adv	jinag'ı
-жолшыбай	adv	jolshıbay
-жым	adv	jım
-іле	adv	ile
+әдейі	adv	bilqastаn	x
+ежелде	adv	a'yyemde	x
+әзірше	adv	ha'zirshe	x
+әйтеуір	adv	a'ytewir	x
+екіталай	adv	nagu'man	x
+әлгіндей	adv	sıyaqlı	x
+әлдеқайда	adv	a'lle% qayda	x
+әлі	adv	ele	x
+ең	adv	en'	x
+ендеше	adv	solay% bolsa	x
+әрдайым	adv	ha'rdayım	x
+әрі	adv	arı	x
+әрқашан	adv	ha'r qashan	x
+әрлі%-берлі	adv	arı%-beri	x
+ерте	adv	erte	x
+ертең	adv	erten'	x
+әсіресе	adv	a'sirese	x
+әсте	adv	a'ste	x
+әуелі	adv	a'wel	x
+еш	adv	hesh	x
+ешқашан	adv	hesh% qashan	x
+жағалап	adv	jag'alap	x
+жазбаша	adv	jazba	x
+жалт	adv	jalt	x
+жартылай	adv	jartılay	x
+жаяу	adv	jayaw	x
+жинағы	adv	jiynag'ı	x
+жолшыбай	adv	jоl%-jo’nеkеy	x
+жым	adv	jım	x
+іле	adv	da'rriw	x
 ішінара	adv	ishinara
-қазір	adv	qazir
-қайта	adv	qayta
-қайтадан	adv	qaytadan
-қалайша	adv	qalaysha
-кейде	adv	keyde
-кейіннен	adv	keyinnen
-керісінше	adv	kerisinshe
-кешкісін	adv	keshkisin
-көбінесе	adv	ko'binese
-көптеп	adv	ko'ptep
-көрнеу	adv	ko'rnew
-күрт	adv	ku'rt
-қып	adv	qıp
-міне	adv	mine
-мүлде	adv	mu'lde
-мүлдем	adv	mu'ldem
-небәрі	adv	neba'ri
-негізінде	adv	negizinde
-негізінен	adv	negizinen
-неғұрлым	adv	neg'urlım
-неліктен	adv	nelikten
-ойымша	adv	oyımsha
-оншалық	adv	onshalıq
-орасан	adv	orasan
-осылайша	adv	osılaysha
-өте	adv	o'te
-сәл	adv	sa'l
-сөзінше	adv	so'zinshe
-сонсоң	adv	sonson'
-соншалық	adv	sonshalıq
-соншалықты	adv	sonshalıqtı
-соншама	adv	sonshama
-сосын	adv	sosın
-тағы	adv	tag'ı
-таяуда	adv	tayawda
-тегі	adv	tegi
-тек	adv	tek
-тіпті	adv	tipti
-төмендегідей	adv	to'mendegidey
-тым	adv	tım
-ұдайы	adv	udayı
-шәксіз	adv	sha'ksiz
-шығар	adv	shıg'ar
-ылғи	adv	ılg'i
+қазір	adv	ha'zir	x
+қайта	adv	qayta	x
+қайтадан	adv	qaytadan	x
+қалайша	adv	qalayınsha	x
+кейде	adv	geyde	x
+кейіннен	adv	keyinnen	x
+керісінше	adv	kerisinshe	x
+кешкісін	adv	keshkisin	x
+көбінесе	adv	ko'binese	x
+көптеп	adv	ko'plep	x
+көрнеу	adv	ayqın	x
+күрт	adv	tosattan	x
+қып	adv	jıldаm	x
+міне	adv	mine	x
+мүлде	adv	pu'tkilley	x
+мүлдем	adv	pu'tkilley	x
+небәрі	adv	tek% g'ana	x
+негізінде	adv	negizinde	x
+негізінен	adv	negizinen	x
+неғұрлым	adv	neg'urlım	x
+неліктен	adv	ne% ushın	x
+ойымша	adv	oyımsha	x
+оншалық	adv	onshelli	x
+орасан	adv	ju'da'	x
+осылайша	adv	usılaysha	x
+өте	adv	ju'da'	x
+сәл	adv	sa'l	x
+сөзінше	adv	so'zinshe	x
+сонсоң	adv	son’ınаn	x
+соншалық	adv	sonshelli	x
+соншалықты	adv	sonshelli	x
+соншама	adv	sonshama	x
+сосын	adv	onnan% son'	x
+тағы	adv	tag'ı	x
+таяуда	adv	tez% arada	x
+тегі	adv	ba'lkim
+тек	adv	tek	x
+тіпті	adv	pu'tkilley	x
+төмендегідей	adv	to'mendegidey	x
+тым	adv	dım	x
+ұдайы	adv	udayına	x
+шәксіз	adv	gu'mansız	x
+шығар	adv	shıg'ar	x
+ылғи	adv	ılg'ıy	x
 Kazakh	POS	Karakalpak	Checked	Comment
 абай% бол	vi	abay% bol	x
-абдыра	vi	abdıra
+абдыра	vi	albıra	x
 абыржы	vi	abırjı
-ағар	vi	ag'ar
-ағыл	vi	ag'ıl
+ағар	vi	ag'ar	x
+ағыл	vi	atlıq	x	if vowel ending is being added, 'q' will be changed to " g' ". For example, atlıg'ıw
 адалсын	vi	adalsın
-адас	vi	adas
-адымда	vi	adımda
-ажыра	vi	ajıra
+адас	vi	adas	x
+адымда	vi	adımla	x
+ажыра	vi	ajıra	x
 аз	vi	az
 азай	vi	azay
 азала	vi	azala
@@ -3341,8 +3341,8 @@ Kazakh	POS	Karakalpak	Checked	Comment
 жағын	vi	jag'ın
 жайбарақаттан	vi	jaybaraqattan
 жайқал	vi	jayqal
-жайла	vi	jayla
-жайлас	vi	jaylas
+жайла	vi	jayla	x
+жайлас	vi	jaylas	x
 жақ	vi	jaq
 жақсар	vi	jaqsar
 жақында	vi	jaqında
