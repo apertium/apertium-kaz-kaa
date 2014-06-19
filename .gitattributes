@@ -19,10 +19,10 @@
 /autogen.sh -text
 /configure.ac -text
 dev/bidix.tsv -text
-dev/buddizm.txt -text svneol=unset#application/octet-stream
 dev/ods-to-tsv.sh -text
 dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
+texts/buddizm.kaz.txt -text svneol=unset#application/octet-stream
 texts/story.kaa.txt -text
 texts/story.kaz.txt -text svneol=unset#application/octet-stream
