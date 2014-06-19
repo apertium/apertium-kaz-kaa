@@ -63,10 +63,10 @@
     <def-list n="karakalpak_clitics">
       <list-item v="shı"/>
       <list-item v="ma"/>
-      <list-item v="мекен"/>
-      <list-item v="ғой"/>
-      <list-item v="-ақ"/>
-      <list-item v="ғана"/>
+      <list-item v="meken"/>
+      <list-item v="g'oy"/>
+      <list-item v="-aq"/>
+      <list-item v="g'ana"/>
       <list-item v="da"/>
     </def-list>
   </section-def-lists>
