@@ -86,6 +86,7 @@
     <!-- SECTION: Miscellaneous -->
 
     <e><p><l>шы<s n="emph"/></l><r>shı<s n="emph"/></r></p></e>
+    <e><p><l>ғана<s n="postadv"/></l><r>g'ana<s n="postadv"/></r></p></e>
     <e><p><l>да<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
 
     <!-- SECTION: Conjunctions -->
@@ -167,6 +168,7 @@
     <e><p><l>секілді<s n="post"/></l><r>sıyaqlı<s n="post"/></r></p></e>
     <e><p><l>сияқты<s n="post"/></l><r>sıyaqlı<s n="post"/></r></p></e>
     <e><p><l>соң<s n="post"/></l><r>son'<s n="post"/></r></p></e>
+    <e><p><l>сыз<s n="post"/></l><r>sız<s n="post"/></r></p></e>
     <e><p><l>таман<s n="post"/></l><r>taman<s n="post"/></r></p></e>
     <e><p><l>тарта<s n="post"/></l><r>jaqın<s n="post"/></r></p></e>
     <e><p><l>тарта<s n="post"/></l><r>shama<b/>menen<s n="post"/></r></p></e>
