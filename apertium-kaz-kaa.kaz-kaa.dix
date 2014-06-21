@@ -339,6 +339,7 @@
 	<e><p><l>аст<s n="n"/></l><r>ast<s n="n"/></r></p></e> <!--"under"-->
 	<e><p><l>ауа<b/>райы<s n="n"/></l><r>hawa<b/>rayı<s n="n"/></r></p></e>
 
+    <e><p><l>Аһимса<s n="n"/></l><r>Ahimsa<s n="n"/></r></p></e>
     <e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
     <e><p><l>аберрация<s n="n"/></l><r>aberratsiya<s n="n"/></r></p></e>
     <e><p><l>абсолют<s n="n"/></l><r>absolyut<s n="n"/></r></p></e>
@@ -597,6 +598,9 @@
     <e><p><l>бедел<s n="n"/></l><r>bedel<s n="n"/></r></p></e>
     <e><p><l>без<s n="n"/></l><r>bez<s n="n"/></r></p></e>
     <e><p><l>бейне<s n="n"/></l><r>biyne<s n="n"/></r></p></e>
+    <e><p><l>бейнет<s n="n"/></l><r>azap<s n="n"/></r></p></e>
+    <e><p><l>бейнет<s n="n"/></l><r>japa<s n="n"/></r></p></e>
+    <e><p><l>бейнет<s n="n"/></l><r>ja'bir<s n="n"/></r></p></e>
     <e><p><l>бейсенбі<s n="n"/></l><r>biyshenbe<s n="n"/></r></p></e>
     <e><p><l>бекет<s n="n"/></l><r>piket<s n="n"/></r></p></e>
     <e><p><l>бел<s n="n"/></l><r>bel<s n="n"/></r></p></e>
@@ -624,6 +628,7 @@
     <e><p><l>болат<s n="n"/></l><r>polat<s n="n"/></r></p></e>
     <e><p><l>болашақ<s n="n"/></l><r>keleshek<s n="n"/></r></p></e>
     <e><p><l>болжам<s n="n"/></l><r>boljama<s n="n"/></r></p></e>
+    <e><p><l>болмыс<s n="n"/></l><r>bolmıs<s n="n"/></r></p></e>
     <e><p><l>болыс<s n="n"/></l><r>bolıs<s n="n"/></r></p></e>
     <e><p><l>бомба<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
     <e><p><l>бор<s n="n"/></l><r>por<s n="n"/></r></p></e>
@@ -663,6 +668,7 @@
     <e><p><l>валюта<s n="n"/></l><r>valyuta<s n="n"/></r></p></e>
     <e><p><l>веб<s n="n"/></l><r>veb<s n="n"/></r></p></e>
     <e><p><l>веб-сайт<s n="n"/></l><r>veb-sayt<s n="n"/></r></p></e>
+    <e><p><l>Веда<s n="n"/></l><r>Veda<s n="n"/></r></p></e>
     <e><p><l>вектор<s n="n"/></l><r>vektor<s n="n"/></r></p></e>
     <e><p><l>велосипед<s n="n"/></l><r>velosiped<s n="n"/></r></p></e>
     <e><p><l>веранда<s n="n"/></l><r>veranda<s n="n"/></r></p></e>
@@ -1071,6 +1077,7 @@
     <e><p><l>кәмшат<s n="n"/></l><r>suwsar<s n="n"/></r></p></e>
     <e><p><l>кәпір<s n="n"/></l><r>ka'pir<s n="n"/></r></p></e>
     <e><p><l>кәрі<s n="n"/></l><r>g'arrı<s n="n"/></r></p></e>
+    <e><p><l>кәрілік<s n="n"/></l><r>g'arrılıq<s n="n"/></r></p></e>
     <e><p><l>кәріп<s n="n"/></l><r>g'a'rip<s n="n"/></r></p></e>
     <e><p><l>кәріп-қасер<s n="n"/></l><r>g'a'rip-qaser<s n="n"/></r></p></e>
     <e><p><l>қасер<s n="n"/></l><r>qaser<s n="n"/></r></p></e>
@@ -1371,6 +1378,7 @@
     <e><p><l>қора<s n="n"/></l><r>qora<s n="n"/></r></p></e>
     <e><p><l>қорек<s n="n"/></l><r>azıq<s n="n"/></r></p></e>
     <e><p><l>қор<s n="n"/></l><r>qor<s n="n"/></r></p></e>
+    <e><p><l>қорқыныш<s n="n"/></l><r>qorqınısh<s n="n"/></r></p></e>
     <e><p><l>қорсақ<s n="n"/></l><r>qorsaq<s n="n"/></r></p></e>
     <e><p><l>қорытынды<s n="n"/></l><r>juwmaq<s n="n"/></r></p></e>
     <e><p><l>қошемет<s n="n"/></l><r>hu'rmet<s n="n"/></r></p></e>
@@ -1512,6 +1520,7 @@
     <e><p><l>матч<s n="n"/></l><r>match<s n="n"/></r></p></e>
     <e><p><l>маусым<s n="n"/></l><r>ma'wsim<s n="n"/></r></p></e>
     <e><p><l>машина<s n="n"/></l><r>mashina<s n="n"/></r></p></e>
+    <e><p><l>махаяна<s n="n"/></l><r>mahayana<s n="n"/></r></p></e>
     <e><p><l>мәдениет<s n="n"/></l><r>ma'deniyat<s n="n"/></r></p></e>
     <e><p><l>мәжіліс<s n="n"/></l><r>ma'jilis<s n="n"/></r></p></e>
     <e><p><l>мәйіт<s n="n"/></l><r>marhum<s n="n"/></r></p></e>
@@ -2299,6 +2308,7 @@
     <e><p><l>хикмет<s n="n"/></l><r>hikmet<s n="n"/></r></p></e>
     <e><p><l>химик<s n="n"/></l><r>ximik<s n="n"/></r></p></e>
     <e><p><l>химия<s n="n"/></l><r>ximiya<s n="n"/></r></p></e>
+    <e><p><l>хинаяна<s n="n"/></l><r>hinayana<s n="n"/></r></p></e>
     <e><p><l>хирургия<s n="n"/></l><r>xirurgiya<s n="n"/></r></p></e>
     <e><p><l>хлорофилл<s n="n"/></l><r>xlorofill<s n="n"/></r></p></e>
     <e><p><l>хлор<s n="n"/></l><r>xlor<s n="n"/></r></p></e>
@@ -2667,6 +2677,7 @@
     <e><p><l>бос<s n="adj"/></l><r>bos<s n="adj"/></r></p></e>
     <e><p><l>бөтен<s n="adj"/></l><r>bo'ten<s n="adj"/></r></p></e>
     <e><p><l>британдық<s n="adj"/></l><r>britanlı<s n="adj"/></r></p></e>
+    <e><p><l>буддалық<s n="adj"/></l><r>buddalıq<s n="adj"/></r></p></e>
     <e><p><l>бұйра<s n="adj"/></l><r>buyra<s n="adj"/></r></p></e>
     <e><p><l>бұқаралық<s n="adj"/></l><r>puxaralıq<s n="adj"/></r></p></e>
     <e><p><l>бүкілресейлік<s n="adj"/></l><r>pu'tkilrossiyalıq<s n="adj"/></r></p></e>
@@ -2891,6 +2902,7 @@
     <e><p><l>корпоративтік<s n="adj"/></l><r>korporativlik<s n="adj"/></r></p></e>
     <e><p><l>коррупциялық<s n="adj"/></l><r>korruptsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>көршілес<s n="adj"/></l><r>qon'sılas<s n="adj"/></r></p></e>
+    <e><p><l>қанағатсыз<s n="adj"/></l><r>qanaatsız<s n="adj"/></r></p></e>
     <e><p><l>қос<s n="adj"/></l><r>qos<s n="adj"/></r></p></e>
     <e><p><l>қосалқы<s n="adj"/></l><r>qosımsha<s n="adj"/></r></p></e>
     <e><p><l>қосымша<s n="adj"/></l><r>qosımsha<s n="adj"/></r></p></e>
@@ -3214,6 +3226,7 @@
     <e><p><l>үстеме<s n="adj"/></l><r>u'steme<s n="adj"/></r></p></e>
     <e><p><l>үстінгі<s n="adj"/></l><r>u'stingi<s n="adj"/></r></p></e>
     <e><p><l>фашистік<s n="adj"/></l><r>fashislik<s n="adj"/></r></p></e>
+    <e><p><l>фәни<s n="adj"/></l><r>o'tkinshi<s n="adj"/></r></p></e>
     <e><p><l>федералдық<s n="adj"/></l><r>federallıq<s n="adj"/></r></p></e>
     <e><p><l>федеральды<s n="adj"/></l><r>federallı<s n="adj"/></r></p></e>
     <e><p><l>феодалдық<s n="adj"/></l><r>feodallıq<s n="adj"/></r></p></e>
@@ -3587,6 +3600,7 @@
     <e><p><l>дәлелде<s n="v"/><s n="tv"/></l><r>da'liylle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>демде<s n="v"/><s n="tv"/></l><r>demle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>дәріле<s n="v"/><s n="tv"/></l><r>da'rile<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>дәріпте<s n="v"/><s n="tv"/></l><r>asıra<b/>maqta<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>дәрттендір<s n="v"/><s n="tv"/></l><r>ruwxlandır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>дестеле<s n="v"/><s n="tv"/></l><r>destele<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>әбігерле<s n="v"/><s n="tv"/></l><r>a'bigerle<s n="v"/><s n="tv"/></r></p></e>
@@ -4055,6 +4069,7 @@
     <e><p><l>тірке<s n="v"/><s n="tv"/></l><r>tirke<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>тоқ<s n="v"/><s n="tv"/></l><r>toq<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>төк<s n="v"/><s n="tv"/></l><r>to'k<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>тоқтал<s n="v"/><s n="iv"/></l><r>toqtal<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>тоқтат<s n="v"/><s n="tv"/></l><r>toqtat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>төле<s n="v"/><s n="tv"/></l><r>to'le<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>толықтыр<s n="v"/><s n="tv"/></l><r>tolıqtır<s n="v"/><s n="tv"/></r></p></e>
@@ -4484,6 +4499,7 @@
     <e><p><l>іс<s n="v"/><s n="iv"/></l><r>is<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ісін<s n="v"/><s n="iv"/></l><r>isin<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>іші<b/>пыс<s n="v"/><s n="iv"/></l><r>ishi<b/>pıs<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>қабылда<s n="v"/><s n="tv"/></l><r>qabılla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қабырғалас<s n="v"/><s n="iv"/></l><r>ten'les<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қабыршақтан<s n="v"/><s n="iv"/></l><r>qabırshaqlan<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қабыс<s n="v"/><s n="iv"/></l><r>sır<s n="v"/><s n="iv"/></r></p></e>
@@ -4936,6 +4952,7 @@
     <!-- SECTION: Adverbial conjunctions -->
 
 	<e><p><l>осы<b/>себептен<s n="cnjadv"/></l><r>usı<b/>sebepten<s n="cnjadv"/></r></p></e>
+    <e><p><l>сондықтан<s n="cnjadv"/></l><r>sonlıqtan<s n="cnjadv"/></r></p></e>
 
     <!-- SECTION: Modal question particles -->
 
