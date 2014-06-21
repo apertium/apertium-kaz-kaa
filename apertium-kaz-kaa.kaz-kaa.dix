@@ -326,6 +326,8 @@
 
     <!-- SECTION: Nouns -->
 
+    <e><p><l>млрд<s n="n"/></l><r>mlrd<s n="n"/></r></p></e>
+
 	<e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
 	<e><p><l>бағ<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
 	<e><p><l>іш<s n="n"/></l><r>ish<s n="n"/></r></p></e> <!-- "in" -->
@@ -4950,7 +4952,6 @@
     <e><p><l>км<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
     <e><p><l>км³<s n="abbr"/></l><r>km³<s n="abbr"/></r></p></e>
-    <e><p><l>млрд<s n="abbr"/></l><r>mlrd<s n="abbr"/></r></p></e>
 
     <!-- SECTION: Punctuation -->
     
