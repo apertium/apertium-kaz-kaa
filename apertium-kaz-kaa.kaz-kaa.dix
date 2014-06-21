@@ -659,7 +659,7 @@
     <e><p><l>былық<s n="n"/></l><r>bılıq<s n="n"/></r></p></e>
     <e><p><l>бюджет<s n="n"/></l><r>byudjet<s n="n"/></r></p></e>
     <e><p><l>бюро<s n="n"/></l><r>byuro<s n="n"/></r></p></e>
-    <e><p><l>вакцина<s n="n"/></l><r>vakcina<s n="n"/></r></p></e>
+    <e><p><l>вакцина<s n="n"/></l><r>vaktsina<s n="n"/></r></p></e>
     <e><p><l>валюта<s n="n"/></l><r>valyuta<s n="n"/></r></p></e>
     <e><p><l>веб<s n="n"/></l><r>veb<s n="n"/></r></p></e>
     <e><p><l>веб-сайт<s n="n"/></l><r>veb-sayt<s n="n"/></r></p></e>
@@ -671,9 +671,9 @@
     <e><p><l>виза<s n="n"/></l><r>viza<s n="n"/></r></p></e>
     <e><p><l>вирус<s n="n"/></l><r>virus<s n="n"/></r></p></e>
     <e><p><l>витамин<s n="n"/></l><r>vitamin<s n="n"/></r></p></e>
-    <e><p><l>вице-министр<s n="n"/></l><r>vice-ministr<s n="n"/></r></p></e>
-    <e><p><l>вице-президент<s n="n"/></l><r>vice-prezident<s n="n"/></r></p></e>
-    <e><p><l>вице-премьер<s n="n"/></l><r>vice-premyer<s n="n"/></r></p></e>
+    <e><p><l>вице-министр<s n="n"/></l><r>vitse-ministr<s n="n"/></r></p></e>
+    <e><p><l>вице-президент<s n="n"/></l><r>vitse-prezident<s n="n"/></r></p></e>
+    <e><p><l>вице-премьер<s n="n"/></l><r>vitse-premyer<s n="n"/></r></p></e>
     <e><p><l>вокал<s n="n"/></l><r>vokal<s n="n"/></r></p></e>
     <e><p><l>газ<s n="n"/></l><r>gaz<s n="n"/></r></p></e>
     <e><p><l>газета<s n="n"/></l><r>gazeta<s n="n"/></r></p></e>
@@ -763,8 +763,8 @@
     <e><p><l>дилер<s n="n"/></l><r>diler<s n="n"/></r></p></e>
     <e><p><l>диоксид<s n="n"/></l><r>dioksid<s n="n"/></r></p></e>
     <e><p><l>директор<s n="n"/></l><r>direktor<s n="n"/></r></p></e>
-    <e><p><l>диссертация<s n="n"/></l><r>dissertaciya<s n="n"/></r></p></e>
-    <e><p><l>дифференциация<s n="n"/></l><r>differenciaciya<s n="n"/></r></p></e>
+    <e><p><l>диссертация<s n="n"/></l><r>dissertatsiya<s n="n"/></r></p></e>
+    <e><p><l>дифференциация<s n="n"/></l><r>differentsiatsiya<s n="n"/></r></p></e>
     <e><p><l>дін<s n="n"/></l><r>din<s n="n"/></r></p></e>
     <e><p><l>дің<s n="n"/></l><r>o're<s n="n"/></r></p></e>
     <e><p><l>доктор<s n="n"/></l><r>doktor<s n="n"/></r></p></e>
@@ -775,7 +775,7 @@
     <e><p><l>дос<s n="n"/></l><r>dos<s n="n"/></r></p></e>
     <e><p><l>достастық<s n="n"/></l><r>doslıq<s n="n"/></r></p></e>
     <e><p><l>достық<s n="n"/></l><r>doslıq<s n="n"/></r></p></e>
-    <e><p><l>доцент<s n="n"/></l><r>docent<s n="n"/></r></p></e>
+    <e><p><l>доцент<s n="n"/></l><r>dotsent<s n="n"/></r></p></e>
     <e><p><l>дөңгелек<s n="n"/></l><r>do'n'gelek<s n="n"/></r></p></e>
     <e><p><l>драма<s n="n"/></l><r>drama<s n="n"/></r></p></e>
     <e><p><l>драматург<s n="n"/></l><r>dramaturg<s n="n"/></r></p></e>
@@ -902,7 +902,7 @@
     <e><p><l>желке<s n="n"/></l><r>jelke<s n="n"/></r></p></e>
     <e><p><l>желтоқсан<s n="n"/></l><r>dekabr<s n="n"/></r></p></e>
     <e><p><l>жеміс<s n="n"/></l><r>jemis<s n="n"/></r></p></e>
-    <e><p><l>жемқорлық<s n="n"/></l><r>korrupciya<s n="n"/></r></p></e>
+    <e><p><l>жемқорлық<s n="n"/></l><r>korruptsiya<s n="n"/></r></p></e>
     <e><p><l>жең<s n="n"/></l><r>jen'<s n="n"/></r></p></e>
     <e><p><l>жеңілдік<s n="n"/></l><r>jen'illik<s n="n"/></r></p></e>
     <e><p><l>жеңіс<s n="n"/></l><r>jen'is<s n="n"/></r></p></e>
@@ -936,7 +936,7 @@
     <e><p><l>жорға<s n="n"/></l><r>jorg'a<s n="n"/></r></p></e>
     <e><p><l>жоспар<s n="n"/></l><r>joba<s n="n"/></r></p></e>
     <e><p><l>жота<s n="n"/></l><r>arqa<s n="n"/></r></p></e>
-    <e><p><l>процесс<s n="n"/></l><r>process<s n="n"/></r></p></e>
+    <e><p><l>процесс<s n="n"/></l><r>protsess<s n="n"/></r></p></e>
     <e><p><l>жөн<s n="n"/></l><r>jo'n<s n="n"/></r></p></e>
     <e><p><l>жөтел<s n="n"/></l><r>jo'tel<s n="n"/></r></p></e>
     <e><p><l>журнал<s n="n"/></l><r>jurnal<s n="n"/></r></p></e>
@@ -1018,7 +1018,7 @@
     <e><p><l>иммунитет<s n="n"/></l><r>immunitet<s n="n"/></r></p></e>
     <e><p><l>император<s n="n"/></l><r>imperator<s n="n"/></r></p></e>
     <e><p><l>империя<s n="n"/></l><r>imperiya<s n="n"/></r></p></e>
-    <e><p><l>инвестиция<s n="n"/></l><r>investiciya<s n="n"/></r></p></e>
+    <e><p><l>инвестиция<s n="n"/></l><r>investitsiya<s n="n"/></r></p></e>
     <e><p><l>инвестор<s n="n"/></l><r>investor<s n="n"/></r></p></e>
     <e><p><l>индекс<s n="n"/></l><r>indeks<s n="n"/></r></p></e>
     <e><p><l>индуизм<s n="n"/></l><r>induizm<s n="n"/></r></p></e>
@@ -1130,7 +1130,7 @@
     <e><p><l>килограмм<s n="n"/></l><r>kilogramm<s n="n"/></r></p></e>
     <e><p><l>километр<s n="n"/></l><r>kilometr<s n="n"/></r></p></e>
     <e><p><l>кино<s n="n"/></l><r>kino<s n="n"/></r></p></e>
-    <e><p><l>кириллица<s n="n"/></l><r>kirillica<s n="n"/></r></p></e>
+    <e><p><l>кириллица<s n="n"/></l><r>kirillitsa<s n="n"/></r></p></e>
     <e><p><l>кит<s n="n"/></l><r>kit<s n="n"/></r></p></e>
     <e><p><l>кілем<s n="n"/></l><r>gilem<s n="n"/></r></p></e>
     <e><p><l>кілт<s n="n"/></l><r>gilt<s n="n"/></r></p></e>
@@ -1141,14 +1141,14 @@
     <e><p><l>кітапхана<s n="n"/></l><r>kitapxana<s n="n"/></r></p></e>
     <e><p><l>класс<s n="n"/></l><r>klass<s n="n"/></r></p></e>
     <e><p><l>климат<s n="n"/></l><r>klimat<s n="n"/></r></p></e>
-    <e><p><l>коалиция<s n="n"/></l><r>koaliciya<s n="n"/></r></p></e>
+    <e><p><l>коалиция<s n="n"/></l><r>koalitsiya<s n="n"/></r></p></e>
     <e><p><l>коллегия<s n="n"/></l><r>kollegiya<s n="n"/></r></p></e>
     <e><p><l>колонна<s n="n"/></l><r>kolonna<s n="n"/></r></p></e>
     <e><p><l>колхоз<s n="n"/></l><r>kolxoz<s n="n"/></r></p></e>
     <e><p><l>команда<s n="n"/></l><r>komanda<s n="n"/></r></p></e>
     <e><p><l>комбинат<s n="n"/></l><r>kombinat<s n="n"/></r></p></e>
     <e><p><l>комедия<s n="n"/></l><r>komediya<s n="n"/></r></p></e>
-    <e><p><l>энциклопедия<s n="n"/></l><r>enciklopediya<s n="n"/></r></p></e>
+    <e><p><l>энциклопедия<s n="n"/></l><r>entsiklopediya<s n="n"/></r></p></e>
     <e><p><l>комиссар<s n="n"/></l><r>komissar<s n="n"/></r></p></e>
     <e><p><l>комиссия<s n="n"/></l><r>komissiya<s n="n"/></r></p></e>
     <e><p><l>комитет<s n="n"/></l><r>komitet<s n="n"/></r></p></e>
@@ -1158,22 +1158,22 @@
     <e><p><l>компартия<s n="n"/></l><r>kompartiya<s n="n"/></r></p></e>
     <e><p><l>комплекс<s n="n"/></l><r>kompleks<s n="n"/></r></p></e>
     <e><p><l>композитор<s n="n"/></l><r>kompozitor<s n="n"/></r></p></e>
-    <e><p><l>композиция<s n="n"/></l><r>kompoziciya<s n="n"/></r></p></e>
+    <e><p><l>композиция<s n="n"/></l><r>kompozitsiya<s n="n"/></r></p></e>
     <e><p><l>компот<s n="n"/></l><r>kompot<s n="n"/></r></p></e>
     <e><p><l>компьютер<s n="n"/></l><r>kompyuter<s n="n"/></r></p></e>
     <e><p><l>комсомол<s n="n"/></l><r>komsomol<s n="n"/></r></p></e>
     <e><p><l>конгресс<s n="n"/></l><r>kongress<s n="n"/></r></p></e>
     <e><p><l>конкурс<s n="n"/></l><r>konkurs<s n="n"/></r></p></e>
-    <e><p><l>конституция<s n="n"/></l><r>konstituciya<s n="n"/></r></p></e>
+    <e><p><l>конституция<s n="n"/></l><r>konstitutsiya<s n="n"/></r></p></e>
     <e><p><l>континент<s n="n"/></l><r>kontinent<s n="n"/></r></p></e>
     <e><p><l>контракт<s n="n"/></l><r>kontrakt<s n="n"/></r></p></e>
-    <e><p><l>конференция<s n="n"/></l><r>konferenciya<s n="n"/></r></p></e>
-    <e><p><l>концентрация<s n="n"/></l><r>koncentraciya<s n="n"/></r></p></e>
-    <e><p><l>концерт<s n="n"/></l><r>koncert<s n="n"/></r></p></e>
+    <e><p><l>конференция<s n="n"/></l><r>konferentsiya<s n="n"/></r></p></e>
+    <e><p><l>концентрация<s n="n"/></l><r>konsentratsiya<s n="n"/></r></p></e>
+    <e><p><l>концерт<s n="n"/></l><r>kontsert<s n="n"/></r></p></e>
     <e><p><l>король<s n="n"/></l><r>patsha<s n="n"/></r></p></e>
-    <e><p><l>коррупция<s n="n"/></l><r>korrupciya<s n="n"/></r></p></e>
+    <e><p><l>коррупция<s n="n"/></l><r>korruptsiya<s n="n"/></r></p></e>
     <e><p><l>кофта<s n="n"/></l><r>kofta<s n="n"/></r></p></e>
-    <e><p><l>коэффициент<s n="n"/></l><r>koefficient<s n="n"/></r></p></e>
+    <e><p><l>коэффициент<s n="n"/></l><r>koeffitsient<s n="n"/></r></p></e>
     <e><p><l>көбісі<s n="n"/></l><r>ko'bisi<s n="n"/></r></p></e>
     <e><p><l>көжек<s n="n"/></l><r>go'jek<s n="n"/></r></p></e>
     <e><p><l>көз<s n="n"/></l><r>ko'z<s n="n"/></r></p></e>
@@ -1457,14 +1457,14 @@
     <e><p><l>лауреат<s n="n"/></l><r>laureat<s n="n"/></r></p></e>
     <e><p><l>лейтенант<s n="n"/></l><r>leytenant<s n="n"/></r></p></e>
     <e><p><l>лексика<s n="n"/></l><r>leksika<s n="n"/></r></p></e>
-    <e><p><l>лекция<s n="n"/></l><r>lekciya<s n="n"/></r></p></e>
+    <e><p><l>лекция<s n="n"/></l><r>lektsiya<s n="n"/></r></p></e>
     <e><p><l>лига<s n="n"/></l><r>liga<s n="n"/></r></p></e>
     <e><p><l>лимон<s n="n"/></l><r>limon<s n="n"/></r></p></e>
     <e><p><l>лимфа<s n="n"/></l><r>limfa<s n="n"/></r></p></e>
     <e><p><l>линия<s n="n"/></l><r>liniya<s n="n"/></r></p></e>
     <e><p><l>лирика<s n="n"/></l><r>lirika<s n="n"/></r></p></e>
     <e><p><l>лифт<s n="n"/></l><r>lift<s n="n"/></r></p></e>
-    <e><p><l>лицензия<s n="n"/></l><r>licenziya<s n="n"/></r></p></e>
+    <e><p><l>лицензия<s n="n"/></l><r>litsenziya<s n="n"/></r></p></e>
     <e><p><l>логика<s n="n"/></l><r>logika<s n="n"/></r></p></e>
     <e><p><l>лорд<s n="n"/></l><r>lord<s n="n"/></r></p></e>
     <e><p><l>лұғат<s n="n"/></l><r>so'zlik<s n="n"/></r></p></e>
@@ -1527,7 +1527,7 @@
     <e><p><l>мәстек<s n="n"/></l><r>qaqsal<s n="n"/></r></p></e>
     <e><p><l>мәтін<s n="n"/></l><r>tekst<s n="n"/></r></p></e>
     <e><p><l>медаль<s n="n"/></l><r>medal<s n="n"/></r></p></e>
-    <e><p><l>медицина<s n="n"/></l><r>medicina<s n="n"/></r></p></e>
+    <e><p><l>медицина<s n="n"/></l><r>meditsina<s n="n"/></r></p></e>
     <e><p><l>медресе<s n="n"/></l><r>medrese<s n="n"/></r></p></e>
     <e><p><l>мезгіл<s n="n"/></l><r>mezgil<s n="n"/></r></p></e>
     <e><p><l>мейіз<s n="n"/></l><r>kishmish<s n="n"/></r></p></e>
@@ -1558,9 +1558,9 @@
     <e><p><l>метр<s n="n"/></l><r>metr<s n="n"/></r></p></e>
     <e><p><l>механика<s n="n"/></l><r>mexanika<s n="n"/></r></p></e>
     <e><p><l>мешіт<s n="n"/></l><r>meshit<s n="n"/></r></p></e>
-    <e><p><l>миграция<s n="n"/></l><r>migraciya<s n="n"/></r></p></e>
+    <e><p><l>миграция<s n="n"/></l><r>migratsiya<s n="n"/></r></p></e>
     <e><p><l>микроскоп<s n="n"/></l><r>mikroskop<s n="n"/></r></p></e>
-    <e><p><l>милиция<s n="n"/></l><r>miliciya<s n="n"/></r></p></e>
+    <e><p><l>милиция<s n="n"/></l><r>militsiya<s n="n"/></r></p></e>
     <e><p><l>миллионер<s n="n"/></l><r>millioner<s n="n"/></r></p></e>
     <e><p><l>ми<s n="n"/></l><r>miy<s n="n"/></r></p></e>
     <e><p><l>мим<s n="n"/></l><r>mim<s n="n"/></r></p></e>
@@ -1588,7 +1588,7 @@
     <e><p><l>музей<s n="n"/></l><r>muzey<s n="n"/></r></p></e>
     <e><p><l>музыка<s n="n"/></l><r>muzıka<s n="n"/></r></p></e>
     <e><p><l>музыкант<s n="n"/></l><r>muzıkant<s n="n"/></r></p></e>
-    <e><p><l>мутация<s n="n"/></l><r>mutaciya<s n="n"/></r></p></e>
+    <e><p><l>мутация<s n="n"/></l><r>mutatsiya<s n="n"/></r></p></e>
     <e><p><l>мүгедек<s n="n"/></l><r>mayıp<s n="n"/></r></p></e>
     <e><p><l>мүдде<s n="n"/></l><r>inta<s n="n"/></r></p></e>
     <e><p><l>мүйіз<s n="n"/></l><r>mu'yiz<s n="n"/></r></p></e>
@@ -1671,7 +1671,7 @@
     <e><p><l>оқырман<s n="n"/></l><r>oqıwshı<s n="n"/></r></p></e>
     <e><p><l>оқытушы<s n="n"/></l><r>oqıtıwshı<s n="n"/></r></p></e>
     <e><p><l>олжа<s n="n"/></l><r>olja<s n="n"/></r></p></e>
-    <e><p><l>олигоцен<s n="n"/></l><r>oligocen<s n="n"/></r></p></e>
+    <e><p><l>олигоцен<s n="n"/></l><r>oligotsen<s n="n"/></r></p></e>
     <e><p><l>олимпиада<s n="n"/></l><r>olimpiada<s n="n"/></r></p></e>
     <e><p><l>омыртқа<s n="n"/></l><r>omırtqa<s n="n"/></r></p></e>
     <e><p><l>онлайн<s n="n"/></l><r>onlayn<s n="n"/></r></p></e>
@@ -1679,9 +1679,9 @@
     <e><p><l>опасыздық<s n="n"/></l><r>opasızlıq<s n="n"/></r></p></e>
     <e><p><l>опат<s n="n"/></l><r>opat<s n="n"/></r></p></e>
     <e><p><l>опера<s n="n"/></l><r>opera<s n="n"/></r></p></e>
-    <e><p><l>операция<s n="n"/></l><r>operaciya<s n="n"/></r></p></e>
+    <e><p><l>операция<s n="n"/></l><r>operatsiya<s n="n"/></r></p></e>
     <e><p><l>оп<s n="n"/></l><r>tik<b/>jar<s n="n"/></r></p></e>
-    <e><p><l>оппозиция<s n="n"/></l><r>oppoziciya<s n="n"/></r></p></e>
+    <e><p><l>оппозиция<s n="n"/></l><r>oppozitsiya<s n="n"/></r></p></e>
     <e><p><l>оптика<s n="n"/></l><r>optika<s n="n"/></r></p></e>
     <e><p><l>ораза<s n="n"/></l><r>oraza<s n="n"/></r></p></e>
     <e><p><l>орай<s n="n"/></l><r>oray<s n="n"/></r></p></e>
@@ -1702,7 +1702,7 @@
     <e><p><l>от<s n="n"/></l><r>ot<s n="n"/></r></p></e>
     <e><p><l>отряд<s n="n"/></l><r>otryad<s n="n"/></r></p></e>
     <e><p><l>отырыс<s n="n"/></l><r>otırıs<s n="n"/></r></p></e>
-    <e><p><l>офицер<s n="n"/></l><r>oficer<s n="n"/></r></p></e>
+    <e><p><l>офицер<s n="n"/></l><r>ofitser<s n="n"/></r></p></e>
     <e><p><l>очерк<s n="n"/></l><r>ocherk<s n="n"/></r></p></e>
     <e><p><l>өгіз<s n="n"/></l><r>o'giz<s n="n"/></r></p></e>
     <e><p><l>өгізше<s n="n"/></l><r>bug'asha<s n="n"/></r></p></e>
@@ -1768,16 +1768,16 @@
     <e><p><l>пластика<s n="n"/></l><r>plastika<s n="n"/></r></p></e>
     <e><p><l>пластмасса<s n="n"/></l><r>plastmassa<s n="n"/></r></p></e>
     <e><p><l>платформа<s n="n"/></l><r>platforma<s n="n"/></r></p></e>
-    <e><p><l>плацкарт<s n="n"/></l><r>plackart<s n="n"/></r></p></e>
+    <e><p><l>плацкарт<s n="n"/></l><r>platskart<s n="n"/></r></p></e>
     <e><p><l>повесть<s n="n"/></l><r>povest<s n="n"/></r></p></e>
     <e><p><l>подполковник<s n="n"/></l><r>podpolkovnik<s n="n"/></r></p></e>
     <e><p><l>пойыз<s n="n"/></l><r>poezd<s n="n"/></r></p></e>
     <e><p><l>полиметалл<s n="n"/></l><r>polimetall<s n="n"/></r></p></e>
-    <e><p><l>полиция<s n="n"/></l><r>policiya<s n="n"/></r></p></e>
+    <e><p><l>полиция<s n="n"/></l><r>politsiya<s n="n"/></r></p></e>
     <e><p><l>полюс<s n="n"/></l><r>polyus<s n="n"/></r></p></e>
     <e><p><l>порт<s n="n"/></l><r>port<s n="n"/></r></p></e>
     <e><p><l>портрет<s n="n"/></l><r>portret<s n="n"/></r></p></e>
-    <e><p><l>потенциал<s n="n"/></l><r>potencial<s n="n"/></r></p></e>
+    <e><p><l>потенциал<s n="n"/></l><r>potentsial<s n="n"/></r></p></e>
     <e><p><l>пошта<s n="n"/></l><r>pochta<s n="n"/></r></p></e>
     <e><p><l>поэзия<s n="n"/></l><r>poeziya<s n="n"/></r></p></e>
     <e><p><l>поэма<s n="n"/></l><r>poema<s n="n"/></r></p></e>
@@ -1789,7 +1789,7 @@
     <e><p><l>препарат<s n="n"/></l><r>preparat<s n="n"/></r></p></e>
     <e><p><l>призма<s n="n"/></l><r>prizma<s n="n"/></r></p></e>
     <e><p><l>приказ<s n="n"/></l><r>prikaz<s n="n"/></r></p></e>
-    <e><p><l>принцип<s n="n"/></l><r>princip<s n="n"/></r></p></e>
+    <e><p><l>принцип<s n="n"/></l><r>printsip<s n="n"/></r></p></e>
     <e><p><l>программа<s n="n"/></l><r>programma<s n="n"/></r></p></e>
     <e><p><l>прогресс<s n="n"/></l><r>progress<s n="n"/></r></p></e>
     <e><p><l>проект<s n="n"/></l><r>proekt<s n="n"/></r></p></e>
@@ -1800,12 +1800,12 @@
     <e><p><l>протестант<s n="n"/></l><r>protestant<s n="n"/></r></p></e>
     <e><p><l>протон<s n="n"/></l><r>proton<s n="n"/></r></p></e>
     <e><p><l>психология<s n="n"/></l><r>psixologiya<s n="n"/></r></p></e>
-    <e><p><l>публицистика<s n="n"/></l><r>publicistika<s n="n"/></r></p></e>
-    <e><p><l>публицист<s n="n"/></l><r>publicist<s n="n"/></r></p></e>
+    <e><p><l>публицистика<s n="n"/></l><r>publitsistika<s n="n"/></r></p></e>
+    <e><p><l>публицист<s n="n"/></l><r>publitsist<s n="n"/></r></p></e>
     <e><p><l>пункт<s n="n"/></l><r>punkt<s n="n"/></r></p></e>
     <e><p><l>пышақ<s n="n"/></l><r>pıshaq<s n="n"/></r></p></e>
     <e><p><l>пьеса<s n="n"/></l><r>pesa<s n="n"/></r></p></e>
-    <e><p><l>радиация<s n="n"/></l><r>radiaciya<s n="n"/></r></p></e>
+    <e><p><l>радиация<s n="n"/></l><r>radiatsiya<s n="n"/></r></p></e>
     <e><p><l>радий<s n="n"/></l><r>radiy<s n="n"/></r></p></e>
     <e><p><l>радио<s n="n"/></l><r>radio<s n="n"/></r></p></e>
     <e><p><l>радиус<s n="n"/></l><r>radius<s n="n"/></r></p></e>
@@ -1820,8 +1820,8 @@
     <e><p><l>рас<s n="n"/></l><r>ras<s n="n"/></r></p></e>
     <e><p><l>рәсім<s n="n"/></l><r>su'wret<s n="n"/></r></p></e>
     <e><p><l>реактор<s n="n"/></l><r>reaktor<s n="n"/></r></p></e>
-    <e><p><l>реакция<s n="n"/></l><r>reakciya<s n="n"/></r></p></e>
-    <e><p><l>революция<s n="n"/></l><r>revolyuciya<s n="n"/></r></p></e>
+    <e><p><l>реакция<s n="n"/></l><r>reaktsiya<s n="n"/></r></p></e>
+    <e><p><l>революция<s n="n"/></l><r>revolyutsiya<s n="n"/></r></p></e>
     <e><p><l>регион<s n="n"/></l><r>region<s n="n"/></r></p></e>
     <e><p><l>редактор<s n="n"/></l><r>redaktor<s n="n"/></r></p></e>
     <e><p><l>режим<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
@@ -1834,7 +1834,7 @@
     <e><p><l>рет<s n="n"/></l><r>ret<s n="n"/></r></p></e>
     <e><p><l>референдум<s n="n"/></l><r>referendum<s n="n"/></r></p></e>
     <e><p><l>реформа<s n="n"/></l><r>reforma<s n="n"/></r></p></e>
-    <e><p><l>рецензия<s n="n"/></l><r>recenziya<s n="n"/></r></p></e>
+    <e><p><l>рецензия<s n="n"/></l><r>retsenziya<s n="n"/></r></p></e>
     <e><p><l>ризық<s n="n"/></l><r>nesiybe<s n="n"/></r></p></e>
     <e><p><l>роль<s n="n"/></l><r>rol<s n="n"/></r></p></e>
     <e><p><l>роман<s n="n"/></l><r>roman<s n="n"/></r></p></e>
@@ -1946,7 +1946,7 @@
     <e><p><l>сор<s n="n"/></l><r>shor<s n="n"/></r></p></e>
     <e><p><l>сортаң<s n="n"/></l><r>shor<b/>jer<s n="n"/></r></p></e>
     <e><p><l>сот<s n="n"/></l><r>sud<s n="n"/></r></p></e>
-    <e><p><l>социология<s n="n"/></l><r>sociologiya<s n="n"/></r></p></e>
+    <e><p><l>социология<s n="n"/></l><r>sotsiologiya<s n="n"/></r></p></e>
     <e><p><l>сөздік<s n="n"/></l><r>so'zlik<s n="n"/></r></p></e>
     <e><p><l>сөз<s n="n"/></l><r>so'z<s n="n"/></r></p></e>
     <e><p><l>сөре<s n="n"/></l><r>tekshe<s n="n"/></r></p></e>
@@ -1957,7 +1957,7 @@
     <e><p><l>стадион<s n="n"/></l><r>stadion<s n="n"/></r></p></e>
     <e><p><l>стакан<s n="n"/></l><r>stakan<s n="n"/></r></p></e>
     <e><p><l>стандарт<s n="n"/></l><r>standart<s n="n"/></r></p></e>
-    <e><p><l>станция<s n="n"/></l><r>stanciya<s n="n"/></r></p></e>
+    <e><p><l>станция<s n="n"/></l><r>stantsiya<s n="n"/></r></p></e>
     <e><p><l>статистика<s n="n"/></l><r>statistika<s n="n"/></r></p></e>
     <e><p><l>стиль<s n="n"/></l><r>stil<s n="n"/></r></p></e>
     <e><p><l>студент<b/>әйел<s n="n"/></l><r>student<b/>a'yel<s n="n"/></r></p></e>
@@ -2142,7 +2142,7 @@
     <e><p><l>трактор<s n="n"/></l><r>traktor<s n="n"/></r></p></e>
     <e><p><l>трамплин<s n="n"/></l><r>tramplin<s n="n"/></r></p></e>
     <e><p><l>транзит<s n="n"/></l><r>tranzit<s n="n"/></r></p></e>
-    <e><p><l>транскрипция<s n="n"/></l><r>transkripciya<s n="n"/></r></p></e>
+    <e><p><l>транскрипция<s n="n"/></l><r>transkriptsiya<s n="n"/></r></p></e>
     <e><p><l>транспорт<s n="n"/></l><r>transport<s n="n"/></r></p></e>
     <e><p><l>Трипитака<s n="n"/></l><r>Tripitaka<s n="n"/></r></p></e>
     <e><p><l>туберкулез<s n="n"/></l><r>tuberkulez<s n="n"/></r></p></e>
@@ -2252,7 +2252,7 @@
     <e><p><l>фауна<s n="n"/></l><r>fauna<s n="n"/></r></p></e>
     <e><p><l>фашист<s n="n"/></l><r>fashist<s n="n"/></r></p></e>
     <e><p><l>февраль<s n="n"/></l><r>fevral<s n="n"/></r></p></e>
-    <e><p><l>федерация<s n="n"/></l><r>federaciya<s n="n"/></r></p></e>
+    <e><p><l>федерация<s n="n"/></l><r>federatsiya<s n="n"/></r></p></e>
     <e><p><l>фельдшер<s n="n"/></l><r>feldsher<s n="n"/></r></p></e>
     <e><p><l>феодал<s n="n"/></l><r>feodal<s n="n"/></r></p></e>
     <e><p><l>фестиваль<s n="n"/></l><r>festival<s n="n"/></r></p></e>
@@ -2279,7 +2279,7 @@
     <e><p><l>форум<s n="n"/></l><r>forum<s n="n"/></r></p></e>
     <e><p><l>фосфор<s n="n"/></l><r>fosfor<s n="n"/></r></p></e>
     <e><p><l>фотосинтез<s n="n"/></l><r>fotosintez<s n="n"/></r></p></e>
-    <e><p><l>функция<s n="n"/></l><r>funkciya<s n="n"/></r></p></e>
+    <e><p><l>функция<s n="n"/></l><r>funktsiya<s n="n"/></r></p></e>
     <e><p><l>фунт<s n="n"/></l><r>funt<s n="n"/></r></p></e>
     <e><p><l>футбол<s n="n"/></l><r>futbol<s n="n"/></r></p></e>
     <e><p><l>фут<s n="n"/></l><r>fut<s n="n"/></r></p></e>
@@ -2307,11 +2307,11 @@
     <e><p><l>хрестоматия<s n="n"/></l><r>xrestomatiya<s n="n"/></r></p></e>
     <e><p><l>христиан<s n="n"/></l><r>xristian<s n="n"/></r></p></e>
     <e><p><l>хромосома<s n="n"/></l><r>xromosoma<s n="n"/></r></p></e>
-    <e><p><l>цемент<s n="n"/></l><r>cement<s n="n"/></r></p></e>
-    <e><p><l>цех<s n="n"/></l><r>cex<s n="n"/></r></p></e>
-    <e><p><l>цивилизация<s n="n"/></l><r>civilizaciya<s n="n"/></r></p></e>
-    <e><p><l>цилиндр<s n="n"/></l><r>cilindr<s n="n"/></r></p></e>
-    <e><p><l>цунами<s n="n"/></l><r>cunami<s n="n"/></r></p></e>
+    <e><p><l>цемент<s n="n"/></l><r>tsement<s n="n"/></r></p></e>
+    <e><p><l>цех<s n="n"/></l><r>tsex<s n="n"/></r></p></e>
+    <e><p><l>цивилизация<s n="n"/></l><r>tsivilizatsiya<s n="n"/></r></p></e>
+    <e><p><l>цилиндр<s n="n"/></l><r>tsilindr<s n="n"/></r></p></e>
+    <e><p><l>цунами<s n="n"/></l><r>tsunami<s n="n"/></r></p></e>
     <e><p><l>чат<s n="n"/></l><r>chat<s n="n"/></r></p></e>
     <e><p><l>чек<s n="n"/></l><r>chek<s n="n"/></r></p></e>
     <e><p><l>чемпионат<s n="n"/></l><r>chempionat<s n="n"/></r></p></e>
@@ -2416,14 +2416,14 @@
     <e><p><l>ыңғай<s n="n"/></l><r>niyet<s n="n"/></r></p></e>
     <e><p><l>ырыс<s n="n"/></l><r>ırıs<s n="n"/></r></p></e>
     <e><p><l>ысырап<s n="n"/></l><r>israp<s n="n"/></r></p></e>
-    <e><p><l>эволюция<s n="n"/></l><r>evolyuciya<s n="n"/></r></p></e>
+    <e><p><l>эволюция<s n="n"/></l><r>evolyutsiya<s n="n"/></r></p></e>
     <e><p><l>экватор<s n="n"/></l><r>ekvator<s n="n"/></r></p></e>
     <e><p><l>экипаж<s n="n"/></l><r>ekipaj<s n="n"/></r></p></e>
     <e><p><l>эклиптика<s n="n"/></l><r>ekliptika<s n="n"/></r></p></e>
     <e><p><l>экология<s n="n"/></l><r>ekologiya<s n="n"/></r></p></e>
     <e><p><l>эколог<s n="n"/></l><r>ekolog<s n="n"/></r></p></e>
     <e><p><l>экономика<s n="n"/></l><r>ekonomika<s n="n"/></r></p></e>
-    <e><p><l>экспедиция<s n="n"/></l><r>ekspediciya<s n="n"/></r></p></e>
+    <e><p><l>экспедиция<s n="n"/></l><r>ekspeditsiya<s n="n"/></r></p></e>
     <e><p><l>экспорт<s n="n"/></l><r>eksport<s n="n"/></r></p></e>
     <e><p><l>электрон<s n="n"/></l><r>elektron<s n="n"/></r></p></e>
     <e><p><l>электр<s n="n"/></l><r>elektr<s n="n"/></r></p></e>
@@ -2511,7 +2511,7 @@
     <e><p><l>украин<s n="n"/></l><r>ukrayn<s n="n"/></r></p></e>
     <e><p><l>урду<s n="n"/></l><r>urdu<s n="n"/></r></p></e>
     <e><p><l>ұйғыр<s n="n"/></l><r>uyg'ır<s n="n"/></r></p></e>
-    <e><p><l>француз<s n="n"/></l><r>francuz<s n="n"/></r></p></e>
+    <e><p><l>француз<s n="n"/></l><r>frantsuz<s n="n"/></r></p></e>
     <e><p><l>чех<s n="n"/></l><r>chex<s n="n"/></r></p></e>
     <e><p><l>швед<s n="n"/></l><r>shved<s n="n"/></r></p></e>
     <e><p><l>якут<s n="n"/></l><r>yakut<s n="n"/></r></p></e>
@@ -2536,7 +2536,7 @@
     <e><p><l>Грузия<s n="np"/><s n="top"/></l><r>Gruziya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Англия<s n="np"/><s n="top"/></l><r>Angliya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Шотландия<s n="np"/><s n="top"/></l><r>Shotlandiya<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Франция<s n="np"/><s n="top"/></l><r>Franciya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Франция<s n="np"/><s n="top"/></l><r>Frantsiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Жапония<s n="np"/><s n="top"/></l><r>Yaponiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Австрия<s n="np"/><s n="top"/></l><r>Avstriya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Британия<s n="np"/><s n="top"/></l><r>Britaniya<s n="np"/><s n="top"/></r></p></e>
@@ -2561,7 +2561,7 @@
 
     <e><p><l>абсолютті<s n="adj"/></l><r>absolyut<s n="adj"/></r></p></e>
     <e><p><l>абсолюттік<s n="adj"/></l><r>absolyutlik<s n="adj"/></r></p></e>
-    <e><p><l>авиациялық<s n="adj"/></l><r>aviaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>авиациялық<s n="adj"/></l><r>aviatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>автономиялық<s n="adj"/></l><r>avtonomiyalıq<s n="adj"/></r></p></e>
     <e><p><l>авторитарлық<s n="adj"/></l><r>avtoritarlıq<s n="adj"/></r></p></e>
     <e><p><l>агротехникалық<s n="adj"/></l><r>agrotexnikalıq<s n="adj"/></r></p></e>
@@ -2579,12 +2579,12 @@
     <e><p><l>айыпты<s n="adj"/></l><r>ayıplı<s n="adj"/></r></p></e>
     <e><p><l>ақ<s n="adj"/></l><r>aq<s n="adj"/></r></p></e>
     <e><p><l>академиялық<s n="adj"/></l><r>akademiyalıq<s n="adj"/></r></p></e>
-    <e><p><l>ақпараттық<s n="adj"/></l><r>informaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>ақпараттық<s n="adj"/></l><r>informatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>актерлік<s n="adj"/></l><r>aktyorlıq<s n="adj"/></r></p></e>
     <e><p><l>активті<s n="adj"/></l><r>aktivli<s n="adj"/></r></p></e>
     <e><p><l>ақтөбелік<s n="adj"/></l><r>aqto'belik<s n="adj"/></r></p></e>
     <e><p><l>акустикалық<s n="adj"/></l><r>akustikalıq<s n="adj"/></r></p></e>
-    <e><p><l>акционерлік<s n="adj"/></l><r>akcionerlik<s n="adj"/></r></p></e>
+    <e><p><l>акционерлік<s n="adj"/></l><r>aktsionerlik<s n="adj"/></r></p></e>
     <e><p><l>ақшыл<s n="adj"/></l><r>aqshıl<s n="adj"/></r></p></e>
     <e><p><l>ақырғы<s n="adj"/></l><r>aqırg'ı<s n="adj"/></r></p></e>
     <e><p><l>ақырын<s n="adj"/></l><r>aqırın<s n="adj"/></r></p></e>
@@ -2600,7 +2600,7 @@
     <e><p><l>антропогендік<s n="adj"/></l><r>antropogenlik<s n="adj"/></r></p></e>
     <e><p><l>антропологиялық<s n="adj"/></l><r>antropologiyalıq<s n="adj"/></r></p></e>
     <e><p><l>анық<s n="adj"/></l><r>anıq<s n="adj"/></r></p></e>
-    <e><p><l>апелляциялық<s n="adj"/></l><r>apellyaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>апелляциялық<s n="adj"/></l><r>apellyatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>аппақ<s n="adj"/></l><r>appaq<s n="adj"/></r></p></e>
     <e><p><l>арғы<s n="adj"/></l><r>arg'ı<s n="adj"/></r></p></e>
     <e><p><l>ардақты<s n="adj"/></l><r>ardaqlı<s n="adj"/></r></p></e>
@@ -2689,7 +2689,7 @@
     <e><p><l>гигиеналық<s n="adj"/></l><r>gigienalıq<s n="adj"/></r></p></e>
     <e><p><l>гидротехникалық<s n="adj"/></l><r>gidrotexnikalıq<s n="adj"/></r></p></e>
     <e><p><l>горизонталь<s n="adj"/></l><r>gorizontal<s n="adj"/></r></p></e>
-    <e><p><l>гравитациялық<s n="adj"/></l><r>gravitaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>гравитациялық<s n="adj"/></l><r>gravitatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>грамматикалық<s n="adj"/></l><r>grammatikalıq<s n="adj"/></r></p></e>
     <e><p><l>графикалық<s n="adj"/></l><r>grafikalıq<s n="adj"/></r></p></e>
     <e><p><l>гуманистік<s n="adj"/></l><r>gumanislik<s n="adj"/></r></p></e>
@@ -2804,14 +2804,14 @@
     <e><p><l>идеалды<s n="adj"/></l><r>ideal<s n="adj"/></r></p></e>
     <e><p><l>идеологиялық<s n="adj"/></l><r>ideologiyalıq<s n="adj"/></r></p></e>
     <e><p><l>идеялық<s n="adj"/></l><r>ideyalıq<s n="adj"/></r></p></e>
-    <e><p><l>иммиграциялық<s n="adj"/></l><r>immigraciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>иммиграциялық<s n="adj"/></l><r>immigratsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>императорлық<s n="adj"/></l><r>imperatorlıq<s n="adj"/></r></p></e>
     <e><p><l>империялық<s n="adj"/></l><r>imperiyalıq<s n="adj"/></r></p></e>
-    <e><p><l>инвестициялық<s n="adj"/></l><r>investiciyalıq<s n="adj"/></r></p></e>
-    <e><p><l>индукциялық<s n="adj"/></l><r>indukciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>инвестициялық<s n="adj"/></l><r>investitsiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>индукциялық<s n="adj"/></l><r>induktsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>инженерлік<s n="adj"/></l><r>injenerlik<s n="adj"/></r></p></e>
-    <e><p><l>инновациялық<s n="adj"/></l><r>innovaciyalıq<s n="adj"/></r></p></e>
-    <e><p><l>интеграциялық<s n="adj"/></l><r>integraciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>инновациялық<s n="adj"/></l><r>innovatsiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>интеграциялық<s n="adj"/></l><r>integratsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>интеллектуалдық<s n="adj"/></l><r>intellektuallıq<s n="adj"/></r></p></e>
     <e><p><l>ирандық<s n="adj"/></l><r>iranlı<s n="adj"/></r></p></e>
     <e><p><l>исламшыл<s n="adj"/></l><r>islamshıl<s n="adj"/></r></p></e>
@@ -2871,16 +2871,16 @@
     <e><p><l>көктемгі<s n="adj"/></l><r>ba'ha'rgi<s n="adj"/></r></p></e>
     <e><p><l>қолайлы<s n="adj"/></l><r>qolaylı<s n="adj"/></r></p></e>
     <e><p><l>қомақты<s n="adj"/></l><r>ko'lemli<s n="adj"/></r></p></e>
-    <e><p><l>коммерциялық<s n="adj"/></l><r>kommerciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>коммерциялық<s n="adj"/></l><r>kommertsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>коммуналдық<s n="adj"/></l><r>kommunallıq<s n="adj"/></r></p></e>
     <e><p><l>коммунистік<s n="adj"/></l><r>kommunislik<s n="adj"/></r></p></e>
-    <e><p><l>композициялық<s n="adj"/></l><r>kompoziciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>композициялық<s n="adj"/></l><r>kompozitsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>компьютерлік<s n="adj"/></l><r>kompyuterlik<s n="adj"/></r></p></e>
     <e><p><l>көне<s n="adj"/></l><r>go'ne<s n="adj"/></r></p></e>
     <e><p><l>көңілді<s n="adj"/></l><r>kewilli<s n="adj"/></r></p></e>
-    <e><p><l>конституциялық<s n="adj"/></l><r>konstituciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>конституциялық<s n="adj"/></l><r>konstitutsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>континенттік<s n="adj"/></l><r>kontinentlik<s n="adj"/></r></p></e>
-    <e><p><l>концерттік<s n="adj"/></l><r>koncertlik<s n="adj"/></r></p></e>
+    <e><p><l>концерттік<s n="adj"/></l><r>kontsertlik<s n="adj"/></r></p></e>
     <e><p><l>қоңыр<s n="adj"/></l><r>qon'ır<s n="adj"/></r></p></e>
     <e><p><l>көп<s n="adj"/></l><r>ko'p<s n="adj"/></r></p></e>
     <e><p><l>қор<s n="adj"/></l><r>qor<s n="adj"/></r></p></e>
@@ -2889,7 +2889,7 @@
     <e><p><l>көрнекі<s n="adj"/></l><r>ko'rnekli<s n="adj"/></r></p></e>
     <e><p><l>көрнекті<s n="adj"/></l><r>ko'rnekli<s n="adj"/></r></p></e>
     <e><p><l>корпоративтік<s n="adj"/></l><r>korporativlik<s n="adj"/></r></p></e>
-    <e><p><l>коррупциялық<s n="adj"/></l><r>korrupciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>коррупциялық<s n="adj"/></l><r>korruptsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>көршілес<s n="adj"/></l><r>qon'sılas<s n="adj"/></r></p></e>
     <e><p><l>қос<s n="adj"/></l><r>qos<s n="adj"/></r></p></e>
     <e><p><l>қосалқы<s n="adj"/></l><r>qosımsha<s n="adj"/></r></p></e>
@@ -2940,7 +2940,7 @@
     <e><p><l>материалдық<s n="adj"/></l><r>materiallıq<s n="adj"/></r></p></e>
     <e><p><l>материалистік<s n="adj"/></l><r>materialislik<s n="adj"/></r></p></e>
     <e><p><l>мәдени<s n="adj"/></l><r>ma'deniy<s n="adj"/></r></p></e>
-    <e><p><l>медициналық<s n="adj"/></l><r>medicinalıq<s n="adj"/></r></p></e>
+    <e><p><l>медициналық<s n="adj"/></l><r>meditsinalıq<s n="adj"/></r></p></e>
     <e><p><l>мәжбүр<s n="adj"/></l><r>ma'jbu'r<s n="adj"/></r></p></e>
     <e><p><l>мәз<s n="adj"/></l><r>ma's<s n="adj"/></r></p></e>
     <e><p><l>мейірімді<s n="adj"/></l><r>miyrimli<s n="adj"/></r></p></e>
@@ -2975,7 +2975,7 @@
     <e><p><l>мүйізді<s n="adj"/></l><r>mu'yizli<s n="adj"/></r></p></e>
     <e><p><l>мұқият<s n="adj"/></l><r>muqıyatlı<s n="adj"/></r></p></e>
     <e><p><l>мүмкін<s n="adj"/></l><r>mu'mkin<s n="adj"/></r></p></e>
-    <e><p><l>муниципалдық<s n="adj"/></l><r>municipallıq<s n="adj"/></r></p></e>
+    <e><p><l>муниципалдық<s n="adj"/></l><r>munitsipallıq<s n="adj"/></r></p></e>
     <e><p><l>мұралық<s n="adj"/></l><r>miyraslıq<s n="adj"/></r></p></e>
     <e><p><l>мықты<s n="adj"/></l><r>mıqlı<s n="adj"/></r></p></e>
     <e><p><l>мылқау<s n="adj"/></l><r>gu'n'elek<s n="adj"/></r></p></e>
@@ -3011,8 +3011,8 @@
     <e><p><l>оңаша<s n="adj"/></l><r>bo'lek<s n="adj"/></r></p></e>
     <e><p><l>өндірістік<s n="adj"/></l><r>o'ndirislik<s n="adj"/></r></p></e>
     <e><p><l>өңшең<s n="adj"/></l><r>ayırım<s n="adj"/></r></p></e>
-    <e><p><l>операциялық<s n="adj"/></l><r>operaciyalıq<s n="adj"/></r></p></e>
-    <e><p><l>оппозициялық<s n="adj"/></l><r>oppoziciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>операциялық<s n="adj"/></l><r>operatsiyalıq<s n="adj"/></r></p></e>
+    <e><p><l>оппозициялық<s n="adj"/></l><r>oppozitsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>оптик<s n="adj"/></l><r>optik<s n="adj"/></r></p></e>
     <e><p><l>оптикалық<s n="adj"/></l><r>optikalıq<s n="adj"/></r></p></e>
     <e><p><l>органик<s n="adj"/></l><r>organik<s n="adj"/></r></p></e>
@@ -3043,26 +3043,26 @@
     <e><p><l>платформалық<s n="adj"/></l><r>platformalıq<s n="adj"/></r></p></e>
     <e><p><l>политехникалық<s n="adj"/></l><r>politexnikalıq<s n="adj"/></r></p></e>
     <e><p><l>постсоветтік<s n="adj"/></l><r>postsovetlik<s n="adj"/></r></p></e>
-    <e><p><l>потенциалдық<s n="adj"/></l><r>potenciallıq<s n="adj"/></r></p></e>
+    <e><p><l>потенциалдық<s n="adj"/></l><r>potentsiallıq<s n="adj"/></r></p></e>
     <e><p><l>поэзиялық<s n="adj"/></l><r>poeziyalıq<s n="adj"/></r></p></e>
     <e><p><l>поэтикалық<s n="adj"/></l><r>poetikalıq<s n="adj"/></r></p></e>
     <e><p><l>практикалық<s n="adj"/></l><r>praktikalıq<s n="adj"/></r></p></e>
     <e><p><l>президенттік<s n="adj"/></l><r>prezidentlik<s n="adj"/></r></p></e>
-    <e><p><l>пропорционал<s n="adj"/></l><r>proporcional<s n="adj"/></r></p></e>
+    <e><p><l>пропорционал<s n="adj"/></l><r>proportsional<s n="adj"/></r></p></e>
     <e><p><l>психикалық<s n="adj"/></l><r>psixikalıq<s n="adj"/></r></p></e>
     <e><p><l>психологиялық<s n="adj"/></l><r>psixologiyalıq<s n="adj"/></r></p></e>
-    <e><p><l>радиациялық<s n="adj"/></l><r>radiaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>радиациялық<s n="adj"/></l><r>radiatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>радиоактивті<s n="adj"/></l><r>radioaktivli<s n="adj"/></r></p></e>
-    <e><p><l>радиолокациялық<s n="adj"/></l><r>radiolokaciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>радиолокациялық<s n="adj"/></l><r>radiolokatsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>радиоэлектрондық<s n="adj"/></l><r>radioelektrondıq<s n="adj"/></r></p></e>
     <e><p><l>разы<s n="adj"/></l><r>razı<s n="adj"/></r></p></e>
     <e><p><l>ракеталық<s n="adj"/></l><r>raketalıq<s n="adj"/></r></p></e>
     <e><p><l>реалистік<s n="adj"/></l><r>realistik<s n="adj"/></r></p></e>
-    <e><p><l>революциялық<s n="adj"/></l><r>revolyuciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>революциялық<s n="adj"/></l><r>revolyutsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>режиссерлік<s n="adj"/></l><r>rejisserlik<s n="adj"/></r></p></e>
     <e><p><l>ресми<s n="adj"/></l><r>ra'smiy<s n="adj"/></r></p></e>
     <e><p><l>республикалық<s n="adj"/></l><r>respublikalıq<s n="adj"/></r></p></e>
-    <e><p><l>рецессивті<s n="adj"/></l><r>recessivli<s n="adj"/></r></p></e>
+    <e><p><l>рецессивті<s n="adj"/></l><r>retsessivli<s n="adj"/></r></p></e>
     <e><p><l>риза<s n="adj"/></l><r>ırza<s n="adj"/></r></p></e>
     <e><p><l>римдік<s n="adj"/></l><r>rimli<s n="adj"/></r></p></e>
     <e><p><l>романтик<s n="adj"/></l><r>romantik<s n="adj"/></r></p></e>
@@ -3089,8 +3089,8 @@
     <e><p><l>сол<s n="adj"/></l><r>sol<s n="adj"/></r></p></e>
     <e><p><l>соң<s n="adj"/></l><r>son'<s n="adj"/></r></p></e>
     <e><p><l>сорлы<s n="adj"/></l><r>sorlı<s n="adj"/></r></p></e>
-    <e><p><l>социал<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
-    <e><p><l>социалистік<s n="adj"/></l><r>socialislik<s n="adj"/></r></p></e>
+    <e><p><l>социал<s n="adj"/></l><r>sotsial<s n="adj"/></r></p></e>
+    <e><p><l>социалистік<s n="adj"/></l><r>sotsialislik<s n="adj"/></r></p></e>
     <e><p><l>спектрлік<s n="adj"/></l><r>spektrlik<s n="adj"/></r></p></e>
     <e><p><l>спонсорлық<s n="adj"/></l><r>sponsorlıq<s n="adj"/></r></p></e>
     <e><p><l>спорттық<s n="adj"/></l><r>sportlıq<s n="adj"/></r></p></e>
@@ -3222,7 +3222,7 @@
     <e><p><l>философиялық<s n="adj"/></l><r>filosofiyalıq<s n="adj"/></r></p></e>
     <e><p><l>фольклорлық<s n="adj"/></l><r>folklorlıq<s n="adj"/></r></p></e>
     <e><p><l>формальды<s n="adj"/></l><r>formallı<s n="adj"/></r></p></e>
-    <e><p><l>функционалдық<s n="adj"/></l><r>funkcionallıq<s n="adj"/></r></p></e>
+    <e><p><l>функционалдық<s n="adj"/></l><r>funktsionallıq<s n="adj"/></r></p></e>
     <e><p><l>хабардар<s n="adj"/></l><r>xabardar<s n="adj"/></r></p></e>
     <e><p><l>халықаралық<s n="adj"/></l><r>xalıqaralıq<s n="adj"/></r></p></e>
     <e><p><l>халықтық<s n="adj"/></l><r>xalıqlıq<s n="adj"/></r></p></e>
@@ -3230,7 +3230,7 @@
     <e><p><l>хош<s n="adj"/></l><r>xosh<s n="adj"/></r></p></e>
     <e><p><l>христиандық<s n="adj"/></l><r>xristianlıq<s n="adj"/></r></p></e>
     <e><p><l>хромосомалық<s n="adj"/></l><r>xromosomalıq<s n="adj"/></r></p></e>
-    <e><p><l>циклді<s n="adj"/></l><r>ciklli<s n="adj"/></r></p></e>
+    <e><p><l>циклді<s n="adj"/></l><r>tsiklli<s n="adj"/></r></p></e>
     <e><p><l>шағын<s n="adj"/></l><r>kishkene<s n="adj"/></r></p></e>
     <e><p><l>шалғынды<s n="adj"/></l><r>otlaq<s n="adj"/></r></p></e>
     <e><p><l>шамалы<s n="adj"/></l><r>shamalı<s n="adj"/></r></p></e>
@@ -3253,12 +3253,12 @@
     <e><p><l>ырза<s n="adj"/></l><r>ırza<s n="adj"/></r></p></e>
     <e><p><l>ыссы<s n="adj"/></l><r>ıssı<s n="adj"/></r></p></e>
     <e><p><l>ыстық<s n="adj"/></l><r>ıssı<s n="adj"/></r></p></e>
-    <e><p><l>эволюциялық<s n="adj"/></l><r>evolyuciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>эволюциялық<s n="adj"/></l><r>evolyutsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>экваторлық<s n="adj"/></l><r>ekvatorlıq<s n="adj"/></r></p></e>
     <e><p><l>экологиялық<s n="adj"/></l><r>ekologiyalıq<s n="adj"/></r></p></e>
     <e><p><l>экономикалық<s n="adj"/></l><r>ekonomikalıq<s n="adj"/></r></p></e>
     <e><p><l>экс<s n="adj"/></l><r>eks<s n="adj"/></r></p></e>
-    <e><p><l>экспозициялық<s n="adj"/></l><r>ekspoziciyalıq<s n="adj"/></r></p></e>
+    <e><p><l>экспозициялық<s n="adj"/></l><r>ekspozitsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>экстремистік<s n="adj"/></l><r>ekstremislik<s n="adj"/></r></p></e>
     <e><p><l>электрик<s n="adj"/></l><r>elektrik<s n="adj"/></r></p></e>
     <e><p><l>электрлік<s n="adj"/></l><r>elektrlik<s n="adj"/></r></p></e>
@@ -3266,7 +3266,7 @@
     <e><p><l>электронды<s n="adj"/></l><r>elektronlı<s n="adj"/></r></p></e>
     <e><p><l>электрондық<s n="adj"/></l><r>elektronlıq<s n="adj"/></r></p></e>
     <e><p><l>элементар<s n="adj"/></l><r>elementar<s n="adj"/></r></p></e>
-    <e><p><l>эмоциялық<s n="adj"/></l><r>emociyalıq<s n="adj"/></r></p></e>
+    <e><p><l>эмоциялық<s n="adj"/></l><r>emotsiyalıq<s n="adj"/></r></p></e>
     <e><p><l>энергетикалық<s n="adj"/></l><r>energetikalıq<s n="adj"/></r></p></e>
     <e><p><l>эпик<s n="adj"/></l><r>epik<s n="adj"/></r></p></e>
     <e><p><l>эпикалық<s n="adj"/></l><r>epikalıq<s n="adj"/></r></p></e>
@@ -3488,7 +3488,7 @@
     <e><p><l>арықтат<s n="v"/><s n="tv"/></l><r>arıqlat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>арыт<s n="v"/><s n="tv"/></l><r>boldır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ас<s n="v"/><s n="tv"/></l><r>as<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>ассимиляцияла<s n="v"/><s n="tv"/></l><r>assimilyaciyala<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ассимиляцияла<s n="v"/><s n="tv"/></l><r>assimilyatsiyala<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>астарла<s n="v"/><s n="tv"/></l><r>astarla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>асықтыр<s n="v"/><s n="tv"/></l><r>asıqtır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>асыр<s n="v"/><s n="tv"/></l><r>asır<s n="v"/><s n="tv"/></r></p></e>
@@ -3939,7 +3939,7 @@
     <e><p><l>пысыт<s n="v"/><s n="tv"/></l><r>bekkemle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>рамкала<s n="v"/><s n="tv"/></l><r>ramkala<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>раста<s n="v"/><s n="tv"/></l><r>rasla<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>ратификацияла<s n="v"/><s n="tv"/></l><r>ratifikaciyala<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ратификацияла<s n="v"/><s n="tv"/></l><r>ratifikatsiyala<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>рәсуала<s n="v"/><s n="tv"/></l><r>israp<b/>et<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ретте<s n="v"/><s n="tv"/></l><r>retle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>реформала<s n="v"/><s n="tv"/></l><r>reformala<s n="v"/><s n="tv"/></r></p></e>
@@ -4130,8 +4130,8 @@
     <e><p><l>ұт<s n="v"/><s n="tv"/></l><r>ut<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ұшыр<s n="v"/><s n="tv"/></l><r>ushır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>хабарла<s n="v"/><s n="tv"/></l><r>xabarla<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>цементте<s n="v"/><s n="tv"/></l><r>cementle<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>цинкта<s n="v"/><s n="tv"/></l><r>cinkla<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>цементте<s n="v"/><s n="tv"/></l><r>tsementle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>цинкта<s n="v"/><s n="tv"/></l><r>tsinkla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шағында<s n="v"/><s n="tv"/></l><r>kishireyt<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шағында<s n="v"/><s n="tv"/></l><r>u'nemle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шай<s n="v"/><s n="tv"/></l><r>shay<s n="v"/><s n="tv"/></r></p></e>
@@ -4173,8 +4173,8 @@
     <e><p><l>шынықтыр<s n="v"/><s n="tv"/></l><r>shınıqtır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шытырлат<s n="v"/><s n="tv"/></l><r>shıtırlat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ысыр<s n="v"/><s n="tv"/></l><r>ısır<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>эвакуацияла<s n="v"/><s n="tv"/></l><r>evakuaciyala<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>экстрадицияла<s n="v"/><s n="tv"/></l><r>ekstradiciyala<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>эвакуацияла<s n="v"/><s n="tv"/></l><r>evakuatsiyala<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>экстрадицияла<s n="v"/><s n="tv"/></l><r>ekstraditsiyala<s n="v"/><s n="tv"/></r></p></e>
 
     <!-- SECTION: Verbs iv -->
 
@@ -4914,7 +4914,7 @@
     <e><p><l>Грузия<s n="np"/><s n="top"/></l><r>Gruziya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Англия<s n="np"/><s n="top"/></l><r>Angliya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Шотландия<s n="np"/><s n="top"/></l><r>Shotlandiya<s n="np"/><s n="top"/></r></p></e>
-    <e><p><l>Франция<s n="np"/><s n="top"/></l><r>Franciya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Франция<s n="np"/><s n="top"/></l><r>Frantsiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Жапония<s n="np"/><s n="top"/></l><r>Yaponiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Австрия<s n="np"/><s n="top"/></l><r>Avstriya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Британия<s n="np"/><s n="top"/></l><r>Britaniya<s n="np"/><s n="top"/></r></p></e>
