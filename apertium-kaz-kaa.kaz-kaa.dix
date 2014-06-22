@@ -790,6 +790,7 @@
     <e><p><l>дін<s n="n"/></l><r>din<s n="n"/></r></p></e>
     <e><p><l>дің<s n="n"/></l><r>o're<s n="n"/></r></p></e>
     <e><p><l>доктор<s n="n"/></l><r>doktor<s n="n"/></r></p></e>
+    <e><p><l>доктрина<s n="n"/></l><r>doktrina<s n="n"/></r></p></e>
     <e><p><l>доллар<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
     <e><p><l>доп<s n="n"/></l><r>top<s n="n"/></r></p></e>
     <e><p><l>дорба<s n="n"/></l><r>dorba<s n="n"/></r></p></e>
@@ -2259,6 +2260,7 @@
     <e><p><l>ұйқы<s n="n"/></l><r>uyqı<s n="n"/></r></p></e>
     <e><p><l>ұйым<s n="n"/></l><r>uyım<s n="n"/></r></p></e>
     <e><p><l>ұйытқы<s n="n"/></l><r>uyıtqı<s n="n"/></r></p></e>
+    <e><p><l>ұқсастыру<s n="n"/></l><r>uqsastırıw<s n="n"/></r></p></e>
     <e><p><l>ұлан<s n="n"/></l><r>jas<s n="n"/></r></p></e>
     <e><p><l>ұлт<s n="n"/></l><r>ult<s n="n"/></r></p></e>
     <e><p><l>ұлу<s n="n"/></l><r>ulıw<s n="n"/></r></p></e>
@@ -3925,6 +3927,8 @@
     <e><p><l>мәпеле<s n="v"/><s n="tv"/></l><r>erkelet<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>мерекеле<s n="v"/><s n="tv"/></l><r>merekele<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>мінгіз<s n="v"/><s n="tv"/></l><r>mingiz<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>міндетте<s n="v"/><s n="tv"/></l><r>minnetle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>міндетте<s n="v"/><s n="tv"/></l><r>ju'kle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>мінезде<s n="v"/><s n="tv"/></l><r>minezle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>мойында<s n="v"/><s n="tv"/></l><r>moyınla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>мүж<s n="v"/><s n="tv"/></l><r>mu'j<s n="v"/><s n="tv"/></r></p></e>
@@ -4284,6 +4288,8 @@
     <e><p><l>алқын<s n="v"/><s n="iv"/></l><r>tunshıg'<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>алпарыс<s n="v"/><s n="iv"/></l><r>ha'leklen<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>алшақта<s n="v"/><s n="iv"/></l><r>ayırıl<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>алшақтат<s n="v"/><s n="tv"/></l><r>alıslat<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>алшақтат<s n="v"/><s n="tv"/></l><r>uzaqlat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>алыс<s n="v"/><s n="iv"/></l><r>alıs<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>алыста<s n="v"/><s n="iv"/></l><r>alısla<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>амандас<s n="v"/><s n="iv"/></l><r>amanlas<s n="v"/><s n="iv"/></r></p></e>
