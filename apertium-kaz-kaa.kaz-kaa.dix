@@ -3249,6 +3249,7 @@
     <e><p><l>ұқсас<s n="adj"/></l><r>uqsas<s n="adj"/></r></p></e>
     <e><p><l>үлкен<s n="adj"/></l><r>u'lken<s n="adj"/></r></p></e>
     <e><p><l>ұлтаралық<s n="adj"/></l><r>millet aralıq<s n="adj"/></r></p></e>
+    <e><p><l>ұлттық<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
     <e><p><l>ұлттық<s n="adj"/></l><r>ultlıq<s n="adj"/></r></p></e>
     <e><p><l>улы<s n="adj"/></l><r>uwlı<s n="adj"/></r></p></e>
     <e><p><l>ұлық<s n="adj"/></l><r>ullı<s n="adj"/></r></p></e>
@@ -4957,6 +4958,7 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Арал<s n="np"/><s n="top"/></l><r>Aral<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Россия<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Ресей<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Қазақстан<s n="np"/><s n="top"/></l><r>Qazaqstan<s n="np"/><s n="top"/></r></p></e>
