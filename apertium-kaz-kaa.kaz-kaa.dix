@@ -2561,6 +2561,7 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Мәскеу<s n="np"/><s n="top"/></l><r>Moskva<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Россия<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
     <e r="LR"><p><l>Ресей<s n="np"/><s n="top"/></l><r>Rossiya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Қазақстан<s n="np"/><s n="top"/></l><r>Qazaqstan<s n="np"/><s n="top"/></r></p></e>
@@ -2764,7 +2765,7 @@
     <e><p><l>егістік<s n="adj"/></l><r>egislik<s n="adj"/></r></p></e>
     <e><p><l>әдеби<s n="adj"/></l><r>a'debiy<s n="adj"/></r></p></e>
     <e><p><l>әдемі<s n="adj"/></l><r>sulıw<s n="adj"/></r></p></e>
-    <e><p><l>едәуір<s n="adj"/></l><r>a'dewır<s n="adj"/></r></p></e>
+    <e><p><l>едәуір<s n="adj"/></l><r>a'dewir<s n="adj"/></r></p></e>
     <e><p><l>әділ<s n="adj"/></l><r>a'dil<s n="adj"/></r></p></e>
     <e><p><l>ежелгі<s n="adj"/></l><r>a'yyemgi<s n="adj"/></r></p></e>
     <e><p><l>әжептәуір<s n="adj"/></l><r>a'jepta'wir<s n="adj"/></r></p></e>
