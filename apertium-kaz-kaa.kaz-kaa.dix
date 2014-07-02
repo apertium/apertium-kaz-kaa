@@ -337,6 +337,9 @@
     <!-- SECTION: Nouns -->
 
     <e><p><l>млрд<s n="n"/></l><r>mlrd<s n="n"/></r></p></e>
+    <e><p><l>км<s n="n"/></l><r>km<s n="n"/></r></p></e>
+    <e><p><l>мм<s n="n"/></l><r>mm<s n="n"/></r></p></e>
+    <e><p><l>социалист<s n="n"/></l><r>sotsialist<s n="n"/></r></p></e>
 
 	<e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
 	<e><p><l>бағ<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
@@ -1045,6 +1048,7 @@
     <e><p><l>империалист<s n="n"/></l><r>imperialist<s n="n"/></r></p></e>
     <e><p><l>империя<s n="n"/></l><r>imperiya<s n="n"/></r></p></e>
     <e><p><l>инвестиция<s n="n"/></l><r>investitsiya<s n="n"/></r></p></e>
+    <e><p><l>позиция<s n="n"/></l><r>pozitsiya<s n="n"/></r></p></e>
     <e><p><l>инвестор<s n="n"/></l><r>investor<s n="n"/></r></p></e>
     <e><p><l>индекс<s n="n"/></l><r>indeks<s n="n"/></r></p></e>
     <e><p><l>индуизм<s n="n"/></l><r>induizm<s n="n"/></r></p></e>
@@ -5010,7 +5014,6 @@
     <e><p><l>жж.<s n="abbr"/></l><r>jj.<s n="abbr"/></r></p></e>
     <e><p><l>т.б.<s n="abbr"/></l><r>t.b.<s n="abbr"/></r></p></e>
     <e><p><l>кг<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
-    <e><p><l>км<s n="abbr"/></l><r>km<s n="abbr"/></r></p></e>
     <e><p><l>км²<s n="abbr"/></l><r>km²<s n="abbr"/></r></p></e>
     <e><p><l>км³<s n="abbr"/></l><r>km³<s n="abbr"/></r></p></e>
     <e><p><l>мемл<s n="abbr"/></l><r>ma'ml<s n="abbr"/></r></p></e>
