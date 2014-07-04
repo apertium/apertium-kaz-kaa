@@ -23,6 +23,7 @@ dev/ods-to-tsv.sh -text
 dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
+/qa.sh -text
 testvoc/lite/README -text
 testvoc/lite/testvoc-summary.kaz-kaa.txt -text
 testvoc/lite/testvoc.sh -text
