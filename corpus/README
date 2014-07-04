@@ -1,0 +1,33 @@
+* corpus.kaz.txt
+	All Kazakh stories and texts from texts/ directory.
+
+* corpus.kaa.txt
+	Karakalpak version of the corpus.
+
+* kaz-kaa-origina.txt
+	Translation of corpus.kaz.txt with the second to last revision of apertium-kaz-kaa.
+
+* kaz-kaa-nova.txt
+	Translation of corpus.kaz.txt with the last revision of apertium-kaz-kaa.
+
+* kaa-kaz-origina.txt
+	Translation of corpus.kaa.txt with the second to last revision of apertium-kaz-kaa.
+
+* kaa-kaz-nova.txt
+	Translation of corpus.kaa.txt with the last revision of apertium-kaz-kaa.
+
+------
+
+Basic workflow is like the following:
+	1) mv kaz-kaa-nova.txt kaz-kaa-origina.txt
+	2) run diff on kaz-kaa-origina.txt and corpus.kaa.txt,
+	3) see what is to fix/to improve,
+	4) fix them and compile,
+	5) run ./qa.sh kaz-kaa-corp to see whether you really fixed them,
+	6) commit,
+	
+	repeat the cycle
+
+'qa.sh kaz-kaa-corp' in apertium-kaz-kaa/ gives a coloured diff of "origina" and "nova" translations.
+
+The same workflow applies for the opposite direction.
