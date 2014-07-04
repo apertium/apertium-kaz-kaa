@@ -23,6 +23,9 @@ dev/ods-to-tsv.sh -text
 dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 /modes.xml -text
+testvoc/standard/inconsistency-summary.sh -text
+testvoc/standard/inconsistency.sh -text
+testvoc/standard/testvoc.sh -text
 texts/buddizm.kaa.txt -text
 texts/buddizm.kaz.txt -text svneol=unset#application/octet-stream
 texts/story.kaa.txt -text
