@@ -197,7 +197,7 @@
 
     <e><p><l>ана<s n="prn"/><s n="dem"/></l><r>ana<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>бұл<s n="prn"/><s n="dem"/></l><r>bul<s n="prn"/><s n="dem"/></r></p></e>
-    <e r="LR"><p><l>мына<s n="prn"/><s n="dem"/></l><r>бу<s n="prn"/><s n="dem"/></r></p></e>
+    <e r="LR"><p><l>мына<s n="prn"/><s n="dem"/></l><r>bul<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>ол<s n="prn"/><s n="dem"/></l><r>ol<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>осы<s n="prn"/><s n="dem"/></l><r>usı<s n="prn"/><s n="dem"/></r></p></e>
     <e><p><l>сол<s n="prn"/><s n="dem"/></l><r>sol<s n="prn"/><s n="dem"/></r></p></e>
@@ -345,7 +345,7 @@
 	<e><p><l>абақты<s n="n"/></l><r>qamaqxana<s n="n"/></r></p></e>
 	<e><p><l>бағ<s n="n"/></l><r>bag'<s n="n"/></r></p></e>
 	<e><p><l>іш<s n="n"/></l><r>ish<s n="n"/></r></p></e> <!-- "in" -->
-	<e><p><l>дыбыс<s n="n"/></l><r>dawısа<s n="n"/></r></p></e>
+	<e><p><l>дыбыс<s n="n"/></l><r>dawısa<s n="n"/></r></p></e>
 	<e><p><l>сұрақ<s n="n"/></l><r>soraw<s n="n"/></r></p></e>
 	<e><p><l>терезе<s n="n"/></l><r>ayna<s n="n"/></r></p></e>
 	<e><p><l>үстел<s n="n"/></l><r>stol<s n="n"/></r></p></e>
