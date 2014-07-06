@@ -34,6 +34,7 @@
       <cat-item tags="cop.p2.*"/>
       <cat-item tags="cop.p3.*"/>
       <cat-item lemma="sız" tags="post"/>
+      <cat-item lemma="lı" tags="post"/>
     </def-cat>
 
     <def-cat n="sub-reading2">
