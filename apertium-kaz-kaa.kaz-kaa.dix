@@ -87,6 +87,7 @@
 
     <e><p><l>шы<s n="emph"/></l><r>shı<s n="emph"/></r></p></e>
     <e><p><l>ғана<s n="postadv"/></l><r>g'ana<s n="postadv"/></r></p></e>
+    <e><p><l>-ақ<s n="postadv"/></l><r>-aq<s n="postadv"/></r></p></e>
     <e><p><l>да<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
 
     <!-- SECTION: Conjunctions -->
@@ -5126,6 +5127,7 @@
     <!-- SECTION: Modal question particles -->
 
 	<e><p><l>ма<s n="qst"/></l><r>ma<s n="qst"/></r></p></e>
+	<e><p><l>мекен<s n="qst"/></l><r>meken<s n="qst"/></r></p></e>
 	<e><p><l>ма<b/>не<s n="qst"/></l><r>me<b/>ne<s n="qst"/></r></p></e>
 
 
