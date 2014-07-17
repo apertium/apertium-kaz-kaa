@@ -2512,6 +2512,7 @@
     <e><p><l>элемент<s n="n"/></l><r>element<s n="n"/></r></p></e>
     <e><p><l>элита<s n="n"/></l><r>elita<s n="n"/></r></p></e>
     <e><p><l>эмблема<s n="n"/></l><r>emblema<s n="n"/></r></p></e>
+    <e><p><l>морфема<s n="n"/></l><r>morfema<s n="n"/></r></p></e>
     <e><p><l>энергетика<s n="n"/></l><r>energetika<s n="n"/></r></p></e>
     <e><p><l>энергия<s n="n"/></l><r>energiya<s n="n"/></r></p></e>
     <e><p><l>энтропия<s n="n"/></l><r>entropiya<s n="n"/></r></p></e>
@@ -5160,7 +5161,9 @@
     <e><p><l>—<s n="guio"/></l><r>—<s n="guio"/></r></p></e>
     <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
     <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-    <e><re>[№%]?[0-9]+([.,][0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <!--<e><re>[№%]?[0-9]+([.,][0-9]+)*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>-->
+    <!-- This is a hack. At the moment the numeral lexicon will not generate zeros after commas -->
+    <e><re>[№%]?[0-9]+([.,][1-9]+|[,.][0-9]+[1-9])*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
 
   </section>

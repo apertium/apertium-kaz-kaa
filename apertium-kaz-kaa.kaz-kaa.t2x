@@ -38,7 +38,7 @@
     </def-cat>
 
     <def-cat n="sub-reading2">
-      <!-- Every other thing in Tatar which most likely will be translated
+      <!-- Every other thing in Karakalpak which most likely will be translated
            with a clitic. Can appear after cat="sub-reading1" -->
       <cat-item tags="qst"/>
       <cat-item tags="mod_ass"/>
