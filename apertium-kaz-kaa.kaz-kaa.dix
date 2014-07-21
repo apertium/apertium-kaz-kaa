@@ -62,10 +62,10 @@
     <sdef n="p2"    c=""/> 
     <sdef n="p3"    c=""/> 
     <sdef n="frm"   c=""/> 
-    <sdef n="qst"   c="Question modal particle (cltic)"/> 
-    <sdef n="emph"  c="Emphasising modal particle"/> 
-    <sdef n="mod_ass"   c="Assertive modal particle (clitic)"/> 
-    <sdef n="mod_ind"   c="Indefinite modal particle (clitic)"/> 
+    <sdef n="qst"   c="Question modal (clitic)"/> 
+    <sdef n="emph"  c="Emphasising modal"/> 
+    <sdef n="mod_ass"   c="Assertive modal (clitic)"/> 
+    <sdef n="mod_ind"   c="Indefinite modal (clitic)"/> 
     <sdef n="mod"   c="Modal verbs"/> 
     <sdef n="sent"  c=""/> 
     <sdef n="guio"  c=""/> 
@@ -89,6 +89,7 @@
     <e><p><l>ғана<s n="postadv"/></l><r>g'ana<s n="postadv"/></r></p></e>
     <e><p><l>-ақ<s n="postadv"/></l><r>-aq<s n="postadv"/></r></p></e>
     <e><p><l>да<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
+    <e><p><l>ғой<s n="mod_ass"/></l><r>g'oy<s n="mod_ass"/></r></p></e>
 
     <!-- SECTION: Conjunctions -->
 
