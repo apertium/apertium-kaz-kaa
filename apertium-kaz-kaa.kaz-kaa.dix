@@ -342,6 +342,13 @@
 
     <!-- SECTION: Nouns -->
 
+    <e><p><l>жүздік<s n="n"/></l><r>ju'zlik<s n="n"/></r></p></e>
+    <e><p><l>жұмыскер<s n="n"/></l><r>jumısshı<s n="n"/></r></p></e>
+    <e><p><l>түпнұсқа<s n="n"/></l><r>оriginаl<s n="n"/></r></p></e>
+    <e><p><l>түпнұсқа<s n="n"/></l><r>tiykarg'ı<b/>nusqa<s n="n"/></r></p></e>
+    <e><p><l>хабарландыру<s n="n"/></l><r>xabarlandırıw<s n="n"/></r></p></e>
+    <e><p><l>шығармашылық<s n="n"/></l><r>do'retiwshilik<s n="n"/></r></p></e>
+    <e><p><l>интернет<s n="n"/></l><r>internet<s n="n"/></r></p></e>
     <e><p><l>сауық-сайран<s n="n"/></l><r>shadlanıw<s n="n"/></r></p></e>
     <e><p><l>экран<s n="n"/></l><r>ekran<s n="n"/></r></p></e>
     <e><p><l>теледидарлама<s n="n"/></l><r>televidenie<s n="n"/></r></p></e>
@@ -2657,7 +2664,12 @@
     <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygu'l<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
-    
+
+    <e><p><l>шығармашылық<s n="adj"/></l><r>do'retiwshilik<s n="adj"/></r></p></e>
+    <e><p><l>оғаш tan'<s n="adj"/></l><r>qalarlıq<s n="adj"/></r></p></e>
+    <e><p><l>оғаш<s n="adj"/></l><r>ersi<s n="adj"/></r></p></e>
+    <e><p><l>мұңды<s n="adj"/></l><r>mun'lı<s n="adj"/></r></p></e>
+    <e><p><l>мұңды<s n="adj"/></l><r>qayg'ılı<s n="adj"/></r></p></e>
     <e><p><l>индустриялық<s n="adj"/></l><r>industriyalıq<s n="adj"/></r></p></e> 
     <e><p><l>жөндеулі<s n="adj"/></l><r>jo'nlewli<s n="adj"/></r></p></e> 
     <e><p><l>дауласпаған<s n="adj"/></l><r>dawlaspag'an<s n="adj"/></r></p></e> 
@@ -3410,7 +3422,7 @@
     <e><p><l>қажырлы<s n="adv"/></l><r>taban<b/>tirep<s n="adv"/></r></p></e>
     <e><p><l>қажырлы<s n="adv"/></l><r>qatan'<s n="adv"/></r></p></e>
     <e><p><l>бірыңғай<s n="adv"/></l><r>birden-bir<s n="adv"/></r></p></e> 
-    <e><p><l>әйтпесе<s n="adv"/></l><r>bolmasa<s n="adv"/></r></p></e>
+    <e><p><l>мында<s n="adv"/></l><r>bunda<s n="adv"/></r></p></e>
     <e><p><l>әйтпесе<s n="adv"/></l><r>bolmasa<s n="adv"/></r></p></e>
     <e><p><l>әйтпесе<s n="adv"/></l><r>bolmasa<s n="adv"/></r></p></e>
     <e><p><l>әйтпесе<s n="adv"/></l><r>bolmasa<s n="adv"/></r></p></e>
@@ -3537,7 +3549,11 @@
     <e><p><l>сарала<s n="v"/><s n="tv"/></l><r>sarala<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>аулақта<s n="v"/><s n="tv"/></l><r>awlaqla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>қамсыздандыр<s n="v"/><s n="tv"/></l><r>qamsızlandır<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>айт<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>сұран<s n="v"/><s n="tv"/></l><r>soran<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>суретте<s n="v"/><s n="tv"/></l><r>su'wretle<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>түрлендір<s n="v"/><s n="tv"/></l><r>tu'rlendir<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>жылжыт<s n="v"/><s n="tv"/></l><r>jıljıt<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>айт<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e> 
 
 	<e><p><l>айт<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>ал<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
