@@ -3442,6 +3442,88 @@
 	<e><p><l>қашан<s n="adv"/><s n="itg"/></l><r>qashan<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
 	<e><p><l>қайда<s n="adv"/><s n="itg"/></l><r>qayda<s n="adv"/><s n="itg"/></r></p></e> <!-- "where" (location) -->
 
+
+    <!-- Languages -->
+
+    <!-- as nouns -->
+
+    <e><p><l>ағылшынша<s n="n"/></l><r>anglichansha<s n="n"/></r></p></e>
+    <e><p><l>американша<s n="n"/></l><r>amerikansha<s n="n"/></r></p></e>
+    <e><p><l>арабша<s n="n"/></l><r>arabsha<s n="n"/></r></p></e>
+    <e><p><l>арамейша<s n="n"/></l><r>arameysha<s n="n"/></r></p></e>
+    <e><p><l>башқұртша<s n="n"/></l><r>bashqurtsha<s n="n"/></r></p></e>
+    <e><p><l>белорусша<s n="n"/></l><r>belorussha<s n="n"/></r></p></e>
+    <e><p><l>бурятша<s n="n"/></l><r>buryatsha<s n="n"/></r></p></e>
+    <e><p><l>венгрше<s n="n"/></l><r>vengrshe<s n="n"/></r></p></e>
+    <e><p><l>грекше<s n="n"/></l><r>grekshe<s n="n"/></r></p></e>
+    <e><p><l>грузинша<s n="n"/></l><r>gruzinsha<s n="n"/></r></p></e>
+    <e><p><l>гуараниша<s n="n"/></l><r>guaranisha<s n="n"/></r></p></e>
+    <e><p><l>итальянша<s n="n"/></l><r>italiyansha<s n="n"/></r></p></e>
+    <e><p><l>калмакша<s n="n"/></l><r>kalmaksha<s n="n"/></r></p></e>
+    <e><p><l>карелша<s n="n"/></l><r>karelsha<s n="n"/></r></p></e>
+    <e><p><l>қазақша<s n="n"/></l><r>qazaqsha<s n="n"/></r></p></e>
+    <e><p><l>қырғызша<s n="n"/></l><r>qırg'ızsha<s n="n"/></r></p></e>
+    <e><p><l>қытайша<s n="n"/></l><r>qıtaysha<s n="n"/></r></p></e>
+    <e><p><l>латынша<s n="n"/></l><r>latınsha<s n="n"/></r></p></e>
+    <e><p><l>моңғолша<s n="n"/></l><r>mon'g'olsha<s n="n"/></r></p></e>
+    <e><p><l>мордваша<s n="n"/></l><r>mordvasha<s n="n"/></r></p></e>
+    <e><p><l>немісше<s n="n"/></l><r>nemisshe<s n="n"/></r></p></e>
+    <e><p><l>орысша<s n="n"/></l><r>orıssha<s n="n"/></r></p></e>
+    <e><p><l>өзбекше<s n="n"/></l><r>o'zbekshe<s n="n"/></r></p></e>
+    <e><p><l>парсыша<s n="n"/></l><r>parsısha<s n="n"/></r></p></e>
+    <e><p><l>полякша<s n="n"/></l><r>polyaksha<s n="n"/></r></p></e>
+    <e><p><l>татарша<s n="n"/></l><r>tatarsha<s n="n"/></r></p></e>
+    <e><p><l>тәжікше<s n="n"/></l><r>ta'jikshe<s n="n"/></r></p></e>
+    <e><p><l>түрікше<s n="n"/></l><r>tu'rkishe<s n="n"/></r></p></e>
+    <e><p><l>украинша<s n="n"/></l><r>ukrainsha<s n="n"/></r></p></e>
+    <e><p><l>урдуша<s n="n"/></l><r>urdusha<s n="n"/></r></p></e>
+    <e><p><l>французша<s n="n"/></l><r>frantsuzsha<s n="n"/></r></p></e>
+    <e><p><l>чехше<s n="n"/></l><r>chexshe<s n="n"/></r></p></e>
+    <e><p><l>чувашша<s n="n"/></l><r>chuvashsha<s n="n"/></r></p></e>
+    <e><p><l>шведше<s n="n"/></l><r>shvedshe<s n="n"/></r></p></e>
+    <e><p><l>якутша<s n="n"/></l><r>yakutsha<s n="n"/></r></p></e>
+    <e><p><l>яһудише<s n="n"/></l><r>yahudiyshe<s n="n"/></r></p></e>
+
+    <!-- as adverbs -->
+
+    <e><p><l>ағылшынша<s n="adv"/></l><r>anglichansha<s n="adv"/></r></p></e>
+    <e><p><l>американша<s n="adv"/></l><r>amerikansha<s n="adv"/></r></p></e>
+    <e><p><l>арабша<s n="adv"/></l><r>arabsha<s n="adv"/></r></p></e>
+    <e><p><l>арамейша<s n="adv"/></l><r>arameysha<s n="adv"/></r></p></e>
+    <e><p><l>башқұртша<s n="adv"/></l><r>bashqurtsha<s n="adv"/></r></p></e>
+    <e><p><l>белорусша<s n="adv"/></l><r>belorussha<s n="adv"/></r></p></e>
+    <e><p><l>бурятша<s n="adv"/></l><r>buryatsha<s n="adv"/></r></p></e>
+    <e><p><l>венгрше<s n="adv"/></l><r>vengrshe<s n="adv"/></r></p></e>
+    <e><p><l>грекше<s n="adv"/></l><r>grekshe<s n="adv"/></r></p></e>
+    <e><p><l>грузинша<s n="adv"/></l><r>gruzinsha<s n="adv"/></r></p></e>
+    <e><p><l>гуараниша<s n="adv"/></l><r>guaranisha<s n="adv"/></r></p></e>
+    <e><p><l>итальянша<s n="adv"/></l><r>italiyansha<s n="adv"/></r></p></e>
+    <e><p><l>калмакша<s n="adv"/></l><r>kalmaksha<s n="adv"/></r></p></e>
+    <e><p><l>карелша<s n="adv"/></l><r>karelsha<s n="adv"/></r></p></e>
+    <e><p><l>қазақша<s n="adv"/></l><r>qazaqsha<s n="adv"/></r></p></e>
+    <e><p><l>қырғызша<s n="adv"/></l><r>qırg'ızsha<s n="adv"/></r></p></e>
+    <e><p><l>қытайша<s n="adv"/></l><r>qıtaysha<s n="adv"/></r></p></e>
+    <e><p><l>латынша<s n="adv"/></l><r>latınsha<s n="adv"/></r></p></e>
+    <e><p><l>моңғолша<s n="adv"/></l><r>mon'g'olsha<s n="adv"/></r></p></e>
+    <e><p><l>мордваша<s n="adv"/></l><r>mordvasha<s n="adv"/></r></p></e>
+    <e><p><l>немісше<s n="adv"/></l><r>nemisshe<s n="adv"/></r></p></e>
+    <e><p><l>орысша<s n="adv"/></l><r>orıssha<s n="adv"/></r></p></e>
+    <e><p><l>өзбекше<s n="adv"/></l><r>o'zbekshe<s n="adv"/></r></p></e>
+    <e><p><l>парсыша<s n="adv"/></l><r>parsısha<s n="adv"/></r></p></e>
+    <e><p><l>полякша<s n="adv"/></l><r>polyaksha<s n="adv"/></r></p></e>
+    <e><p><l>татарша<s n="adv"/></l><r>tatarsha<s n="adv"/></r></p></e>
+    <e><p><l>тәжікше<s n="adv"/></l><r>ta'jikshe<s n="adv"/></r></p></e>
+    <e><p><l>түрікше<s n="adv"/></l><r>tu'rkishe<s n="adv"/></r></p></e>
+    <e><p><l>украинша<s n="adv"/></l><r>ukrainsha<s n="adv"/></r></p></e>
+    <e><p><l>урдуша<s n="adv"/></l><r>urdusha<s n="adv"/></r></p></e>
+    <e><p><l>французша<s n="adv"/></l><r>frantsuzsha<s n="adv"/></r></p></e>
+    <e><p><l>чехше<s n="adv"/></l><r>chexshe<s n="adv"/></r></p></e>
+    <e><p><l>чувашша<s n="adv"/></l><r>chuvashsha<s n="adv"/></r></p></e>
+    <e><p><l>шведше<s n="adv"/></l><r>shvedshe<s n="adv"/></r></p></e>
+    <e><p><l>якутша<s n="adv"/></l><r>yakutsha<s n="adv"/></r></p></e>
+    <e><p><l>яһудише<s n="adv"/></l><r>yahudiyshe<s n="adv"/></r></p></e>
+
+
     <e><p><l>азғана<s n="adv"/></l><r>azg'ana<s n="adv"/></r></p></e>
     <e><p><l>азғантай<s n="adv"/></l><r>azg'antay<s n="adv"/></r></p></e>
     <e><p><l>ақшалай<s n="adv"/></l><r>aqshalay<s n="adv"/></r></p></e>
