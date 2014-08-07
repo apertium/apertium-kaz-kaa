@@ -1,0 +1,81 @@
+N1:
+
+делдалдық da'ldallıq
+делдалдық da'ldalshılıq
+тауар-ақша tovar-aqsha
+мұқтаждық mu'ta'jlik
+мұқтаждық za'ru'rlik
+пиаса bazar
+міндеттеме minnetleme
+клиент klient
+есепшот sshet
+касса kassa
+портфель portfel
+сенімдік isenimlik
+эмиссия emissiya
+капиталист kapitalist
+өндірісші o'ndirisshi
+борышқорлық qarızdarlıq
+борыш qarız
+
+N5:
+
+ресурс resurs
+депозит depozit
+филиал filial
+банкнот banknot
+
+N6:
+
+A1:
+
+A2:
+
+кәдуілгі a'piwayı
+
+A4:
+
+қаржылық-делдалдық qarjılıq-da'ldallıq
+кассалық kassalıq
+лизингтік lizinglik
+факторингтік faktoringli
+кеңесшілік ken'esshilik
+пассивті passivli
+жарғылық ustavlıq
+резервтік rezervlik
+банкаралық bankaralıq
+коммандиттік kommanditlik
+эмиссиялық emmisiyalıq
+мемлекетаралық ma'mleketaralıq
+
+ADV:
+
+кейінірек keyinirek
+алғаш birinshi ret
+алғаш birinshi ma'rte
+
+CA:
+
+V-IV:
+
+V-TV:
+
+жинақта jıynа
+
+NP-TOP:
+
+Германия Germaniya
+Нидерланд Niderland
+
+NP-ANT-M:
+
+Джона Djona
+
+NP-COG-MF:
+
+Ло Lo
+
+ABBR:
+
+т.с.с. t.s.s.
+акцион. aktsion.
