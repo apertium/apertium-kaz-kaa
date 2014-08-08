@@ -342,6 +342,23 @@
 
     <!-- SECTION: Nouns -->
 
+    <e><p><l>саудагер<s n="n"/></l><r>sawdager<s n="n"/></r></p></e>
+    <e><p><l>монополия<s n="n"/></l><r>monopoliya<s n="n"/></r></p></e>
+    <e><p><l>уыс<s n="n"/></l><r>qısım<s n="n"/></r></p></e>
+    <e><p><l>уыс<s n="n"/></l><r>uwıs<s n="n"/></r></p></e>
+    <e><p><l>қазынашылық<s n="n"/></l><r>g'a'ziynexana<s n="n"/></r></p></e>
+    <e><p><l>қазынашылық<s n="n"/></l><r>qaznaxana<s n="n"/></r></p></e>
+    <e><p><l>қарыз-сақтық<s n="n"/></l><r>qarız-saqlıq<s n="n"/></r></p></e>
+    <e><p><l>серіктік<s n="n"/></l><r>joldaslıq<s n="n"/></r></p></e>
+    <e><p><l>серіктік<s n="n"/></l><r>doslıq<s n="n"/></r></p></e>
+    <e><p><l>облигация<s n="n"/></l><r>obligatsiya<s n="n"/></r></p></e>
+    <e><p><l>рынок<s n="n"/></l><r>bazar<s n="n"/></r></p></e>
+    <e><p><l>пакет<s n="n"/></l><r>paket<s n="n"/></r></p></e>
+    <e><p><l>актив<s n="n"/></l><r>aktiv<s n="n"/></r></p></e>
+    <e><p><l>кооперация<s n="n"/></l><r>kooperatsiya<s n="n"/></r></p></e>
+    <e><p><l>казначейлік<s n="n"/></l><r>g'a'ziynexana<s n="n"/></r></p></e>
+    <e><p><l>казначейлік<s n="n"/></l><r>qaznaxana<s n="n"/></r></p></e>
+    <e><p><l>жинақтау<s n="n"/></l><r>jıynaw<s n="n"/></r></p></e>
     <e><p><l>ресурс<s n="n"/></l><r>resurs<s n="n"/></r></p></e>
     <e><p><l>депозит<s n="n"/></l><r>depozit<s n="n"/></r></p></e>
     <e><p><l>филиал<s n="n"/></l><r>filial<s n="n"/></r></p></e>
@@ -2685,9 +2702,15 @@
     <e><p><l>Айгүл<s n="np"/><s n="ant"/><s n="f"/></l><r>Aygu'l<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
     <e><p><l>Ло<s n="np"/><s n="cog"/><s n="mf"/></l><r>Lo<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+    <e><p><l>Рокфеллер<s n="np"/><s n="cog"/><s n="mf"/></l><r>Rokfeller<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
     <!-- SECTION: Adjectives -->
 
+    <e><p><l>мерзімді<s n="adj"/></l><r>belgili<s n="adj"/></r></p></e>
+    <e><p><l>мерзімді<s n="adj"/></l><r>mezgilli<s n="adj"/></r></p></e>
+    <e><p><l>монополиялық<s n="adj"/></l><r>monopoliyalıq<s n="adj"/></r></p></e>
+    <e><p><l>кредиттік<s n="adj"/></l><r>kreditlik<s n="adj"/></r></p></e>
+    <e><p><l>қаржылық-монополистік<s n="adj"/></l><r>qarjılıq-monopolistik<s n="adj"/></r></p></e>
     <e><p><l>кәдуілгі<s n="adj"/></l><r>a'piwayı<s n="adj"/></r></p></e>
     <e><p><l>қаржылық-делдалдық<s n="adj"/></l><r>qarjılıq-da'ldallıq<s n="adj"/></r></p></e>
     <e><p><l>кассалық<s n="adj"/></l><r>kassalıq<s n="adj"/></r></p></e>
@@ -3452,6 +3475,11 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>етене<s n="adv"/></l><r>jaqınnan<s n="adv"/></r></p></e>
+    <e><p><l>жәй<s n="adv"/></l><r>jay<s n="adv"/></r></p></e>
+    <e><p><l>жәй<s n="adv"/></l><r>a'piwayı<s n="adv"/></r></p></e>
+    <e><p><l>жәй<s n="adv"/></l><r>an'sat<s n="adv"/></r></p></e>
+    <e><p><l>жәй<s n="adv"/></l><r>on'ay<s n="adv"/></r></p></e>
     <e><p><l>кейінірек<s n="adv"/></l><r>keyinirek<s n="adv"/></r></p></e>
     <e><p><l>алғаш<s n="adv"/></l><r>birinshi<b/>ret<s n="adv"/></r></p></e>
     <e><p><l>алғаш<s n="adv"/></l><r>birinshi<b/>ma'rte<s n="adv"/></r></p></e>
@@ -3680,7 +3708,7 @@
 	<e><p><l>айт<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>ал<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>бас<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
-	<e><p><l>баста<s n="v"/><s n="tv"/></l><r>basta<s n="v"/><s n="tv"/></r></p></e>
+	<e><p><l>баста<s n="v"/><s n="tv"/></l><r>basla<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>бер<s n="v"/><s n="tv"/></l><r>ber<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>бүйт<s n="v"/><s n="tv"/></l><r>bu'yt<s n="v"/><s n="tv"/></r></p></e> <!-- "" NOTE: (tat) trimm -->
 	<e><p><l>біл<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>
@@ -3881,9 +3909,8 @@
     <e><p><l>әкел<s n="v"/><s n="tv"/></l><r>a'kel<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>әкет<s n="v"/><s n="tv"/></l><r>a'ket<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>екше<s n="v"/><s n="tv"/></l><r>tazala<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>екше<s n="v"/><s n="tv"/></l><r>sortlaw<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>екше<s n="v"/><s n="tv"/></l><r>sortla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>екше<s n="v"/><s n="tv"/></l><r>ajırat<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>екше<s n="v"/><s n="tv"/></l><r>oylaw<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>еле<s n="v"/><s n="tv"/></l><r>ele<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>елікте<s n="v"/><s n="tv"/></l><r>elikle<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>әлпеште<s n="v"/><s n="tv"/></l><r>a'lpeshle<s n="v"/><s n="tv"/></r></p></e>
@@ -4295,7 +4322,7 @@
     <e><p><l>таңда<s n="v"/><s n="tv"/></l><r>tan'la<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>таңсықтан<s n="v"/><s n="tv"/></l><r>qattıg'a<b/>umtıl<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>таны<s n="v"/><s n="tv"/></l><r>tanı<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>таным<s n="n"/></l><r>an'law<s n="n"/></r></p></e>
+    <e><p><l>таным<s n="n"/></l><r>an'la<s n="n"/></r></p></e>
     <e><p><l>таныстыр<s n="v"/><s n="tv"/></l><r>tanıstır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>таныт<s n="v"/><s n="tv"/></l><r>tanıt<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>тап<s n="v"/><s n="tv"/></l><r>tap<s n="v"/><s n="tv"/></r></p></e>
@@ -4464,6 +4491,13 @@
 
     <!-- SECTION: Verbs iv -->
 
+    <e><p><l>монополиялан<s n="v"/><s n="iv"/></l><r>monopoliyalan<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырландыр<s n="v"/><s n="iv"/></l><r>jıynaldır<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырландыр<s n="v"/><s n="iv"/></l><r>toplandır<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырландыр<s n="v"/><s n="iv"/></l><r>ja'mlendir<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырлан<s n="v"/><s n="iv"/></l><r>jıynal<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырлан<s n="v"/><s n="iv"/></l><r>toplan<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>шоғырлан<s n="v"/><s n="iv"/></l><r>ja'mlen<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>жылжы<s n="v"/><s n="iv"/></l><r>jıljı<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>жасырын<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>жасырын<s n="v"/><s n="iv"/></l><r>jasırın<s n="v"/><s n="iv"/></r></p></e>
@@ -4920,7 +4954,7 @@
     <e><p><l>қызған<s n="v"/><s n="iv"/></l><r>qızg'an<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қызық<s n="v"/><s n="iv"/></l><r>qızıq<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қызықсын<s n="v"/><s n="iv"/></l><r>qızıqsın<s n="v"/><s n="iv"/></r></p></e>
-    <e><p><l>қыраулан<s n="v"/><s n="iv"/></l><r>qıraw<b/>bas<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>қыраулан<s n="v"/><s n="iv"/></l><r>qıra<b/>bas<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қырқылда<s n="v"/><s n="iv"/></l><r>qırılda<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қырқыс<s n="v"/><s n="iv"/></l><r>qırqıs<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қырсыздан<s n="v"/><s n="iv"/></l><r>biykar<b/>ju'r<s n="v"/><s n="iv"/></r></p></e>
@@ -5203,6 +5237,22 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Ұлыбритания<s n="np"/><s n="top"/></l><r>Ullı<b/>Britaniya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Мицубиси<s n="np"/><s n="top"/></l><r>Mitsubisi<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>бэнк<s n="np"/><s n="top"/></l><r>bank<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Сумитомо<s n="np"/><s n="top"/></l><r>Sumitomo<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Нэшнл<s n="np"/><s n="top"/></l><r>Nashnl<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Вестминстер<s n="np"/><s n="top"/></l><r>Vestminster<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Барклейз<s n="np"/><s n="top"/></l><r>Barkleyz<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Мидлэнд<s n="np"/><s n="top"/></l><r>Midlend<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Ллоидз<s n="np"/><s n="top"/></l><r>LLoidz<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Нью-Йорк<s n="np"/><s n="top"/></l><r>Nyu-York<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Кемикл<s n="np"/><s n="top"/></l><r>Kemikl<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Боинг<s n="np"/><s n="top"/></l><r>Boing<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Геркулес<s n="np"/><s n="top"/></l><r>Gerkules<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Монсанто<s n="np"/><s n="top"/></l><r>Monsanto<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Орал<s n="np"/><s n="top"/></l><r>Oral<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Чейз<b/>Манхеттен<s n="np"/><s n="top"/></l><r>Cheyz<b/>Manxetten<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Германия<s n="np"/><s n="top"/></l><r>Germaniya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Нидерланд<s n="np"/><s n="top"/></l><r>Niderland<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Арал<s n="np"/><s n="top"/></l><r>Aral<s n="np"/><s n="top"/></r></p></e>
