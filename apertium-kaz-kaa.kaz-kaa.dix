@@ -342,6 +342,19 @@
 
     <!-- SECTION: Nouns -->
 
+    <e><p><l>одақ<s n="n"/></l><r>awqam<s n="n"/></r></p></e>
+    <e><p><l>өкілдік<s n="n"/></l><r>wa'killik<s n="n"/></r></p></e>
+    <e><p><l>өкілдік<s n="n"/></l><r>tolıq<b/>erik<s n="n"/></r></p></e>
+    <e><p><l>уәкілеттік<s n="n"/></l><r>wa'killik<s n="n"/></r></p></e>
+    <e><p><l>уәкілеттік<s n="n"/></l><r>wa'kiletlik<s n="n"/></r></p></e>
+    <e><p><l>жарлық<s n="n"/></l><r>buyrıq<s n="n"/></r></p></e>
+    <e><p><l>жарлық<s n="n"/></l><r>jarlıq<s n="n"/></r></p></e>
+    <e><p><l>жарналық<s n="n"/></l><r>u'les<s n="n"/></r></p></e>
+    <e><p><l>жарналық<s n="n"/></l><r>vznos<s n="n"/></r></p></e>
+    <e><p><l>вексель<s n="n"/></l><r>veksel<s n="n"/></r></p></e>
+    <e><p><l>норматив<s n="n"/></l><r>normativ<s n="n"/></r></p></e>
+    <e><p><l>перспектива<s n="n"/></l><r>perspektiva<s n="n"/></r></p></e>
+    <e><p><l>капитализм<s n="n"/></l><r>kapitalizm<s n="n"/></r></p></e>
     <e><p><l>саудагер<s n="n"/></l><r>sawdager<s n="n"/></r></p></e>
     <e><p><l>монополия<s n="n"/></l><r>monopoliya<s n="n"/></r></p></e>
     <e><p><l>уыс<s n="n"/></l><r>qısım<s n="n"/></r></p></e>
@@ -2706,6 +2719,16 @@
 
     <!-- SECTION: Adjectives -->
 
+    <e><p><l>бұрынғы<s n="adj"/></l><r>burıng'ı<s n="adj"/></r></p></e>
+    <e><p><l>кейінгі<s n="adj"/></l><r>keyingi<s n="adj"/></r></p></e>
+    <e><p><l>дербес<s n="adj"/></l><r>bo'lek<s n="adj"/></r></p></e>
+    <e><p><l>дербес<s n="adj"/></l><r>jekke<s n="adj"/></r></p></e>
+    <e><p><l>дербес<s n="adj"/></l><r>o'z<s n="adj"/></r></p></e>
+    <e><p><l>дербес<s n="adj"/></l><r>ga'rezsiz<s n="adj"/></r></p></e>
+    <e><p><l>құқылы<s n="adj"/></l><r>huqıqlı<s n="adj"/></r></p></e>
+    <e><p><l>коммерциялық-несиелік<s n="adj"/></l><r>kommertsiyalıq-nesiyelik<s n="adj"/></r></p></e>
+    <e><p><l>несиелік<s n="adj"/></l><r>nesiyelik<s n="adj"/></r></p></e>
+    <e><p><l>перспективалық<s n="adj"/></l><r>perspektivalıq<s n="adj"/></r></p></e>
     <e><p><l>мерзімді<s n="adj"/></l><r>belgili<s n="adj"/></r></p></e>
     <e><p><l>мерзімді<s n="adj"/></l><r>mezgilli<s n="adj"/></r></p></e>
     <e><p><l>монополиялық<s n="adj"/></l><r>monopoliyalıq<s n="adj"/></r></p></e>
@@ -3475,6 +3498,8 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>бұрын<s n="adv"/></l><r>burın<s n="adv"/></r></p></e>
+    <e><p><l>кейін<s n="adv"/></l><r>keyin<s n="adv"/></r></p></e>
     <e><p><l>етене<s n="adv"/></l><r>jaqınnan<s n="adv"/></r></p></e>
     <e><p><l>жәй<s n="adv"/></l><r>jay<s n="adv"/></r></p></e>
     <e><p><l>жәй<s n="adv"/></l><r>a'piwayı<s n="adv"/></r></p></e>
@@ -3693,6 +3718,9 @@
 
     <!-- SECTION: Verbs tv -->
 
+    <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>jıynaldır<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>toplandır<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>ja'mlendir<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>жинақта<s n="v"/><s n="tv"/></l><r>jıynа<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>көмектес<s n="v"/><s n="tv"/></l><r>ko'mekles<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>біріктір<s n="v"/><s n="tv"/></l><r>biriktir<s n="v"/><s n="tv"/></r></p></e>
@@ -4491,6 +4519,8 @@
 
     <!-- SECTION: Verbs iv -->
 
+    <e><p><l>ұлғай<s n="v"/><s n="iv"/></l><r>u'lkey<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>қысқар<s n="v"/><s n="iv"/></l><r>qısqar<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>монополиялан<s n="v"/><s n="iv"/></l><r>monopoliyalan<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>шоғырландыр<s n="v"/><s n="iv"/></l><r>jıynaldır<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>шоғырландыр<s n="v"/><s n="iv"/></l><r>toplandır<s n="v"/><s n="iv"/></r></p></e>
@@ -5237,6 +5267,15 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Омбы<s n="np"/><s n="top"/></l><r>Ombı<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Петропавл<s n="np"/><s n="top"/></l><r>Petropavl<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Семей<s n="np"/><s n="top"/></l><r>Semey<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Верный<s n="np"/><s n="top"/></l><r>Verniy<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Дойче<s n="np"/><s n="top"/></l><r>Doyche<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Интеринвестбанк<s n="np"/><s n="top"/></l><r>Interinvestbank<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Крамдсбанк<s n="np"/><s n="top"/></l><r>Kramdsbank<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Қазкоммерцбанк<s n="np"/><s n="top"/></l><r>Qazkommertsbank<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Тұранәлембанк<s n="np"/><s n="top"/></l><r>Turana'lembank<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Ұлыбритания<s n="np"/><s n="top"/></l><r>Ullı<b/>Britaniya<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Мицубиси<s n="np"/><s n="top"/></l><r>Mitsubisi<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>бэнк<s n="np"/><s n="top"/></l><r>bank<s n="np"/><s n="top"/></r></p></e>
@@ -5308,6 +5347,7 @@
 
     <!-- SECTION: Adverbial conjunctions -->
 
+    <e><p><l>пікірінше<s n="cnjadv"/></l><r>pikirinshe<s n="cnjadv"/></r></p></e>
     <e><p><l>алайда<s n="cnjadv"/></l><r>degen<b/>menen<s n="cnjadv"/></r></p></e>
     <e><p><l>алайда<s n="cnjadv"/></l><r>lekin<s n="cnjadv"/></r></p></e>
     <e><p><l>әйтпесе<s n="cnjadv"/></l><r>bolmasa<s n="cnjadv"/></r></p></e>
@@ -5328,6 +5368,9 @@
 
     <!-- SECTION: Abbreviations -->
 
+    <e><p><l>КСРО<s n="abbr"/></l><r>KSRA<s n="abbr"/></r></p></e>
+    <e><p><l>ҚР<s n="abbr"/></l><r>QR<s n="abbr"/></r></p></e>
+    <e><p><l>төм.<s n="abbr"/></l><r>to'm.<s n="abbr"/></r></p></e>
     <e><p><l>т.с.с.<s n="abbr"/></l><r>t.s.s.<s n="abbr"/></r></p></e>
     <e><p><l>акцион.<s n="abbr"/></l><r>aktsion.<s n="abbr"/></r></p></e>
     <e><p><l>б.з.б.<s n="abbr"/></l><r>b.z.b.<s n="abbr"/></r></p></e>
@@ -5342,7 +5385,8 @@
     <e><p><l>мемл<s n="abbr"/></l><r>ma'ml<s n="abbr"/></r></p></e>
     <e><p><l>КОКП<s n="abbr"/></l><r>SBKP<s n="abbr"/></r></p></e>
     <e><p><l>ҚКП<s n="abbr"/></l><r>QKP<s n="abbr"/></r></p></e>
-
+    <e><p><l>млн<s n="abbr"/></l><r>mln<s n="abbr"/></r></p></e>
+    <e><p><l>млрд<s n="abbr"/></l><r>mlrd<s n="abbr"/></r></p></e>  <!-- "million" -->
     <!-- SECTION: Punctuation -->
     
     <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
