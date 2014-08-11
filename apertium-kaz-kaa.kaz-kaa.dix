@@ -342,6 +342,35 @@
 
     <!-- SECTION: Nouns -->
 
+    <e><p><l>пединститут<s n="n"/></l><r>pedinstitut<s n="n"/></r></p></e>
+    <e><p><l>айналыс<s n="n"/></l><r>aynalıs<s n="n"/></r></p></e>
+    <e><p><l>метал<s n="n"/></l><r>metal<s n="n"/></r></p></e>
+    <e><p><l>металл<s n="n"/></l><r>metall<s n="n"/></r></p></e>
+    <e><p><l>артықшылық<s n="n"/></l><r>artıqshılıq<s n="n"/></r></p></e>
+    <e><p><l>ссуда<s n="n"/></l><r>ko'mek<s n="n"/></r></p></e>
+    <e><p><l>ссуда<s n="n"/></l><r>qarız<s n="n"/></r></p></e>
+    <e><p><l>феодализм<s n="n"/></l><r>feodalizm<s n="n"/></r></p></e>
+    <e><p><l>ақиқаттық<s n="n"/></l><r>haqıyqatlıq<s n="n"/></r></p></e>
+    <e><p><l>алан<s n="n"/></l><r>ken'islik<s n="n"/></r></p></e>
+    <e><p><l>мәнет<s n="n"/></l><r>aqsha<s n="n"/></r></p></e>
+    <e><p><l>мәнет<s n="n"/></l><r>pul<s n="n"/></r></p></e>
+    <e><p><l>мәнет<s n="n"/></l><r>ten'ge<s n="n"/></r></p></e>
+    <e><p><l>мәнет<s n="n"/></l><r>moneta<s n="n"/></r></p></e>
+    <e><p><l>сауда-саттық<s n="n"/></l><r>sawda-satıq<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>pishin<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>sıqıl<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>sımbat<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>kelbet<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>qa'lip<s n="n"/></r></p></e>
+    <e><p><l>нысан<s n="n"/></l><r>forma<s n="n"/></r></p></e>
+    <e><p><l>салым<s n="n"/></l><r>bo'liw<s n="n"/></r></p></e>
+    <e><p><l>салым<s n="n"/></l><r>bo'listiriw<s n="n"/></r></p></e>
+    <e><p><l>салым<s n="n"/></l><r>amanat<s n="n"/></r></p></e>
+    <e><p><l>банкир<s n="n"/></l><r>bankir<s n="n"/></r></p></e>
+    <e><p><l>мануфактура<s n="n"/></l><r>manufaktura<s n="n"/></r></p></e>
+    <e><p><l>институт<s n="n"/></l><r>institut<s n="n"/></r></p></e>
+    <e><p><l>жиробанк<s n="n"/></l><r>jirobank<s n="n"/></r></p></e>
+    <e><p><l>монета<s n="n"/></l><r>moneta<s n="n"/></r></p></e>
     <e><p><l>одақ<s n="n"/></l><r>awqam<s n="n"/></r></p></e>
     <e><p><l>өкілдік<s n="n"/></l><r>wa'killik<s n="n"/></r></p></e>
     <e><p><l>өкілдік<s n="n"/></l><r>tolıq<b/>erik<s n="n"/></r></p></e>
@@ -3498,6 +3527,7 @@
 
     <!-- SECTION: Adverbs -->
 
+    <e><p><l>қолма-қол<s n="adv"/></l><r>qolma-qol<s n="adv"/></r></p></e>
     <e><p><l>бұрын<s n="adv"/></l><r>burın<s n="adv"/></r></p></e>
     <e><p><l>кейін<s n="adv"/></l><r>keyin<s n="adv"/></r></p></e>
     <e><p><l>етене<s n="adv"/></l><r>jaqınnan<s n="adv"/></r></p></e>
@@ -3718,6 +3748,9 @@
 
     <!-- SECTION: Verbs tv -->
 
+    <e><p><l>айырбаста<s n="v"/><s n="tv"/></l><r>almastır<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>айырбаста<s n="v"/><s n="tv"/></l><r>awıstır<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>айырбаста<s n="v"/><s n="tv"/></l><r>ayırbasla<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>jıynaldır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>toplandır<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>шоғырландыр<s n="v"/><s n="tv"/></l><r>ja'mlendir<s n="v"/><s n="tv"/></r></p></e>
@@ -4519,6 +4552,8 @@
 
     <!-- SECTION: Verbs iv -->
 
+    <e><p><l>айнал<s n="v"/><s n="iv"/></l><r>aynal<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>айналыс<s n="v"/><s n="iv"/></l><r>aynalıs<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>ұлғай<s n="v"/><s n="iv"/></l><r>u'lkey<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>қысқар<s n="v"/><s n="iv"/></l><r>qısqar<s n="v"/><s n="iv"/></r></p></e>
     <e><p><l>монополиялан<s n="v"/><s n="iv"/></l><r>monopoliyalan<s n="v"/><s n="iv"/></r></p></e>
@@ -5262,11 +5297,56 @@
 
     <!-- SECTION: Interjections -->
 
+    <e><p><l>aйтпaқшы<s n="ij"/></l><r>aytpaqshı<s n="ij"/></r></p></e>
+    <e><p><l>бәлкім<s n="ij"/></l><r><b/>ba'lkim<s n="ij"/></r></p></e>
+    <e><p><l>eсeсінe<s n="ij"/></l><r>esesine<s n="ij"/></r></p></e>
+    <e><p><l>мәсeлeн<s n="ij"/></l><r>ma'selen<s n="ij"/></r></p></e>
+    <e><p><l>мысaлы<s n="ij"/></l><r>mısalı<s n="ij"/></r></p></e>
+    <e><p><l>aу<s n="ij"/></l><r>aw<s n="ij"/></r></p></e>
+    <e><p><l>aмин<s n="ij"/></l><r>amin<s n="ij"/></r></p></e>
+    <e><p><l>ә<s n="ij"/></l><r>a'<s n="ij"/></r></p></e>
+    <e><p><l>әй<s n="ij"/></l><r>a'y<s n="ij"/></r></p></e>
+    <e><p><l>әйe<s n="ij"/></l><r>a'ye<s n="ij"/></r></p></e>
+    <e><p><l>әринe<s n="ij"/></l><r>a'lbette<s n="ij"/></r></p></e>
+    <e><p><l>әттeгeн-aй<s n="ij"/></l><r>a'ttegen-ay<s n="ij"/></r></p></e>
+    <e><p><l>әттeң<s n="ij"/></l><r>a'tten'<s n="ij"/></r></p></e>
+    <e><p><l>әу<s n="ij"/></l><r>a'w<s n="ij"/></r></p></e>
+    <e><p><l>бәрeкeлді<s n="ij"/></l><r>ba'rekella<s n="ij"/></r></p></e>
+    <e><p><l>бәсe<s n="ij"/></l><r>solay<s n="ij"/></r></p></e>
+    <e><p><l>бoлыпты<s n="ij"/></l><r>bolıptı<s n="ij"/></r></p></e>
+    <e><p><l>дaриғa<s n="ij"/></l><r>dariyg'a<s n="ij"/></r></p></e>
+    <e><p><l>дeмeк<s n="ij"/></l><r>demek<s n="ij"/></r></p></e>
+    <e><p><l>дұрыс<s n="ij"/></l><r>durıs<s n="ij"/></r></p></e>
+    <e><p><l>e<s n="ij"/></l><r>e<s n="ij"/></r></p></e>
+    <e><p><l>жaрaйды<s n="ij"/></l><r>jaraydı<s n="ij"/></r></p></e>
+    <e><p><l>иә<s n="ij"/></l><r>awa<s n="ij"/></r></p></e>
+    <e><p><l>қaнe<s n="ij"/></l><r>qane<s n="ij"/></r></p></e>
+    <e><p><l>қoш<s n="ij"/></l><r>xosh<s n="ij"/></r></p></e>
+    <e><p><l>Құдaй-aй<s n="ij"/></l><r>Quday-ay<s n="ij"/></r></p></e>
+    <e><p><l>мaқұл<s n="ij"/></l><r>maqul<s n="ij"/></r></p></e>
+    <e><p><l>мә<s n="ij"/></l><r>ma'<s n="ij"/></r></p></e>
+    <e><p><l>мeйлі<s n="ij"/></l><r>meyli<s n="ij"/></r></p></e>
+    <e><p><l>мінe<s n="ij"/></l><r>mine<s n="ij"/></r></p></e>
+    <e><p><l>мынa<s n="ij"/></l><r>mına<s n="ij"/></r></p></e>
+    <e><p><l>oйбaй<s n="ij"/></l><r>oybay<s n="ij"/></r></p></e>
+    <e><p><l>oй<s n="ij"/></l><r>oy<s n="ij"/></r></p></e>
+    <e><p><l>өй<s n="ij"/></l><r>o'y<s n="ij"/></r></p></e>
+    <e><p><l>өтінeм<s n="ij"/></l><r>o'tinemen<s n="ij"/></r></p></e>
+    <e><p><l>түсінікті<s n="ij"/></l><r>tu'sinikli<s n="ij"/></r></p></e>
+    <e><p><l>уa<s n="ij"/></l><r>wa<s n="ij"/></r></p></e>
 	<e><p><l>әлбетте<s n="ij"/></l><r>a'lbette<s n="ij"/></r></p></e>
 	<e><p><l>жоқ<s n="ij"/></l><r>joq<s n="ij"/></r></p></e>
+    <e><p><l>ей<s n="ij"/></l><r>ey<s n="ij"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
+    <e><p><l>Венеция<s n="np"/><s n="top"/></l><r>Venetsiya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Генуя<s n="np"/><s n="top"/></l><r>Genuya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Венеция<s n="np"/><s n="top"/></l><r>Venetsiya<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Милан<s n="np"/><s n="top"/></l><r>Milan<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Амстердам<s n="np"/><s n="top"/></l><r>Amsterdam<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Гамбург<s n="np"/><s n="top"/></l><r>Gamburg<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Нюрнберг<s n="np"/><s n="top"/></l><r>Nyurnberg<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Омбы<s n="np"/><s n="top"/></l><r>Ombı<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Петропавл<s n="np"/><s n="top"/></l><r>Petropavl<s n="np"/><s n="top"/></r></p></e>
     <e><p><l>Семей<s n="np"/><s n="top"/></l><r>Semey<s n="np"/><s n="top"/></r></p></e>
