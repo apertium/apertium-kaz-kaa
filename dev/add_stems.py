@@ -15,7 +15,8 @@ fordix = {
 		'NP-TOP' : '<e><p><l>[1]<s n="np"/><s n="top"/></l><r>[2]<s n="np"/><s n="top"/></r></p></e>',
 		'NP-ANT-M' : '<e><p><l>[1]<s n="np"/><s n="ant"/><s n="m"/></l><r>[2]<s n="np"/><s n="ant"/><s n="m"/></r></p></e>',
 		'NP-COG-MF' : '<e><p><l>[1]<s n="np"/><s n="cog"/><s n="mf"/></l><r>[2]<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>',
-		'ABBR' : '<e><p><l>[1]<s n="abbr"/></l><r>[2]<s n="abbr"/></r></p></e>'
+		'ABBR' : '<e><p><l>[1]<s n="abbr"/></l><r>[2]<s n="abbr"/></r></p></e>',
+		'INTERJ' : '<e><p><l>[1]<s n="ij"/></l><r>[2]<s n="ij"/></r></p></e>'
 		}
 
 def proc_lexc(s): #{
@@ -83,7 +84,7 @@ for line in sys.stdin.readlines(): #{
 
 
 	linedix = proc_dix(row[1]);
-	file_dix.write(fordix[symbol].replace('[1]', row[0]).replace('[2]', linedix) + "\n");
+	file_dix.write("\t" + fordix[symbol].replace('[1]', row[0]).replace('[2]', linedix) + "\n");
 	# proc_line = "\t" + fordix[symbol].replace('[1]', row[0]).replace('[2]', linedix) + "\n";
 
 	# inserted = False;
