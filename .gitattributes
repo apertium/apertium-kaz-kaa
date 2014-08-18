@@ -42,6 +42,7 @@ testvoc/lite/testvoc.sh -text
 testvoc/standard/inconsistency-summary.sh -text
 testvoc/standard/inconsistency.sh -text
 testvoc/standard/testvoc.sh -text
+texts/bank.kaa.txt -text
 texts/buddizm.kaa.txt -text
 texts/buddizm.kaz.txt -text svneol=unset#application/octet-stream
 texts/business_movie.kaa.txt -text
