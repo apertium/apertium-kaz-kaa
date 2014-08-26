@@ -1,0 +1,52 @@
+CONF: EAMT2015
+
+AUTHORS:
+
+Beknaz
+Atabek
+JNW
+FMT
+
+* Why ? 
+** -- Kaz & kaa are very close
+** -- Wikipedia localisation for Kaa based on kaz
+** -- Active Wikipedia community for Kaa who were interested in translating from bigger, kaz wiki
+
+* Kazakh is biggest Kypchak languages -- a group which includes N other langs
+* Oghuz is an outlier in Turkic.
+
+* Languages
+
+** Orthographies -- kaa ;(
+
+* Linguistic examples
+
+** Differences in phonology
+** Differences in morphology
+** Lexical differences
+** Syntactic differences (or preferences) --- if any
+
+* Data reuse
+
+** Pipeline: 
+
+** kaz-tat analysis | kaz-tat tagger | kaz-kaa bidix | kaz-kaa lexsel | kaz-kaa rules | kaz-kaa generation
+
+* How bidix was built
+** Show % of words that were successfully transliterated
+
+** Coverage
+
+** WER/BLEU
+
+* Compare transliteration and MT 
+** Can we compare character-based SMT ?
+** kaz-kaa + translit
+** kaz-kaa + cbsmt
+
+* Evaluation 
+
+* Future work
+
+** Uzb->Kaa
+** Kypchak-Kypchak

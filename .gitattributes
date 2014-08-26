@@ -32,6 +32,7 @@ dev/process-tsv.py -text
 dev/proper-nouns.dix -text
 dev/words_to_add.txt -text
 /modes.xml -text
+paper/notes.txt -text
 /qa.sh -text
 test-scripts/all.test -text
 test-scripts/kaa-kaz-corp.test -text
