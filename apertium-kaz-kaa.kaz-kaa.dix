@@ -1140,7 +1140,8 @@
     <e><p><l>жолсерік<s n="n"/></l><r>provodnik<s n="n"/></r></p></e>
     <e><p><l>жорамал<s n="n"/></l><r>boljaw<s n="n"/></r></p></e>
     <e><p><l>жорға<s n="n"/></l><r>jorǵa<s n="n"/></r></p></e>
-    <e><p><l>жоспар<s n="n"/></l><r>joba<s n="n"/></r></p></e>
+    <e r="RL"><p><l>жоспар<s n="n"/></l><r>joba<s n="n"/></r></p></e>
+    <e><p><l>жоспар<s n="n"/></l><r>reje<s n="n"/></r></p></e>
     <e><p><l>жота<s n="n"/></l><r>arqa<s n="n"/></r></p></e>
     <e><p><l>процесс<s n="n"/></l><r>protsess<s n="n"/></r></p></e>
     <e><p><l>жөн<s n="n"/></l><r>jón<s n="n"/></r></p></e>
