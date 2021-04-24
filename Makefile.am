@@ -15,26 +15,12 @@ TARGETS_COMMON = $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
         $(PREFIX1).rlx.bin $(PREFIX2).rlx.bin \
         $(PREFIX1).lrx.bin $(PREFIX2).lrx.bin
 
+# this defines goals for .deps, modes, and autobil.prefixes
 @ap_include@
-
-# Use this goal for creating .deps, otherwise make -j2 will give problems:
-.deps/.d:
-	if [ ! -d .deps ]; then $(MKDIR_P) .deps; fi
-	touch $@
-
-# Prevent the .d file from being removed automatically:
-.PRECIOUS: .deps/.d
 
 ###############################################################################
 ## Kazakh→Karakalpak monolingual transducers
 ###############################################################################
-
-.deps/$(PREFIX1).autobil.prefixes: $(PREFIX1).autobil.bin .deps/.d
-	lt-print $(PREFIX1).autobil.bin | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX1).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX1).autobil.att > .deps/$(PREFIX1).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX1).autobil.hfst > .deps/$(PREFIX1).autobil.upper
-	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
-	hfst-concatenate -1 .deps/$(PREFIX1).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX1).autobil.prefixes
 
 $(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.att.gz .deps/$(PREFIX1).autobil.prefixes .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > .deps/$(LANG1).automorf.hfst
@@ -51,13 +37,6 @@ $(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
 ###############################################################################
 ## Karakalpak→Kazakh monolingual transducers
 ###############################################################################
-
-.deps/$(PREFIX2).autobil.prefixes: $(PREFIX2).autobil.bin .deps/.d
-	lt-print $(PREFIX2).autobil.bin | sed 's/ /@_SPACE_@/g' > .deps/$(PREFIX2).autobil.att
-	hfst-txt2fst -e ε <  .deps/$(PREFIX2).autobil.att > .deps/$(PREFIX2).autobil.hfst
-	hfst-project -p upper .deps/$(PREFIX2).autobil.hfst > .deps/$(PREFIX2).autobil.upper
-	echo " ?* " | hfst-regexp2fst > .deps/any-symbol.hfst
-	hfst-concatenate -1 .deps/$(PREFIX2).autobil.upper -2 .deps/any-symbol.hfst -o .deps/$(PREFIX2).autobil.prefixes
 
 $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.att.gz .deps/$(PREFIX2).autobil.prefixes .deps/.d
 	$(ZCAT) $< | hfst-txt2fst > .deps/$(LANG2).automorf.hfst
@@ -154,17 +133,17 @@ apertium_kaz_kaadir=$(prefix)/share/apertium/$(BASENAME)/
 # $(PREFIX1).prob $(PREFIX2).prob 
 
 apertium_kaz_kaa_DATA=$(TARGETS_COMMON) \
-		    modes.xml
+		    modes.xml \
+			$(BASENAME).$(PREFIX1).t1x \
+			$(BASENAME).$(PREFIX1).t2x \
+			$(BASENAME).$(PREFIX2).t1x \
+			$(BASENAME).$(PREFIX2).t2x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
 
 install-data-local: install-modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_kaz_kaadir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_kaz_kaadir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_kaz_kaadir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_kaz_kaadir)
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local: 
