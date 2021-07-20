@@ -29,3 +29,12 @@
 /missing
 /modes
 /ap_include.am
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/*-*.prob
+/config.in
+/config
+/test/*-output.txt
